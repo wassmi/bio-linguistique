@@ -1,0 +1,4 @@
+Marathi	GHASNE
+Gujarati	GHESWU
+Bengali	GHOSA
+Nepali_List	GHASNU

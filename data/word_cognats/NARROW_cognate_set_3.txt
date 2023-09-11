@@ -1,0 +1,16 @@
+Romanian_List	STRIMT
+Vlach	STRIMTU
+Italian	STRETTO
+Ladin	STRET
+Provencal	ESTRE
+French	ETROIT
+Walloon	STREUT
+French_Creole_C	ETHWET
+French_Creole_D	ETWET
+Sardinian_N	ASTRINTU
+Sardinian_L	ISTRINTU
+Sardinian_C	STRINTU
+Spanish	ESTRECHO
+Portuguese_ST	ESTREITO
+Brazilian	ESTREITO
+Catalan	ESTRET

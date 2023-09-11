@@ -1,0 +1,12 @@
+Danish	person	b̥ʰæɐ̯ˈson
+Norwegian	person	pæˈʂu:n
+Swedish	person	pæˈʂu:n
+English	person	'pɜ:sən
+French	personne	pɛʀsɔn
+Dutch_List	persoon	ˈpɛrson
+Italian	persona	per'sona
+Catalan	persona	pəɾˈsonə
+Gutnish_Lau	parsaun	pɛrˈsoun
+Faroese	personur	pɛˈʂɔuːnʊɹ
+Danish_Fjolde	pesoon	pəˈsoːn
+Icelandic_St	persóna	pʰɛrˈsouːna

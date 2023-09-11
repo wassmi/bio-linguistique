@@ -1,0 +1,7 @@
+Marathi	HUNGNE.
+Gujarati	SUGHEWU
+Panjabi_ST	SUNGENA
+Lahnda	SUNNEN
+Hindi	SUGHNA
+Nepali_List	SUNNU
+Khaskura	SUNGNU

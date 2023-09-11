@@ -1,0 +1,8 @@
+Marathi	HEVA
+Lahnda	HEWA
+Hindi	HEVA
+Bengali	HAOA
+Kashmiri	WAV
+Panjabi_ST	VA
+Hindi	VAYU
+Bengali	BAIU

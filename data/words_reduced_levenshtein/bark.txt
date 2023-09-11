@@ -1,0 +1,13 @@
+Old_Norse	borkr	bɔrkr
+Icelandic_St	borkur	ˈb̥œr̥kʏr
+Faroese	borkur	ˈb̥œɹ̥kʊɹ
+Norwegian	bark	baɾk
+Stavangersk	bark	bɔʁk
+Old_Swedish	barker	ˈbarker
+Swedish	bark	bark
+Övdalian	bark	bɑrk
+Danish	bark	b̥ɑːg̥ʰ
+Danish_Fjolde	barek	ˈbɑɹəɡ
+Gutnish_Lau	bark	bark
+English	bark	bɑ:k
+German	Borke	'bɔrkə

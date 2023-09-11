@@ -1,0 +1,14 @@
+German	Bauch	baŭx
+English	belly	bɛlɪ
+Gutnish_Lau	bauk	bɛuk
+Dutch_List	buik	bœyk
+Old_Irish	bolg	bolg
+Danish	bug	b̥uˀ
+Swedish	buk	bʉ:k
+Stavangersk	buɡ	bʉːɡ
+Norwegian	buk	bʉːk
+Old_Swedish	buker	ˈbuːker
+Icelandic_St	bukur	ˈb̥uːkʰʏr
+Faroese	bukur	ˈb̥uːkʊɹ
+Danish_Fjolde	buk	buɡ
+Frisian	buk	buk

@@ -1,0 +1,6 @@
+Welsh_N	RHODDI
+Welsh_C	RHOI
+Breton_List	REI
+Breton_List	AOTREN
+Breton_SE	REIN
+Breton_ST	REIN

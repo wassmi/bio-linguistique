@@ -1,0 +1,4 @@
+Dutch_List	DRIJVEN
+Afrikaans	DRYF
+Afrikaans	DRYWE
+Flemish	DRYVEN

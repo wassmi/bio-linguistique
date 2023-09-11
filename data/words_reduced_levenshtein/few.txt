@@ -1,0 +1,15 @@
+Old_Norse	far	faːr
+Old_Swedish	far	faːr
+Icelandic_St	fair	ˈfauːɪr
+Danish	fa	fɔˀ
+Övdalian	faer	ˈfɔ̀ːɛr
+Faroese	fair	ˈfɔaːjɪɹ
+English	few	fju:
+Norwegian	fa	foː
+Swedish	fa	foː
+Stavangersk	fae	ˈfoː(ə)
+Catalan	poc	pɔk
+Italian	poco	'pɔko
+French	peu	pø
+Portuguese_St	pouco	ˈpo(ou)ku
+Spanish	poco	'poko

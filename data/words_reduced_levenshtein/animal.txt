@@ -1,0 +1,12 @@
+English	animal	'ænɪməl
+Breton_St	aneval	ɑ̃ˈneval
+French	animal	animal
+Spanish	animal	ani'mal
+Portuguese_St	animal	ɐniˈmaɫ
+Italian	animale	ani'male
+Brazilian	animal	aniˈmau
+Old_Irish	anmandae	anṽan(d)e
+Cornish	enyval	ɛ'nɛval
+Catalan	animal	əni’mal
+Assamese	prani	prani
+Oriya	praṇi	praɳi

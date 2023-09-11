@@ -1,0 +1,4 @@
+Macedonian	SKEMBE
+Persian_List	SHEKAM
+Tadzik	SIKAM
+Tadzik	SIKAMBA

@@ -1,0 +1,10 @@
+Romanian_List	PASARE
+Spanish	PAJARO
+Kashmiri	PANKHI
+Marathi	PEKSI
+Gujarati	PENKHI
+Gujarati	PEKSI
+Panjabi_ST	PENCHI
+Hindi	PEKSI
+Bengali	PAKHI
+Khaskura	PANCHHI

@@ -1,0 +1,15 @@
+Dutch_List	WETEN
+Afrikaans	WEET
+Flemish	WETEN
+Frisian	WITTEN
+Swedish_Up	VETA
+Swedish_VL	VETA
+Swedish_List	VETA
+Danish	VIDE
+Riksmal	VITE
+Icelandic_ST	VITA
+Faroese	VITA
+Czech	VEDETI
+Slovak	VEDIET
+Czech_E	VEDET
+Byelorussian	VEDAC*

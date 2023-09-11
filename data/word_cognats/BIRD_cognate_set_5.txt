@@ -1,0 +1,11 @@
+Italian	UCCELLO
+Ladin	UTSCHE
+Provencal	AUCEU
+French	OISEAU
+Walloon	OUHE
+French_Creole_C	ZWEZO
+French_Creole_D	ZWEZO
+Spanish	AVE
+Portuguese_ST	AVE
+Brazilian	AVE
+Catalan	AUCELL

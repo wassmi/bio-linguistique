@@ -1,0 +1,6 @@
+Old_Norse	snakr	snaːkr
+Faroese	snakur	ˈsnɔaːkʰʊɹ
+English	snake	sneɪk
+Danish	snog	snoˀ
+Danish_Fjolde	snuog	snuoɣ
+Icelandic_St	snakur	ˈstnauːkʰʏr

@@ -1,0 +1,12 @@
+Romani	SORO
+Panjabi_ST	SIR
+Lahnda	SIR
+Hindi	SIR
+Nepali_List	SIR
+Ossetic	SAER
+Afghan	SAR
+Waziri	SAR
+Persian_List	SAR
+Tadzik	SAR
+Baluchi	SAGHAR
+Wakhi	SER

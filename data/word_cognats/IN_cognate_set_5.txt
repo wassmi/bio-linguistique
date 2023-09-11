@@ -1,0 +1,6 @@
+Marathi	MEDHE
+Hindi	ME
+Armenian_Mod	MEJ
+Armenian_List	MECHE
+Albanian_G	ME
+Albanian_K	MENDA

@@ -1,0 +1,14 @@
+Romanian_List	TINE
+Italian	TENERE
+Ladin	TGNAIR
+Ladin	TEGNER
+Provencal	TENI
+French	TENIR
+Walloon	TINI
+Walloon	TINRE
+Sardinian_L	TENNERE
+Sardinian_C	TENNI
+Spanish	TENER
+Portuguese_ST	TER
+Brazilian	TER
+Catalan	TENIR

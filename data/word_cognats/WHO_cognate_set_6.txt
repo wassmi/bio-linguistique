@@ -1,0 +1,9 @@
+Albanian_T	KUSH
+Albanian_Top	KUS
+Albanian_G	KUSH
+Albanian_K	KUS
+ALbanian_C	KUS
+Lithuanian_O	KAS
+Lithuanian_ST	KAS
+Latvian	KAS
+Latvian	KURS

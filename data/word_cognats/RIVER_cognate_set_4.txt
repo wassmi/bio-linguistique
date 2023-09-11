@@ -1,0 +1,7 @@
+Romani	POTAMI
+Greek_ML	POTAMOS
+Greek_MD	POTAMI
+Greek_Mod	POTAMI
+Greek_D	POTAMOS
+Greek_D	POTAMI
+Greek_K	POTAMOS

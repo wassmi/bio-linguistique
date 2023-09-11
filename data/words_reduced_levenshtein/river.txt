@@ -1,0 +1,4 @@
+Frisian	rivier	rə'vi.ər
+English	river	'rɪvə
+Dutch_List	rivier	ri'vir
+French	rivière	ʀivjɛʀ

@@ -1,0 +1,8 @@
+Lusatian_L	LOJS
+Lusatian_U	LOJIC
+Czech	LOVITI
+Ukrainian	POLJUVATY
+Polish	POLOWAC
+Macedonian	LOV
+Bulgarian	DA-XODIS-NA-LOV
+Serbocroatian	LOVITI

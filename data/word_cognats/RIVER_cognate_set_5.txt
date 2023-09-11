@@ -1,0 +1,4 @@
+Breton_List	STEIR
+Breton_List	STER
+Breton_SE	STER
+Breton_ST	STER

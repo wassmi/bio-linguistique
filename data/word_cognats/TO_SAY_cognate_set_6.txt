@@ -1,0 +1,5 @@
+Slovenian	RECI
+Lusatian_L	RAC
+Lusatian_U	RJEC
+Czech	RICI
+Macedonian	RECE

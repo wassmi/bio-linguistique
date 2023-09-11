@@ -1,0 +1,7 @@
+Gujarati	CUSWU
+Panjabi_ST	CUSNA
+Lahnda	CHUSEN
+Hindi	CUSNA
+Bengali	CHOSA
+Nepali_List	CUSNU
+Khaskura	CHUSNU

@@ -1,0 +1,8 @@
+Greek_Mod	TULOGHUSAS
+Greek_ML	ESEIS
+Greek_MD	ESEIS
+Greek_MD	SEIS
+Greek_MD	SAS
+Greek_D	ESEIS
+Greek_D	SEIS
+Greek_K	SEIS

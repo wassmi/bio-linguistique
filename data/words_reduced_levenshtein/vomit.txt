@@ -1,0 +1,12 @@
+Assamese	bomikar	bɔmikɒr
+Bihari	bokar	bokar
+Spanish	vomitar	bomi'taɾ
+Catalan	vomitar	'bumi'ta
+Greek_Mod	emo	e̞ˈmo̞
+Ossetic	omyn	omɨn
+English	vomit	'vɑmɪt
+French	vomir	vɔmiʀ
+Italian	vomitare	vomi'tare
+Portuguese_St	vomitar	vumiˈtaɾ
+Iron_Ossetic	wom	wom-
+Digor_Ossetic	wom	wom-

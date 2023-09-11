@@ -1,0 +1,10 @@
+Lusatian_U	WUTREC
+Czech	UTIRATI
+Slovak	UTRET
+Czech_E	UTRIT
+Ukrainian	ZYRATY
+Ukrainian	VYTYRATY
+Byelorussian	VYCIRAC*
+Polish	WYCIERAC
+Russian	VYTIRAT
+Bulgarian	IZTRIVANE

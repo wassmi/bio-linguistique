@@ -1,0 +1,5 @@
+Tadzik	кафидан kæfidæn
+Swedish	splittra	'splitra
+English	split	splɪt
+Frisian	splitse	'splɪtsə
+Dutch_List	splijten	'splɛitə(n)

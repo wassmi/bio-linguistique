@@ -1,0 +1,19 @@
+Greek_Mod	dhendron	ˈðe̞n̪ðro̞n
+Bulgarian	dervo	dɤˈrvɔ
+Danish	trae	d̥ʰʁɛˀ
+Russian	derevo	'dʲerʲevo
+Old_Church_Slavonic	drev	drævo
+Serbian	drvo	drʋo
+Serbocroatian_P	drvo	dr̂ʋo
+Polish	drzewo	ˈdʒɛvɔ
+Faroese	træ	tʰɹɛaː
+Icelandic_St	tre	tʰrjɛː
+Old_Swedish	tra	træː
+Övdalian	trai	trɑɪ
+Swedish	trad	trɛ:(d)
+Old_Norse	tre	treː
+Stavangersk	tre	tʁeː
+Norwegian	tre	tɾeː
+Gutnish_Lau	trai	trɛɪ
+English	tree	tri:
+

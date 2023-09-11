@@ -1,0 +1,14 @@
+Slovenian	MAKRO
+Lusatian_L	MOKSY
+Lusatian_U	MOKRY
+Czech	MOKRY
+Slovak	MOKRY
+Czech_E	MOKRE
+Ukrainian	MOKRYJ
+Ukrainian	VOHKYJ
+Byelorussian	MOKRY
+Byelorussian	MOKRA
+Polish	MOKRY
+Russian	MOKRYJ
+Bulgarian	MOKRO
+Serbocroatian	MOKAR

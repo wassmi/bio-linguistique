@@ -1,0 +1,11 @@
+German_ST	GEDARM
+Dutch_List	DARM
+Afrikaans	DERM
+Flemish	DARMEN
+Swedish_Up	TARMAR
+Swedish_VL	TORMA
+Swedish_List	TARM
+Danish	TARM
+Riksmal	TARMER
+Icelandic_ST	THARMAR
+Faroese	TARMAR

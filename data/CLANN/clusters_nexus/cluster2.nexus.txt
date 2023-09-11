@@ -1,0 +1,15 @@
+#NEXUS
+
+BEGIN TAXA;
+    DIMENSIONS NTAX=2;
+    TAXLABELS
+        Animal
+        Smoke
+    ;
+END;
+
+BEGIN TREES;
+    TREE 1 = (Italian:0.6369,(English:0.0005,((Portuguese_St:0.0005,(Spanish:0.0005,Catalan:0.0005):0.0005):0.0005,(French:0.0005,Brazilian:0.0005):0.0005):0.0005):0.7916,((Breton_St:1.0328,Cornish:2.3007):0.9162,(Old_Irish:2.5446,(Assamese:0.4375,Oriya:1.5625):4.5803):1.8070):0.9333);
+    TREE 2 = (Old_Irish:4.8750,English:3.1250,(Cornish:1.8750,Breton_St:2.1250):0.8750);
+END;
+

@@ -1,0 +1,14 @@
+Icelandic_St	gefa	ˈcɛːva
+Övdalian	djava	ˈdʒæ̀vɔ
+Faroese	geva	ˈd̥ʒeːva
+German	geben	'ge:bn̩
+Old_Norse	gefa	ˈɡeva
+Dutch_List	geven	'ɣevə(n)
+Danish	give	g̥i
+Danish_Fjolde	gi	ɡi
+Gutnish_Lau	gi	ɡɪː
+Old_Swedish	giva	ˈɡiːva
+English	give	gɪv
+Swedish	ge	je:
+Stavangersk	je	jeː
+Norwegian	gi	jiː

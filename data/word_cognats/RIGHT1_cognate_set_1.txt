@@ -1,0 +1,10 @@
+Slovenian	PROV
+Lusatian_L	PSAWY
+Lusatian_U	PRAWY
+Czech	SPRAVNY
+Slovak	SPRAVNY
+Ukrainian	SPRAVEDLYVYJ
+Byelorussian	PRAVIDLOVY
+Russian	PRAVIL-NYJ
+Macedonian	PRAVILEN
+Serbocroatian	ISPRAVNO

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="1101" height="706" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g style="stroke:black;fill:lightgreen" transform="translate(30,30)">
+<line x1="763" y1="56" x2="763" y2="96" style="stroke:black; stroke-width:1"/>
+<line x1="763" y1="96" x2="935" y2="96" style="stroke:black; stroke-width:1"/>
+<line x1="763" y1="56" x2="763" y2="16" style="stroke:black; stroke-width:1"/>
+<line x1="763" y1="16" x2="935" y2="16" style="stroke:black; stroke-width:1"/>
+<line x1="591" y1="117" x2="591" y2="177" style="stroke:black; stroke-width:1"/>
+<line x1="591" y1="177" x2="763" y2="177" style="stroke:black; stroke-width:1"/>
+<line x1="505" y1="187" x2="505" y2="257" style="stroke:black; stroke-width:1"/>
+<line x1="505" y1="257" x2="677" y2="257" style="stroke:black; stroke-width:1"/>
+<line x1="419" y1="263" x2="419" y2="338" style="stroke:black; stroke-width:1"/>
+<line x1="419" y1="338" x2="591" y2="338" style="stroke:black; stroke-width:1"/>
+<line x1="338" y1="341" x2="338" y2="418" style="stroke:black; stroke-width:1"/>
+<line x1="338" y1="418" x2="510" y2="418" style="stroke:black; stroke-width:1"/>
+<line x1="258" y1="420" x2="258" y2="499" style="stroke:black; stroke-width:1"/>
+<line x1="258" y1="499" x2="430" y2="499" style="stroke:black; stroke-width:1"/>
+<line x1="177" y1="500" x2="177" y2="579" style="stroke:black; stroke-width:1"/>
+<line x1="177" y1="579" x2="349" y2="579" style="stroke:black; stroke-width:1"/>
+<line x1="97" y1="580" x2="97" y2="660" style="stroke:black; stroke-width:1"/>
+<line x1="97" y1="660" x2="269" y2="660" style="stroke:black; stroke-width:1"/>
+<line x1="591" y1="117" x2="591" y2="56" style="stroke:black; stroke-width:1"/>
+<line x1="591" y1="56" x2="763" y2="56" style="stroke:black; stroke-width:1"/>
+<line x1="505" y1="187" x2="505" y2="117" style="stroke:black; stroke-width:1"/>
+<line x1="505" y1="117" x2="591" y2="117" style="stroke:black; stroke-width:1"/>
+<line x1="419" y1="263" x2="419" y2="187" style="stroke:black; stroke-width:1"/>
+<line x1="419" y1="187" x2="505" y2="187" style="stroke:black; stroke-width:1"/>
+<line x1="338" y1="341" x2="338" y2="263" style="stroke:black; stroke-width:1"/>
+<line x1="338" y1="263" x2="419" y2="263" style="stroke:black; stroke-width:1"/>
+<line x1="258" y1="420" x2="258" y2="341" style="stroke:black; stroke-width:1"/>
+<line x1="258" y1="341" x2="338" y2="341" style="stroke:black; stroke-width:1"/>
+<line x1="177" y1="500" x2="177" y2="420" style="stroke:black; stroke-width:1"/>
+<line x1="177" y1="420" x2="258" y2="420" style="stroke:black; stroke-width:1"/>
+<line x1="97" y1="580" x2="97" y2="500" style="stroke:black; stroke-width:1"/>
+<line x1="97" y1="500" x2="177" y2="500" style="stroke:black; stroke-width:1"/>
+<line x1="16" y1="580" x2="16" y2="580" style="stroke:black; stroke-width:1"/>
+<line x1="16" y1="580" x2="97" y2="580" style="stroke:black; stroke-width:1"/>
+<text x="20" y="577" font-weight = "10" font-family="verdana" fill="blue" font-size="18">Root</text>
+<text x="273" y="667" font-weight = "10" font-family="verdana" fill="blue" font-size="18">Spanish</text>
+<text x="353" y="586" font-weight = "10" font-family="verdana" fill="blue" font-size="18">﻿Italian</text>
+<text x="434" y="506" font-weight = "10" font-family="verdana" fill="blue" font-size="18">Portuguese_St</text>
+<text x="514" y="425" font-weight = "10" font-family="verdana" fill="blue" font-size="18">Italian</text>
+<text x="595" y="345" font-weight = "10" font-family="verdana" fill="blue" font-size="18">English</text>
+<text x="681" y="264" font-weight = "10" font-family="verdana" fill="blue" font-size="18">French</text>
+<text x="767" y="184" font-weight = "10" font-family="verdana" fill="blue" font-size="18">Catalan</text>
+<text x="939" y="103" font-weight = "10" font-family="verdana" fill="blue" font-size="18">Cornish</text>
+<text x="939" y="23" font-weight = "10" font-family="verdana" fill="blue" font-size="18">Breton_St</text>
+</g></svg>

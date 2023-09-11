@@ -1,0 +1,10 @@
+Romani	TANK
+Kashmiri	TANG
+Panjabi_ST	TENG
+Lahnda	TEG
+Hindi	TENG
+Afghan	TANG
+Waziri	TANG
+Tadzik	TANG
+Baluchi	TANKH
+Wakhi	TUNG

@@ -1,0 +1,13 @@
+Italian	VENTRE
+Ladin	VAINTER
+Provencal	VENTRE
+French	VENTRE
+Walloon	VINTE
+French_Creole_C	VAT
+Sardinian_N	ENTRE
+Sardinian_L	BENTRE
+Spanish	VIENTRE
+Portuguese_ST	VENTRE
+Brazilian	VENTRE
+Catalan	VENTRE
+Latvian	VEDERS

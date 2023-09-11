@@ -1,0 +1,14 @@
+Italian	PENSARE
+Ladin	S*IMPISSER
+Ladin	PENSER
+Provencal	PENSA
+French	PENSER
+Walloon	PINSER
+Sardinian_N	PESSARE
+Sardinian_L	PENSARE
+Sardinian_C	PENSAI
+Spanish	PENSAR
+Portuguese_ST	PENSAR
+Brazilian	PENSAR
+Catalan	DONAR-PIENSO
+ALbanian_C	PINCAR

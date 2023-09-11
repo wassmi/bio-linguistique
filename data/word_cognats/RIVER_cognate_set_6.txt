@@ -1,0 +1,8 @@
+Romanian_List	FLUVIU
+Italian	FIUME
+Ladin	FLUM
+Sardinian_L	FLUMEN
+Sardinian_C	FLUMINI
+German_ST	FLUSS
+Swedish_List	FLOD
+Danish	FLOD

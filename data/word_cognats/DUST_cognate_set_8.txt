@@ -1,0 +1,3 @@
+Nepali_List	KHAG
+Kashmiri	KHAKH
+Persian_List	KHAK

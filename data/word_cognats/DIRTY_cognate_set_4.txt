@@ -1,0 +1,6 @@
+Irish_A	SALACH
+Irish_B	SALACH
+Provencal	SALE
+French	SALE
+French_Creole_C	SAL
+French_Creole_D	SAL

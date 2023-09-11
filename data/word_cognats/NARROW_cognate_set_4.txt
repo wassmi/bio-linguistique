@@ -1,0 +1,11 @@
+Lusatian_L	HUZKI
+Lusatian_U	WUZKY
+Czech	UZKY
+Slovak	UZKY
+Czech_E	USKO
+Ukrainian	VUZ*KYJ
+Byelorussian	VUZKI
+Byelorussian	VUZKA
+Polish	WAZKI
+Russian	UZKIJ
+Serbocroatian	UZAK

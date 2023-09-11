@@ -1,0 +1,15 @@
+German_ST	VIER
+Penn_Dutch	FIERE
+Dutch_List	VIER
+Afrikaans	VIER
+Flemish	VIER
+Frisian	FJOUWER
+Swedish_Up	FYRA
+Swedish_VL	FYRA
+Swedish_List	FYRA
+Danish	FIRE
+Riksmal	FIRE
+Icelandic_ST	FJORIR
+Faroese	FYRA
+English	FOUR
+Sranan	FO

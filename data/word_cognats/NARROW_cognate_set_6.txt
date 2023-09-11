@@ -1,0 +1,5 @@
+English	NARROW
+Dutch_List	NAUW
+Afrikaans	NOU
+Flemish	NAAUW
+Frisian	NAU

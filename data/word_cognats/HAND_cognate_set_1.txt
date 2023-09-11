@@ -1,0 +1,16 @@
+French_Creole_C	LAME
+French_Creole_D	LAME
+Romanian_List	MINA
+Vlach	MYNE
+Italian	MANO
+Ladin	MAUN
+Provencal	MAIN
+French	MAIN
+Walloon	MIN
+Sardinian_N	MANU
+Sardinian_L	MANU
+Sardinian_C	MANU
+Spanish	MANO
+Portuguese_ST	MAO
+Brazilian	MAO
+Catalan	MA

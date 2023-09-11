@@ -1,0 +1,8 @@
+Irish_A	BOLG
+Irish_B	BOLG
+Welsh_N	BOL
+Welsh_N	BOLA
+Welsh_C	BOLA
+Swedish_Up	BALG
+English	BELLY
+Sranan	BELE

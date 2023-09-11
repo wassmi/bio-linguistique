@@ -1,0 +1,6 @@
+Kashmiri	SABAZ
+Bengali	SOBUJ
+Persian_List	SABZ
+Tadzik	SABZ
+Baluchi	SAVZ
+Wakhi	SUVZ

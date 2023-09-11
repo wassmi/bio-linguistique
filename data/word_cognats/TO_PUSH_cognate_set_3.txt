@@ -1,0 +1,4 @@
+Lusatian_L	TLUC
+Lusatian_U	TOLC
+Czech_E	TLACIT
+Russian	TOLKAT

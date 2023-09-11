@@ -1,0 +1,4 @@
+German_ST	WERFEN
+Dutch_List	WERPEN
+Flemish	WERPEN
+Frisian	WERPE

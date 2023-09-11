@@ -1,0 +1,5 @@
+Panjabi_ST	CIL
+Lahnda	JHIL
+Hindi	JHIL
+Nepali_List	JHIL
+Afghan	DZIHIL

@@ -1,0 +1,9 @@
+Romanian_List	INJUNGHIA-CU-PUMNALUL
+Provencal	POUGNARDA
+French	POIGNARDER
+Walloon	POUGNARDER
+Sardinian_L	PUNGHERE
+Sardinian_C	PUNNALAI
+Spanish	DAR-DE-PUNALADAS
+Portuguese_ST	APUNHALAR
+Brazilian	APUNHALAR

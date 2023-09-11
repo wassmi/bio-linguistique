@@ -1,0 +1,5 @@
+Vlach	NARE
+Sardinian_N	NARE
+Spanish	NARIZ
+Portuguese_ST	NARIZ
+Brazilian	NARIZ

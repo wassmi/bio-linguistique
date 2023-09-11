@@ -1,0 +1,4 @@
+Danish	BESKIDT
+Riksmal	SKIDDEN
+Icelandic_ST	SKITUGUR
+Faroese	SKITIN

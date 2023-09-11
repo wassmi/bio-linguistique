@@ -1,0 +1,4 @@
+Albanian_T	YLL
+Albanian_Top	YL
+Albanian_G	YLLI
+Albanian_K	IIU

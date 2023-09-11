@@ -1,0 +1,6 @@
+Italian	SENTIRE
+Provencal	SENTI
+French	SENTIR
+Walloon	SINTI
+French_Creole_C	SATI
+French_Creole_D	SATI

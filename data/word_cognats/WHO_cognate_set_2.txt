@@ -1,0 +1,9 @@
+Romani	KON
+Marathi	KON
+Gujarati	KON
+Panjabi_ST	KON
+Lahnda	KON
+Hindi	KON
+Nepali_List	KUN
+Nepali_List	KO
+Khaskura	KO

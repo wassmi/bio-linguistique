@@ -1,0 +1,7 @@
+Panjabi_ST	MELLA
+Lahnda	MAELA
+Hindi	MELA
+Bengali	MOELA
+Nepali_List	MAILO
+Khaskura	MAILO
+Baluchi	MELAR

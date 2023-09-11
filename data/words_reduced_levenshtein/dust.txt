@@ -1,0 +1,9 @@
+Icelandic_St	dust	d̥ʏst
+English	dust	dʌst
+Faroese	dust	d̥ʊst
+Norwegian	dust	dʉst
+Stavangersk	dust	dʉst
+Old_Norse	dust	dust
+Old_Swedish	dust	dust
+Cornish	doust	du:st
+Assamese	dhuli	dhuli

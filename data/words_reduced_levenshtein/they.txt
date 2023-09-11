@@ -1,0 +1,27 @@
+Greek_Mod	afti	afˈti
+Albanian_T	ata	aˈta
+Swedish	de	dɔmː
+English	they	ðɛɪ
+Danish	de	di
+Danish_Fjolde	di	di
+Norwegian	de	diː
+Gutnish_Lau	di	dɪː
+Stavangersk	di	diː, di
+Övdalian	dier	dɪɛːr
+Italian	essi	es'si
+Welsh_N	hwy	hwi
+Cornish	i	i
+Breton_St	i	i
+Frisian	sy	sɛɪ
+Oriya	semane	semane
+Irish_B	siad	ʃiəd
+Bulgarian	te	tɛ
+Marathi	te	te
+Faroese	teir	tʰaiːɹ
+Macedonian	tie	tiɛ
+Assamese	xihat	xihɒ̃t
+Dutch_List	zij	zɛi
+German	sie	zi:
+Old_Swedish	the	ˈθeː
+Icelandic_St	þeir	θeiːr
+Old_Norse	þeir	θɛir

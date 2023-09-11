@@ -1,0 +1,4 @@
+Irish_A	EITILT
+Irish_B	EITLIM
+Irish_B	EITILLIGHIM
+Irish_B	EITIM

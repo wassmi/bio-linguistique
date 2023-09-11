@@ -1,0 +1,28 @@
+CH
+Cluster # 1
+Cluster content:
+	Tree #	: T3	(Faroese:0.4018,English:2.0982,(Icelandic_St:3.3482,Icelandic_St2:0.4018):1.4732);
+	Tree #	: T5	(Stavangersk:3.3889,English:1.6111,(Old_Norse:0.4167,(Faroese:0.8333,Old_Swedish:2.5000):0.4167):2.0833);
+	Tree #	: T7	(English:1.5476,French:2.7381,(Frisian:0.0005,Dutch_List:0.0005):0.1191);
+	Tree #	: T9	(English:1.2222,(Danish:1.0000,Danish_Fjolde:1.0000):3.7778,(Old_Norse:0.3889,(Faroese:0.0005,Icelandic_St
+:0.0005):1.2778):0.6852);
+	Tree #	: T10	(Dutch_List:1.8750,(Tadzik:8.1250,Swedish:1.8750):0.0005,(English:1.4286,Frisian:1.4286):0.4464);
+	Tree #	: T11	(((Assamese:0.4748,Bihari:2.3819):1.4310,(Italian:0.9040,(Portuguese_St:0.0005,(Spanish:0.0005,Catalan:0.0
+005):0.0005):0.3460):1.1194):0.6131,(English:1.1715,French:0.8287):0.4173,((Greek_Mod:4.6483,Ossetic:2.8519):1.0300,(Iron_Ossetic:
+0.0005,Digor_Ossetic:0.0005):3.9698):0.7076);
+
+Cluster # 2
+Cluster content:
+	Tree #	: T1	(Italian:0.6369,(English:0.0005,((Portuguese_St:0.0005,(Spanish:0.0005,Catalan:0.0005):0.0005):0.0005,(Fre
+nch:0.0005,Brazilian:0.0005):0.0005):0.0005):0.7916,((Breton_St:1.0328,Cornish:2.3007):0.9162,(Old_Irish:2.5446,(Assamese:0.4375,O
+riya:1.5625):4.5803):1.8070):0.9333);
+	Tree #	: T8	(Old_Irish:4.8750,English:3.1250,(Cornish:1.8750,Breton_St:2.1250):0.8750);
+
+Cluster # 3
+Cluster content:
+	Tree #	: T2	(Italian:1.3988,(Spanish:0.0005,Portuguese_St:0.0005):0.0298,(English:6.3095,(French:1.2500,Catalan:0.1786
+):1.7262):1.1210);
+	Tree #	: T4	(English:2.5000,(Portuguese_St:0.0005,(﻿Italian:0.0005,Spanish:0.0005):0.0005):2.5000,(French:0.0005,Catala
+n:2.5000):2.5000);
+	Tree #	: T6	((English:2.1428,(Catalan:1.9435,(Breton_St:2.5486,Cornish:2.4514):1.8899):0.9493):0.6697,(French:0.8333,I
+talian:0.4167):0.7143,(Spanish:0.2976,Portuguese_St:0.9524):0.5357);

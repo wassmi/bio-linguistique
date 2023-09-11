@@ -1,0 +1,17 @@
+Lusatian_L	W
+Lusatian_U	W
+Czech	V
+Slovak	V
+Slovak	VO
+Czech_E	V
+Czech_E	VE
+Ukrainian	V
+Ukrainian	U
+Byelorussian	U
+Polish	W
+Russian	V
+Macedonian	V
+Macedonian	VO
+Bulgarian	V
+Bulgarian	VEV
+Serbocroatian	U

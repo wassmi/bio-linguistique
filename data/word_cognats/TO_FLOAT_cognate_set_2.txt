@@ -1,0 +1,7 @@
+Welsh_N	NOFIO
+Welsh_C	NOFIO
+Breton_List	NEUI
+Breton_List	BEZA-WAR-NEUN
+Breton_SE	NEANNEIN
+Breton_ST	NEUIN
+Breton_ST	NEUNVIAL

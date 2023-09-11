@@ -1,0 +1,4 @@
+Marathi	HIRVA
+Panjabi_ST	HERA
+Lahnda	HERA
+Hindi	HERA

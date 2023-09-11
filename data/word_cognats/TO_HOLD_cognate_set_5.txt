@@ -1,0 +1,15 @@
+German_ST	HALTEN
+Dutch_List	HOUDEN
+Afrikaans	HOU
+Flemish	VASTHOUDEN
+Frisian	FESTHALDE
+Frisian	HALDE
+Swedish_Up	HALLA
+Swedish_VL	HAL-HOL
+Swedish_List	FAST-HALLA
+Danish	HOLDE
+Riksmal	HOLDE
+Icelandic_ST	HALDA
+Faroese	HALDA
+English	HOLD
+Sranan	HOLI

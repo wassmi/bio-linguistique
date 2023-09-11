@@ -1,0 +1,8 @@
+Irish_A	BLIADHAIN
+Irish_B	BLIADHAN
+Welsh_N	BLWYDDYN
+Welsh_N	BLWYDD
+Welsh_C	BLWYDDYN
+Breton_List	BLOAZ
+Breton_SE	BLE
+Breton_ST	BLOAZ

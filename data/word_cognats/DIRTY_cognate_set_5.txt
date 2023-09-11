@@ -1,0 +1,4 @@
+Dutch_List	VUIL
+Afrikaans	VUIL
+Flemish	VIES
+Flemish	VUIL

@@ -1,0 +1,6 @@
+Lusatian_L	ZLY
+Lusatian_U	ZLY
+Slovak	ZLY
+Czech_E	ZLE
+Polish	ZLY
+Serbocroatian	ZAO

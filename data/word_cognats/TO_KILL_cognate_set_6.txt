@@ -1,0 +1,5 @@
+German_ST	TOTEN
+Dutch_List	DOODEN
+Afrikaans	DOODMAAK
+Flemish	DOODEN
+Swedish_List	DODA

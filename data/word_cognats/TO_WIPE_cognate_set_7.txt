@@ -1,0 +1,11 @@
+Italian	RASCIUGARE
+Provencal	EISSUGA
+French	ESSUYER
+French_Creole_C	SWIYE
+French_Creole_C	SUYE
+French_Creole_D	SWIYE
+Portuguese_ST	ENXUGAR
+Portuguese_ST	ESFREGAR
+Brazilian	ENXUGAR
+Brazilian	ESFREGAR
+Catalan	ESCURAR

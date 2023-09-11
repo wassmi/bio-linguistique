@@ -1,0 +1,3 @@
+English	ROAD
+French	ROUTE
+Provencal	ROUTO

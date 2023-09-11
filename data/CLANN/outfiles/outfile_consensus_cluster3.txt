@@ -1,0 +1,63 @@
+Consensus tree program, version 3.698
+
+Species in order: 
+
+  1. Spanish
+  2. Italian
+  3. English
+  4. French
+  5. Catalan
+  6. Breton St
+  7. Cornish
+  8. Portuguese St
+  9. ﻿Italian
+
+
+Sets included in the consensus tree
+
+Set (species in order)     How many times out of    5.00
+
+..*****..                   6.00
+.....**..                   5.00
+...****..                   5.00
+.******..                   5.00
+.*******.                   5.00
+....***..                   4.00
+
+
+Sets NOT included in consensus tree:
+
+Set (species in order)     How many times out of    5.00
+
+..*..**..                   1.00
+...**....                   1.00
+
+
+Extended majority rule consensus tree
+
+CONSENSUS TREE:
+the numbers on the branches indicate the number
+of times the partition of the species into the two sets
+which are separated by that branch occurred
+among the trees, out of   5.00 trees
+
+                                  +-------------------------------English
+                                  |
+                                  |                       +-------Cornish
+                          +--6.00-|               +--5.00-|
+                          |       |       +--4.00-|       +-------Breton St
+                          |       |       |       |
+                  +--5.00-|       +--5.00-|       +---------------Catalan
+                  |       |               |
+                  |       |               +-----------------------French
+          +--5.00-|       |
+          |       |       +---------------------------------------Italian
+  +-------|       |
+  |       |       +-----------------------------------------------Portuguese St
+  |       |
+  |       +-------------------------------------------------------﻿Italian
+  |
+  +---------------------------------------------------------------Spanish
+
+
+  remember: this is an unrooted tree!

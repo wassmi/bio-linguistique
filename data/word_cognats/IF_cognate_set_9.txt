@@ -1,0 +1,5 @@
+Ossetic	KAED
+Ossetic	KUY
+Afghan	KA
+Waziri	CHE
+Waziri	KE

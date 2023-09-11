@@ -1,0 +1,11 @@
+Swedish	skinn	ɧɪnː
+Icelandic_St	skinn	scɪnː
+Danish	skind	sɡ̊ʰenˀ
+Stavangersk	sjinn	ʂɪnː
+Norwegian	skinn	ʃɪnː
+English	skin	skɪn
+Old_Norse	skinn	skinː
+Old_Swedish	skin	skinː
+Gutnish_Lau	skinn	skɪnː
+Övdalian	stjinn	stʃɪnː
+Danish_Fjolde	skind	sxinʲ

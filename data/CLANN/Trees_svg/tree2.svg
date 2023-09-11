@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="1101" height="706" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g style="stroke:black;fill:lightgreen" transform="translate(30,30)">
+<line x1="652" y1="221" x2="652" y2="250" style="stroke:black; stroke-width:1"/>
+<line x1="652" y1="250" x2="794" y2="250" style="stroke:black; stroke-width:1"/>
+<line x1="652" y1="221" x2="652" y2="192" style="stroke:black; stroke-width:1"/>
+<line x1="652" y1="192" x2="794" y2="192" style="stroke:black; stroke-width:1"/>
+<line x1="794" y1="45" x2="794" y2="75" style="stroke:black; stroke-width:1"/>
+<line x1="794" y1="75" x2="935" y2="75" style="stroke:black; stroke-width:1"/>
+<line x1="794" y1="45" x2="794" y2="16" style="stroke:black; stroke-width:1"/>
+<line x1="794" y1="16" x2="935" y2="16" style="stroke:black; stroke-width:1"/>
+<line x1="652" y1="89" x2="652" y2="133" style="stroke:black; stroke-width:1"/>
+<line x1="652" y1="133" x2="794" y2="133" style="stroke:black; stroke-width:1"/>
+<line x1="369" y1="232" x2="369" y2="309" style="stroke:black; stroke-width:1"/>
+<line x1="369" y1="309" x2="511" y2="309" style="stroke:black; stroke-width:1"/>
+<line x1="299" y1="300" x2="299" y2="367" style="stroke:black; stroke-width:1"/>
+<line x1="299" y1="367" x2="440" y2="367" style="stroke:black; stroke-width:1"/>
+<line x1="511" y1="455" x2="511" y2="484" style="stroke:black; stroke-width:1"/>
+<line x1="511" y1="484" x2="652" y2="484" style="stroke:black; stroke-width:1"/>
+<line x1="511" y1="455" x2="511" y2="426" style="stroke:black; stroke-width:1"/>
+<line x1="511" y1="426" x2="652" y2="426" style="stroke:black; stroke-width:1"/>
+<line x1="369" y1="499" x2="369" y2="543" style="stroke:black; stroke-width:1"/>
+<line x1="369" y1="543" x2="511" y2="543" style="stroke:black; stroke-width:1"/>
+<line x1="157" y1="500" x2="157" y2="601" style="stroke:black; stroke-width:1"/>
+<line x1="157" y1="601" x2="299" y2="601" style="stroke:black; stroke-width:1"/>
+<line x1="87" y1="580" x2="87" y2="660" style="stroke:black; stroke-width:1"/>
+<line x1="87" y1="660" x2="228" y2="660" style="stroke:black; stroke-width:1"/>
+<line x1="511" y1="155" x2="511" y2="221" style="stroke:black; stroke-width:1"/>
+<line x1="511" y1="221" x2="652" y2="221" style="stroke:black; stroke-width:1"/>
+<line x1="652" y1="89" x2="652" y2="45" style="stroke:black; stroke-width:1"/>
+<line x1="652" y1="45" x2="794" y2="45" style="stroke:black; stroke-width:1"/>
+<line x1="511" y1="155" x2="511" y2="89" style="stroke:black; stroke-width:1"/>
+<line x1="511" y1="89" x2="652" y2="89" style="stroke:black; stroke-width:1"/>
+<line x1="369" y1="232" x2="369" y2="155" style="stroke:black; stroke-width:1"/>
+<line x1="369" y1="155" x2="511" y2="155" style="stroke:black; stroke-width:1"/>
+<line x1="299" y1="300" x2="299" y2="232" style="stroke:black; stroke-width:1"/>
+<line x1="299" y1="232" x2="369" y2="232" style="stroke:black; stroke-width:1"/>
+<line x1="228" y1="399" x2="228" y2="300" style="stroke:black; stroke-width:1"/>
+<line x1="228" y1="300" x2="299" y2="300" style="stroke:black; stroke-width:1"/>
+<line x1="369" y1="499" x2="369" y2="455" style="stroke:black; stroke-width:1"/>
+<line x1="369" y1="455" x2="511" y2="455" style="stroke:black; stroke-width:1"/>
+<line x1="228" y1="399" x2="228" y2="499" style="stroke:black; stroke-width:1"/>
+<line x1="228" y1="499" x2="369" y2="499" style="stroke:black; stroke-width:1"/>
+<line x1="157" y1="500" x2="157" y2="399" style="stroke:black; stroke-width:1"/>
+<line x1="157" y1="399" x2="228" y2="399" style="stroke:black; stroke-width:1"/>
+<line x1="87" y1="580" x2="87" y2="500" style="stroke:black; stroke-width:1"/>
+<line x1="87" y1="500" x2="157" y2="500" style="stroke:black; stroke-width:1"/>
+<line x1="16" y1="580" x2="16" y2="580" style="stroke:black; stroke-width:1"/>
+<line x1="16" y1="580" x2="87" y2="580" style="stroke:black; stroke-width:1"/>
+<text x="20" y="576" font-weight = "10" font-family="verdana" fill="blue" font-size="17">Root</text>
+<text x="232" y="666" font-weight = "10" font-family="verdana" fill="blue" font-size="17">Cornish</text>
+<text x="303" y="607" font-weight = "10" font-family="verdana" fill="blue" font-size="17">Breton_St</text>
+<text x="515" y="549" font-weight = "10" font-family="verdana" fill="blue" font-size="17">Old_Irish</text>
+<text x="656" y="490" font-weight = "10" font-family="verdana" fill="blue" font-size="17">Oriya</text>
+<text x="656" y="432" font-weight = "10" font-family="verdana" fill="blue" font-size="17">Assamese</text>
+<text x="444" y="373" font-weight = "10" font-family="verdana" fill="blue" font-size="17">Italian</text>
+<text x="515" y="315" font-weight = "10" font-family="verdana" fill="blue" font-size="17">English</text>
+<text x="798" y="256" font-weight = "10" font-family="verdana" fill="blue" font-size="17">French</text>
+<text x="798" y="198" font-weight = "10" font-family="verdana" fill="blue" font-size="17">Brazilian</text>
+<text x="798" y="139" font-weight = "10" font-family="verdana" fill="blue" font-size="17">Portuguese_St</text>
+<text x="939" y="81" font-weight = "10" font-family="verdana" fill="blue" font-size="17">Spanish</text>
+<text x="939" y="22" font-weight = "10" font-family="verdana" fill="blue" font-size="17">Catalan</text>
+</g></svg>

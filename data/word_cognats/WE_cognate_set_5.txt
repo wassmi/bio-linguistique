@@ -1,0 +1,7 @@
+Romani	AMEN
+Marathi	AMHI
+Gujarati	EHME
+Hindi	HEM
+Bengali	AMRA
+Nepali_List	HAMI
+Khaskura	HAMIHARU

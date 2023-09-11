@@ -1,0 +1,12 @@
+Romanian_List	SE-TEME-DE
+Italian	TEMERE
+Ladin	TMAIR
+Provencal	TEME
+Sardinian_N	TIMERE
+Sardinian_L	TIMERE
+Sardinian_C	TIMMI
+Spanish	TEMER
+Portuguese_ST	TEMER
+Brazilian	TEMER
+Catalan	TEMOREJAR
+Catalan	TEMER

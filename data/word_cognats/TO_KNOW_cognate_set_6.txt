@@ -1,0 +1,4 @@
+Breton_List	GOUZOUT
+Breton_List	GOUT
+Breton_SE	GOUIEIN
+Breton_ST	GOUZOUT

@@ -1,0 +1,13 @@
+Icelandic_St	vaengur	ˈvaiŋɡ̊ʏr
+Faroese	vongur	ˈvɔŋɡ̊ʊɹ
+Old_Norse	vaengr	vɛnɣr
+Danish_Fjolde	veng	veŋ
+Stavangersk	veng	ʋɛŋː
+Danish	vinge	ˈveŋə
+Gutnish_Lau	vangg	vɛŋɡ
+Old_Swedish	vinge	ˈviŋːe
+Swedish	vinge	ˈvɪ̀ŋːə
+Norwegian	vinge	ˈʋɪ̀ŋːə
+Övdalian	waingg	wɑɪŋg
+English	wing	wɪŋ
+

@@ -1,0 +1,3 @@
+Irish_A	SGAMALL
+Welsh_N	CWMWL
+Welsh_C	CWMWL

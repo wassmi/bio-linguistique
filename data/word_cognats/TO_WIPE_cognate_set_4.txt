@@ -1,0 +1,8 @@
+Breton_List	TORCHA
+Swedish_Up	TORKA
+Swedish_VL	TORK
+Swedish_List	TORKA
+Danish	TORRE
+Riksmal	TORKE
+Icelandic_ST	THURRKA
+Faroese	TURKA

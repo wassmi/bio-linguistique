@@ -1,0 +1,10 @@
+Slovenian	DRZAT-U-RAKI
+Lusatian_L	ZARZAS
+Lusatian_U	DZERZEC
+Czech	DRZETI
+Slovak	DRZAT
+Czech_E	DRZAT
+Russian	DERZAT
+Macedonian	DRZI
+Bulgarian	DERZI
+Serbocroatian	DRZATI

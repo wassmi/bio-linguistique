@@ -1,0 +1,17 @@
+#NEXUS
+
+BEGIN TAXA;
+    DIMENSIONS NTAX=3;
+    TAXLABELS
+        Count
+        Lake
+        Mountain
+    ;
+END;
+
+BEGIN TREES;
+    TREE 1 = (Italian:1.3988,(Spanish:0.0005,Portuguese_St:0.0005):0.0298,(English:6.3095,(French:1.2500,Catalan:0.1786):1.7262):1.1210);
+    TREE 2 = (English:2.5000,(Portuguese_St:0.0005,(﻿Italian:0.0005,Spanish:0.0005):0.0005):2.5000,(French:0.0005,Catalan:2.5000):2.5000);
+    TREE 3 = ((English:2.1428,(Catalan:1.9435,(Breton_St:2.5486,Cornish:2.4514):1.8899):0.9493):0.6697,(French:0.8333,Italian:0.4167):0.7143,(Spanish:0.2976,Portuguese_St:0.9524):0.5357);
+END;
+

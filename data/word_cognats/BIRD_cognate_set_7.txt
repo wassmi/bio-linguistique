@@ -1,0 +1,14 @@
+German_ST	VOGEL
+Penn_Dutch	FUGGEL
+Dutch_List	VOGEL
+Afrikaans	VOEL
+Flemish	VOGEL
+Frisian	FUGEL
+Swedish_Up	FAGEL
+Swedish_VL	FOGAL
+Swedish_List	FAGEL
+Danish	FUGL
+Riksmal	FUGL
+Icelandic_ST	FUGL
+Faroese	FUGLUR
+Sranan	FOUWLOE

@@ -1,0 +1,4 @@
+Icelandic_St	bóndi	ˈb̥ound̥ɪ
+Icelandic_St2	húsbóndi	huːsb̥ound̥ɪ
+Faroese	husbondi	ˈhʉuːsˌb̥œnd̥ɪ
+English	husband	hʌzbənd

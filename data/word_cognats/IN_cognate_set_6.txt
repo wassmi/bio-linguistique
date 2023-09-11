@@ -1,0 +1,4 @@
+Provencal	DINS
+Provencal	DEDINS
+French	DANS
+Walloon	DIVINS

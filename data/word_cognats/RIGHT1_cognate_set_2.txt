@@ -1,0 +1,4 @@
+Irish_B	COIR
+Welsh_N	CYWIR
+Welsh_C	CYWIR
+Breton_List	GWIRION

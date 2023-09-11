@@ -1,0 +1,4 @@
+Lusatian_L	BLUWAS
+Lusatian_U	BLUWAC
+Ukrainian	BLJUVATY
+Macedonian	BLUE

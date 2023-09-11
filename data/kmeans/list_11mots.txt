@@ -1,0 +1,11 @@
+1.Animal
+2.Count
+3.Husband
+4.Lake
+5.Leg
+6.Mountain
+7.River
+8.Smoke
+9.Snake
+10.Split
+11.Comit

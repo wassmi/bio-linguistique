@@ -1,0 +1,4 @@
+English	HIT
+Danish	HITTE
+Riksmal	HITTE
+Swedish_List	HITTA

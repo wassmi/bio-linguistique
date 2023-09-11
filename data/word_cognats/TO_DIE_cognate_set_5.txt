@@ -1,0 +1,7 @@
+German_ST	STERBEN
+Penn_Dutch	SCHTAAREVE
+Dutch_List	STERVEN
+Afrikaans	STERF
+Afrikaans	STERWE
+Flemish	STERVEN
+Frisian	FORSTJERRE

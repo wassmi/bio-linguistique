@@ -1,0 +1,7 @@
+Irish_A	LUAITH
+Irish_B	LUAITH
+Welsh_N	LLUDW
+Welsh_C	LLUDW
+Breton_List	LUDU
+Breton_SE	LUDU
+Breton_ST	LUDU

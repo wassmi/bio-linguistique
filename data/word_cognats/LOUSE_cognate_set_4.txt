@@ -1,0 +1,16 @@
+German_ST	LAUS
+Penn_Dutch	LOUSE
+Dutch_List	LUIS
+Afrikaans	LUIS
+Flemish	LUIS
+Frisian	LUS
+Frisian	LUS
+Swedish_Up	LUS
+Swedish_VL	LUS
+Swedish_List	LUS
+Danish	LUS
+Riksmal	LUS
+Icelandic_ST	LUS
+Faroese	LUS
+English	LOUSE
+Sranan	LOSO

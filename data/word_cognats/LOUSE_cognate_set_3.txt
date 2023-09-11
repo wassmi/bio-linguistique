@@ -1,0 +1,5 @@
+Albanian_T	MOZ
+Albanian_Top	MOR
+Albanian_G	MORRA
+Albanian_K	MOR
+ALbanian_C	MOR

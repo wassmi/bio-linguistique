@@ -1,0 +1,9 @@
+French	POU
+Walloon	PIOU
+French_Creole_C	PU
+French_Creole_D	PU
+Sardinian_L	PIOGU
+Spanish	PIOJO
+Portuguese_ST	PIOLHO
+Brazilian	PIOLHO
+Catalan	POLL

@@ -1,0 +1,6 @@
+English	to_count	kaʊnt
+French	compter	kɔ̃te
+Spanish	contar	kon'taɾ
+Italian	contare	kon'tare
+Portuguese_St	contar	kõˈtaɾ
+Catalan	comptar	kum'ta

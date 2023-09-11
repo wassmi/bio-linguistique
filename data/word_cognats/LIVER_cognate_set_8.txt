@@ -1,0 +1,4 @@
+Ladin	FIO
+French	FOIE
+French_Creole_C	FWA
+French_Creole_D	FWA

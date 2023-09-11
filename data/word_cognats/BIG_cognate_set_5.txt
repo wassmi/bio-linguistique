@@ -1,0 +1,5 @@
+Romani	BARO
+Kashmiri	BODU
+Hindi	BERA
+Bengali	BORO
+Nepali_List	BIRAT

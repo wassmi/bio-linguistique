@@ -1,0 +1,9 @@
+Kashmiri	WUPHUN
+Kashmiri	WUDUN
+Marathi	UDNE.
+Gujarati	URWU
+Panjabi_ST	UDDENA
+Lahnda	UDDEN
+Hindi	URNA
+Nepali_List	URNU
+Khaskura	URNU

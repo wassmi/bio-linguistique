@@ -1,0 +1,4 @@
+Afghan	BAD
+Waziri	BOD
+Persian_List	BAD
+Tadzik	BOD

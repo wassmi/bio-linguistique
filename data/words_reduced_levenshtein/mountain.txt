@@ -1,0 +1,8 @@
+English	mountain	'maʊntɪn
+French	montagne	mɔ̃taɲ
+Breton_St	menez	'mẽ:nɛs
+Cornish	menydh	'mɛnɪð
+Catalan	mont	mon
+Spanish	montana	mon'taɲa
+Italian	montagna	mon'taɲɲa
+Portuguese_St	montanha	mõˈtɐɲɐ

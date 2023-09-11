@@ -1,0 +1,4 @@
+Breton_List	KOUMOUL
+Breton_List	KOC*HENN
+Breton_SE	KOGUSEN
+Breton_ST	KOUMOULENN

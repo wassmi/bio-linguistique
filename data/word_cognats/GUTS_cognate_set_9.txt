@@ -1,0 +1,4 @@
+Sranan	TRIPA
+French_Creole_C	THWIP
+Portuguese_ST	TRIPAS
+French	TRIPES

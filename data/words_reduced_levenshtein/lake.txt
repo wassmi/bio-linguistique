@@ -1,0 +1,6 @@
+﻿Italian	lago	'lago
+Spanish	lago	'laɣo
+Portuguese_St	lago	'lagu
+French	lac	lak
+English	lake	leɪk
+Catalan	llac	ʎak

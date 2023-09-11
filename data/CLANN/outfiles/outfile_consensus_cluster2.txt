@@ -1,0 +1,73 @@
+Consensus tree program, version 3.698
+
+Species in order: 
+
+  1. Cornish
+  2. Breton St
+  3. Old Irish
+  4. Assamese
+  5. Oriya
+  6. English
+  7. Brazilian
+  8. French
+  9. Portuguese St
+  10. Spanish
+
+  11. Catalan
+  12. Italian
+
+
+Sets included in the consensus tree
+
+Set (species in order)     How many times out of    1.0
+0
+
+......**** *.                1.00
+.........* *.                1.00
+..***..... ..                1.00
+........** *.                1.00
+......**.. ..                1.00
+.....***** **                1.00
+...**..... ..                1.00
+.....***** *.                1.00
+..******** **                1.00
+
+
+Sets NOT included in consensus tree: NONE
+
+
+Extended majority rule consensus tree
+
+CONSENSUS TREE:
+the numbers on the branches indicate the number
+of times the partition of the species into the two sets
+which are separated by that branch occurred
+among the trees, out of   1.00 trees
+(trees had fractional weights)
+
+                                                          +-------French
+                                          +----------1.00-|
+                                          |               +-------Brazilian
+                                  +--1.00-|
+                                  |       |       +---------------Portuguese St
+                                  |       +--1.00-|
+                          +--1.00-|               |       +-------Spanish
+                          |       |               +--1.00-|
+                          |       |                       +-------Catalan
+                  +--1.00-|       |
+                  |       |       +-------------------------------English
+                  |       |
+          +--1.00-|       +---------------------------------------Italian
+          |       |
+          |       |                               +---------------Old Irish
+          |       +--------------------------1.00-|
+  +-------|                                       |       +-------Oriya
+  |       |                                       +--1.00-|
+  |       |                                               +-------Assamese
+  |       |
+  |       +-------------------------------------------------------Breton St
+  |
+  +---------------------------------------------------------------Cornish
+
+
+  remember: this is an unrooted tree!

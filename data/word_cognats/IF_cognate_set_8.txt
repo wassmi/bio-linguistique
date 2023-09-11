@@ -1,0 +1,16 @@
+Lithuanian_O	JEI
+Lithuanian_O	JEIGU
+Lithuanian_ST	JEI
+Lithuanian_ST	JEIGU
+Latvian	JA
+Kashmiri	YED
+Kashmiri	AY
+Marathi	JER
+Gujarati	JO
+Panjabi_ST	EGER
+Panjabi_ST	JE
+Lahnda	JE
+Hindi	EGER
+Hindi	YEDI
+Bengali	JODI
+Nepali_List	JADI

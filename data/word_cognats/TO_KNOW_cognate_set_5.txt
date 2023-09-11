@@ -1,0 +1,7 @@
+Wakhi	DIS
+Albanian_T	ME-DITUR
+Albanian_Top	DI
+Albanian_Top	DINE
+Albanian_G	DI
+Albanian_K	DII
+ALbanian_C	DI

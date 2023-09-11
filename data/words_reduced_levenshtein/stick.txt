@@ -1,0 +1,9 @@
+Danish_Fjolde	stak	sdɔɡ
+Danish	stok	sd̥ʰʌg̥ʰ
+Frisian	stok	stɔ:k
+Dutch_List	stok	stɔk
+German	stock	ʃtɔk
+Norwegian	stokk	stɔkː
+Stavangersk	stakk	stɔkː
+English	stick	stɪk
+Gutnish_Lau	stuck	stukː
