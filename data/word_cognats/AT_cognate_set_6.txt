@@ -1,0 +1,7 @@
+Dutch_List	TE
+Afrikaans	TE
+Flemish	TE
+Marathi	T
+Panjabi_ST	TE
+Wakhi	TER
+ALbanian_C	TE

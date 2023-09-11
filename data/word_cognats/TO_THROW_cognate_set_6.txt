@@ -1,0 +1,6 @@
+Lithuanian_O	MESTI
+Lithuanian_ST	MESTI
+Latvian	MEST
+Lusatian_L	MJATAS
+Lusatian_U	MJETAC
+Ukrainian	METATY

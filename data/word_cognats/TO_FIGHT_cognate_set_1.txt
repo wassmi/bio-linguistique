@@ -1,0 +1,9 @@
+Kashmiri	LADUN
+Marathi	LEDHNE.
+Gujarati	LEREWU
+Panjabi_ST	LERNA
+Lahnda	LEREN
+Hindi	LERNA
+Bengali	LORA
+Nepali_List	LARNU
+Khaskura	LARNU

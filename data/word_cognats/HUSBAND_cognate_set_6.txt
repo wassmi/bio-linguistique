@@ -1,0 +1,9 @@
+Slovenian	MAS
+Lusatian_L	MUZ
+Lusatian_U	MUZ
+Czech_E	MUZ
+Ukrainian	MUZ
+Polish	MAZ
+Russian	MUZ
+Macedonian	MAZ
+Serbocroatian	MUZ

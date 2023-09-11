@@ -1,0 +1,6 @@
+Provencal	GAUCHE
+Provencal	AUCHO
+French	GAUCHE
+Walloon	GOCHE
+French_Creole_C	GOS
+French_Creole_D	GOS

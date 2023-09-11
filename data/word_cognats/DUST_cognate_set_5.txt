@@ -1,0 +1,11 @@
+German_ST	STAUB
+Penn_Dutch	SCHTAWB
+Dutch_List	STOF
+Afrikaans	STOF
+Flemish	STOF
+Frisian	STOF
+Swedish_List	STOFT
+Danish	STOV
+Riksmal	STOV
+Faroese	STOV
+Sranan	STOF

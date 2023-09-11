@@ -1,0 +1,14 @@
+Welsh_N	PASTWN
+Irish_B	BATA
+Breton_List	BAZ
+Breton_SE	BAH
+Breton_ST	BAZH
+Romanian_List	BAT
+Italian	BASTONE
+Ladin	BASTUN
+Provencal	BASTOUN
+French	BATON
+Walloon	BASTON
+French_Creole_C	BATO
+Sardinian_L	BASTONE
+Sardinian_C	BASTONI

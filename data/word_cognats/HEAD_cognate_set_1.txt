@@ -1,0 +1,16 @@
+Lithuanian_O	GALVA
+Lithuanian_ST	GALVA
+Latvian	GALVA
+Slovenian	GLAVA
+Lusatian_L	GLOWA
+Lusatian_U	HLOWA
+Czech	HLAVA
+Slovak	HLAVA
+Czech_E	HLAVA
+Ukrainian	GOLOVA
+Byelorussian	GALAVA
+Polish	GLOWA
+Russian	GOLOVA
+Macedonian	GLAVA
+Bulgarian	GLAVA
+Serbocroatian	GLAVA

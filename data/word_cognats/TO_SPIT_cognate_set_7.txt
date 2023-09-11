@@ -1,0 +1,13 @@
+Slovenian	PLUNI
+Lusatian_L	PLUWAS
+Lusatian_U	PLUWAC
+Czech	PLIVATI
+Slovak	PL-UT
+Czech_E	PLUT
+Ukrainian	PLJUVATY
+Byelorussian	PLERAC*
+Polish	PLUC
+Russian	PLEVAT
+Macedonian	PLUE
+Bulgarian	DA-PLJUE
+Serbocroatian	PLJUVATI

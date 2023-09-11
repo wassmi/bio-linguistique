@@ -1,0 +1,4 @@
+Albanian_T	KEMBE
+Albanian_Top	KEMBE
+Albanian_K	KEMBE
+ALbanian_C	KEMB

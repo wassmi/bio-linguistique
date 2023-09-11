@@ -1,0 +1,7 @@
+Czech	LES
+Slovak	LES
+Czech_E	LES
+Ukrainian	LIS
+Byelorussian	LES
+Polish	LAS
+Russian	LES

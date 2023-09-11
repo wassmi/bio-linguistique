@@ -1,0 +1,5 @@
+Gujarati	ANTERLA
+Panjabi_ST	ANDER
+Nepali_List	ANRA
+Greek_ML	ANTERA
+Greek_Mod	ANDERA

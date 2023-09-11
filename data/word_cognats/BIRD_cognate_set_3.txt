@@ -1,0 +1,5 @@
+Albanian_T	ZOG
+Albanian_Top	ZOK
+Albanian_G	ZOGU
+Albanian_K	ZOK
+ALbanian_C	ZOG

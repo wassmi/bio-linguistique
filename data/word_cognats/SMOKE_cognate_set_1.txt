@@ -1,0 +1,13 @@
+German_ST	RAUCH
+Dutch_List	ROOK
+Afrikaans	ROOK
+Flemish	ROOK
+Frisian	REEK
+Frisian	RIIK
+Swedish_Up	ROK
+Swedish_VL	ROK
+Swedish_List	ROK
+Danish	ROG
+Riksmal	ROK
+Icelandic_ST	REYKR
+Faroese	ROYKUR

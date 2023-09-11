@@ -1,0 +1,15 @@
+Italian	FREDDO
+Ladin	FRAID
+Provencal	FRE
+Provencal	EJO
+French	FROID
+Walloon	FREUD
+French_Creole_C	FWET
+French_Creole_D	FWET
+Sardinian_N	FRITTU
+Sardinian_L	FRITTU
+Sardinian_C	FRIRU
+Spanish	FRIO
+Portuguese_ST	FRIO
+Brazilian	FRIO
+Catalan	FRET

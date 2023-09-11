@@ -1,0 +1,4 @@
+Italian	CAMMIRARE
+Ladin	CHAMINER
+Portuguese_ST	CAMINHAR
+Catalan	CAMINAR

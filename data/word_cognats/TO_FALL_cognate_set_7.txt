@@ -1,0 +1,14 @@
+Slovenian	PADE
+Lusatian_L	PADAS
+Lusatian_U	PADAC
+Czech	UPADNOUTI
+Slovak	PADAT
+Czech_E	PADNUT
+Ukrainian	PADATY
+Byelorussian	PADAC*
+Polish	PADAC
+Russian	PADAT
+Macedonian	PAGA
+Macedonian	PAGNE
+Bulgarian	DA-PADA
+Serbocroatian	PASTI

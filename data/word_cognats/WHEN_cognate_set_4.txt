@@ -1,0 +1,5 @@
+Greek_ML	POTE
+Greek_MD	POTE
+Greek_Mod	POTE
+Greek_D	POTE
+Greek_K	POTE

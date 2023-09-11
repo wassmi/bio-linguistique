@@ -1,0 +1,9 @@
+German_ST	FRAU
+Penn_Dutch	FRAW
+Dutch_List	HUISVROUW
+Dutch_List	VROUW
+Afrikaans	VROU
+Flemish	VROUW
+Frisian	FROU
+Swedish_Up	HUSTRU
+Swedish_List	HUSTRU

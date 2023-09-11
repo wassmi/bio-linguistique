@@ -1,0 +1,4 @@
+Ukrainian	NEN*KA
+Albanian_T	NENE
+Albanian_Top	NENE
+Albanian_G	NANA

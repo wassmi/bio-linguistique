@@ -1,0 +1,6 @@
+Lusatian_L	SYJA
+Lusatian_U	SIJA
+Czech	SIJE
+Ukrainian	SYJA
+Polish	SZYJA
+Russian	SEJA

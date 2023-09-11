@@ -1,0 +1,5 @@
+Swedish_Up	INTE
+Swedish_VL	INTA
+Swedish_VL	INT
+Swedish_VL	IT
+Swedish_List	INTE

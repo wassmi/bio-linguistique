@@ -1,0 +1,8 @@
+Kashmiri	HOKHU
+Kashmiri	KHOSHK
+Ossetic	XUS
+Persian_List	KHOSHK
+Tadzik	XUSK
+Baluchi	HUSHK
+Wakhi	WESK
+Wakhi	XUSK

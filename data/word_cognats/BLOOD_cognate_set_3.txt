@@ -1,0 +1,15 @@
+German_ST	BLUT
+Penn_Dutch	BLUUT
+Dutch_List	BLOED
+Afrikaans	BLOED
+Flemish	BLOED
+Frisian	BLOED
+Swedish_Up	BLOD
+Swedish_VL	BLO
+Swedish_List	BLOD
+Danish	BLOD
+Riksmal	BLOD
+Icelandic_ST	BLOO
+Faroese	BLOD
+English	BLOOD
+Sranan	BROEDOE

@@ -1,0 +1,5 @@
+Albanian_T	FLETE
+Albanian_Top	FLETE
+Albanian_G	FLETA
+Albanian_K	FLETE
+ALbanian_C	FLET

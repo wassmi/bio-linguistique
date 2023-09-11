@@ -1,0 +1,14 @@
+Romanian_List	CINCI
+Vlach	CINJE
+Italian	CINQUE
+Ladin	TSCHINCH
+Provencal	CINQ
+French	CINQ
+Walloon	CINQ*
+French_Creole_C	SEK
+French_Creole_D	SEK
+Sardinian_C	CINKU
+Spanish	CINCO
+Portuguese_ST	CINCO
+Brazilian	CINCO
+Catalan	CINCH

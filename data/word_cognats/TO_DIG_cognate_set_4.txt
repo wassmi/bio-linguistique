@@ -1,0 +1,14 @@
+German_ST	GRABEN
+Penn_Dutch	GRAWB
+Afrikaans	GRAAF
+Afrikaans	GRAWE
+Flemish	GRAVEN
+Frisian	GRAVE
+Swedish_Up	GRAVA
+Swedish_VL	GRAVA
+Swedish_List	GRAVA
+Danish	GRAVE
+Riksmal	GRAVE
+Icelandic_ST	GRAFA
+Faroese	GRAVA
+Macedonian	GREBE

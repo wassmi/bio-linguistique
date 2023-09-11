@@ -1,0 +1,6 @@
+Romani	RAT
+Kashmiri	RATH
+Marathi	REKTE
+Hindi	REKT
+Bengali	ROKTO
+Khaskura	RAGAT

@@ -1,0 +1,5 @@
+Greek_ML	KATHOMAI
+Greek_MD	KATHOMAI
+Greek_Mod	KATHOME
+Greek_D	KATHOMAI
+Greek_K	KEIMAI

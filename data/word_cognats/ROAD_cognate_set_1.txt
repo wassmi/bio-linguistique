@@ -1,0 +1,4 @@
+Lusatian_L	PUS
+Lusatian_U	PUC
+Macedonian	PAT
+Serbocroatian	PUT

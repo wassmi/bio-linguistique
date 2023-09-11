@@ -1,0 +1,12 @@
+Marathi	HAD
+Gujarati	HARKU
+Panjabi_ST	HEDDI
+Lahnda	HEDDI
+Hindi	HEDDI
+Bengali	HAR
+Nepali_List	HAR
+Khaskura	HAR
+Afghan	HED
+Afghan	HADUKAJ
+Waziri	HADIKAI
+Baluchi	HAD

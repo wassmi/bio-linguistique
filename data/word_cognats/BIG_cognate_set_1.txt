@@ -1,0 +1,10 @@
+Slovenian	VELIKA
+Lusatian_L	WELIKI
+Lusatian_U	WULKI
+Czech	VELKY
+Slovak	VEL-KY
+Czech_E	VELIKE
+Ukrainian	VELYKYJ
+Byelorussian	VJALIKI
+Polish	WIELKI
+Serbocroatian	VELIK

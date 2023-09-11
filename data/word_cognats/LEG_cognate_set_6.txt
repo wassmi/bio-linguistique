@@ -1,0 +1,5 @@
+Marathi	PAY
+Bengali	PA
+Persian_List	PA
+Tadzik	PO
+Tadzik	POJ

@@ -1,0 +1,5 @@
+Afghan	VRADZ
+Waziri	VREZ
+Waziri	WREZ
+Persian_List	RUZ
+Tadzik	RUZ

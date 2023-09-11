@@ -1,0 +1,11 @@
+German_ST	SPALTEN
+Penn_Dutch	SCHPOLLD
+Dutch_List	SPLIJTEN
+Afrikaans	SPLITS
+Flemish	SPLITSEN
+Frisian	SPJALTE
+Frisian	SPLISSE
+Frisian	SPLITSE
+Swedish_List	SPLITTRA
+English	SPLIT
+Sranan	PLITI

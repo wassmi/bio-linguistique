@@ -1,0 +1,10 @@
+Romanian_List	PIELE
+Italian	PELLE
+Ladin	PEL
+Provencal	PEAU
+French	PEAU
+Walloon	PE
+Spanish	PIEL
+Portuguese_ST	PELLE
+Brazilian	PELE
+Catalan	PELL

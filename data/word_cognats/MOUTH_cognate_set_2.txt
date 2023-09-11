@@ -1,0 +1,4 @@
+Lithuanian_O	BURNA
+Lithuanian_ST	BURNA
+Armenian_Mod	BERAN
+Armenian_List	BERAN

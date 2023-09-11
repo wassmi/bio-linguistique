@@ -1,0 +1,12 @@
+Romanian_List	CAP
+Provencal	CABESSO
+Provencal	CAP
+Spanish	CABEZA
+Portuguese_ST	CABECA
+Brazilian	CABECA
+Catalan	CAP
+Vlach	KAPU
+German_ST	KOPF
+Penn_Dutch	KUP
+Afrikaans	KOP
+Frisian	KOP

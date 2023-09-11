@@ -1,0 +1,14 @@
+Lusatian_L	JAJO
+Lusatian_U	JEJO
+Serbocroatian	JAJE
+Frisian	EIKE
+Slovenian	JAJCE
+Czech	VEJCE
+Slovak	VAJCE
+Czech_E	VAYCO
+Ukrainian	JAJCE
+Byelorussian	JAJKO
+Polish	JAJKO
+Russian	JAJCO
+Macedonian	JAJCE
+Bulgarian	JAJCE

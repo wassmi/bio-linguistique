@@ -1,0 +1,6 @@
+Marathi	DHEKELNE.
+Gujarati	DHEKKELWU
+Panjabi_ST	TIKKENA
+Bengali	DHAKKA-DEOA
+Nepali_List	THELNU
+Nepali_List	DHAKELNU

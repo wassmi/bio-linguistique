@@ -1,0 +1,7 @@
+Slovak	AK
+Ukrainian	JAKSCO
+Ukrainian	JAK
+Ukrainian	JAKBY
+Macedonian	AKO
+Bulgarian	AKO
+Serbocroatian	AKO

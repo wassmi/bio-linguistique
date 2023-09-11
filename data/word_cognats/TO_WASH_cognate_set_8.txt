@@ -1,0 +1,4 @@
+Slovenian	PRAT
+Czech_E	PRAT
+Ukrainian	PRATY
+Serbocroatian	PRATI

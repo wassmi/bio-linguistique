@@ -1,0 +1,4 @@
+Afghan	DUD
+Persian_List	DUD
+Tadzik	DUD
+Wakhi	DIT

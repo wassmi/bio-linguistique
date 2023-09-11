@@ -1,0 +1,8 @@
+Khaskura	NAJIK
+Afghan	NEZDE
+Waziri	NEZDE
+Persian_List	NAZDIK
+Tadzik	NAZDIK
+Baluchi	NAZI
+Baluchi	NAZIKH
+Wakhi	NEZD

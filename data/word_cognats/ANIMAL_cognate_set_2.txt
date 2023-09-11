@@ -1,0 +1,4 @@
+Ossetic	XAJUAN
+Afghan	HAJVAN
+Persian_List	HEYVAN
+Tadzik	XAJVON

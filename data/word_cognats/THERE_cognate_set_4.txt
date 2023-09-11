@@ -1,0 +1,17 @@
+German_ST	DORT
+Dutch_List	DAAR
+Dutch_List	ALDAAR
+Afrikaans	DAAR
+Flemish	DAER
+Frisian	DER
+Frisian	DERRE
+Swedish_Up	DAR
+Swedish_VL	DAR
+Swedish_List	DAR
+Swedish_List	DARI
+Swedish_List	DARVIDLAG
+Danish	DER
+Riksmal	DER
+Icelandic_ST	THAR
+English	THERE
+Latvian	TUR

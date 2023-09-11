@@ -1,0 +1,5 @@
+Swedish_VL	FJEL
+Swedish_VL	FJAL
+Riksmal	FJELL
+Icelandic_ST	FJALL
+Faroese	FJALL

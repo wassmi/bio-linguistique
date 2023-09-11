@@ -1,0 +1,12 @@
+Lusatian_L	ZESE
+Lusatian_U	DZECO
+Czech	DITE
+Slovak	DIETA
+Czech_E	DYITYE
+Ukrainian	DYTYNA
+Ukrainian	DYTJA
+Byelorussian	DZICE
+Polish	DZIECKO
+Macedonian	DETE
+Bulgarian	DETE
+Serbocroatian	DETE

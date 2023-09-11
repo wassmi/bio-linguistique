@@ -1,0 +1,11 @@
+Romanian_List	GREU
+Vlach	GREU
+Italian	GREVE
+Provencal	GREU
+Sardinian_L	GRAVE
+Sardinian_C	GRAI
+Spanish	GRAVE
+Nepali_List	GARAU
+Khaskura	GARUNGO
+Baluchi	GIRAN
+Wakhi	GHURUNG

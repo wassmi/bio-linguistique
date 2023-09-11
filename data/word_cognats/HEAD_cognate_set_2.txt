@@ -1,0 +1,4 @@
+Albanian_T	KRYE
+Albanian_G	KRYET
+Albanian_K	KRIE
+ALbanian_C	KRIE

@@ -1,0 +1,17 @@
+Sardinian_N	ISKIRE
+Sardinian_L	ISCHIRE
+Sardinian_C	SIRI
+Italian	SAPERE
+Ladin	SAVAIR
+Provencal	SABE
+Provencal	SAUPRE
+French	SAVOIR
+Walloon	SAVEUR
+Walloon	SAVU
+Walloon	SEPI
+French_Creole_C	SAV-SE
+French_Creole_D	SAV
+Spanish	SABER
+Portuguese_ST	SABER
+Brazilian	SABER
+Sranan	SABI

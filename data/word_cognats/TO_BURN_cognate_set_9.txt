@@ -1,0 +1,6 @@
+Romanian_List	ARDE
+Vlach	ARTU
+Italian	ARDERE
+Ladin	ARDER
+Spanish	ARDER
+Portuguese_ST	ARDER

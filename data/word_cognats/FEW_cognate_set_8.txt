@@ -1,0 +1,5 @@
+German_ST	WENIG
+Dutch_List	WEINIG
+Afrikaans	WEINIG
+Flemish	WEINIG
+Sranan	WEINIKI

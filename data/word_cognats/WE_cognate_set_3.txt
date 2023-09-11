@@ -1,0 +1,7 @@
+Ossetic	MAX
+Afghan	MUZ
+Waziri	MIZH
+Persian_List	MA
+Tadzik	MO
+Tadzik	MOEN
+Baluchi	MA

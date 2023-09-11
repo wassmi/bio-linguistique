@@ -1,0 +1,8 @@
+Frisian	NJONKE
+Swedish_Up	NARA
+Swedish_VL	NAR
+Swedish_List	NARA
+Danish	NAER
+Riksmal	NAER
+Faroese	NAR
+English	NEAR

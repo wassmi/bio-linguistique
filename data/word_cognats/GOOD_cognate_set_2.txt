@@ -1,0 +1,13 @@
+German_ST	GUT
+Penn_Dutch	GUUT
+Dutch_List	GOED
+Afrikaans	GOED
+Flemish	GOED
+Swedish_Up	GOD
+Swedish_VL	GO
+Swedish_List	GOD
+Danish	GOD
+Riksmal	GOD
+Icelandic_ST	GOOR
+Faroese	GODUR
+English	GOOD

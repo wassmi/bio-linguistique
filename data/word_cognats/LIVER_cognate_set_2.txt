@@ -1,0 +1,10 @@
+Irish_A	AE
+Irish_A	AENNA
+Irish_B	AE
+Afghan	INA
+Waziri	YENNA
+Welsh_N	AFU
+Welsh_C	AFU
+Breton_List	AVU
+Breton_SE	AHU
+Breton_ST	AVU

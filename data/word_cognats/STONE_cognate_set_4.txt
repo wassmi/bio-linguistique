@@ -1,0 +1,11 @@
+Ossetic	DUR
+Welsh_N	CARREG
+Welsh_C	CARREG
+Armenian_Mod	K*AR
+Armenian_List	KAR
+Wakhi	GHAR
+Albanian_T	GUR
+Albanian_Top	GUR
+Albanian_G	GURI
+Albanian_K	GUUR
+ALbanian_C	GUR

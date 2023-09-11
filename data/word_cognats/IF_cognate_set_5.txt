@@ -1,0 +1,5 @@
+Persian_List	AGAR
+Tadzik	AGAR
+Baluchi	AR
+Baluchi	AR-KI
+Wakhi	UGER

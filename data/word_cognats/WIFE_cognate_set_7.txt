@@ -1,0 +1,5 @@
+Italian	SPOSA
+French	EPOUSE
+Spanish	ESPOSA
+Portuguese_ST	ESPOSA
+Brazilian	ESPOSA

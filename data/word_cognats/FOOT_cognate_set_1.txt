@@ -1,0 +1,9 @@
+Lusatian_L	NOGA
+Lusatian_U	NOHA
+Czech	NOHA
+Slovak	NOHA
+Czech_E	NOHA
+Ukrainian	NOGA
+Russian	NOGA
+Macedonian	NOGA
+Serbocroatian	NOGA

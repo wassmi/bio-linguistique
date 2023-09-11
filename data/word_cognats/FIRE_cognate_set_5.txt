@@ -1,0 +1,7 @@
+Irish_A	TEINE
+Irish_B	TEINE
+Welsh_N	TAN
+Welsh_C	TAN
+Breton_List	TAN
+Breton_SE	TAN
+Breton_ST	TAN

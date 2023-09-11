@@ -1,0 +1,7 @@
+Lahnda	XUN
+Nepali_List	KHUN
+Persian_List	KHUN
+Tadzik	XUN
+Baluchi	HON
+Wakhi	WUSEN
+Wakhi	XUN

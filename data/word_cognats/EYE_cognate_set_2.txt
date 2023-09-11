@@ -1,0 +1,4 @@
+Persian_List	CHASHM
+Tadzik	CASM
+Baluchi	CHHAM
+Wakhi	CEZM

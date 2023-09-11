@@ -1,0 +1,6 @@
+Greek_ML	DENDRO
+Greek_MD	DENTRO
+Greek_Mod	DHENDRO
+Greek_D	DENTRO
+Greek_K	DENDRON
+Albanian_K	DHENDRO

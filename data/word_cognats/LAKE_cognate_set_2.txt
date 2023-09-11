@@ -1,0 +1,7 @@
+German_ST	SEE
+Swedish_Up	SJO
+Swedish_VL	SO
+Swedish_List	SJO
+Swedish_List	INSJO
+Danish	SO
+Sranan	ZEE

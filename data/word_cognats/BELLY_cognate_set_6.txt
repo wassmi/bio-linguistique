@@ -1,0 +1,5 @@
+Swedish_Up	MAGE
+Swedish_VL	MAGA
+Swedish_List	MAGE
+Riksmal	MAVE
+Icelandic_ST	MAGI

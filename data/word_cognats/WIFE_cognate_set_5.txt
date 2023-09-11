@@ -1,0 +1,4 @@
+Albanian_T	GRUA
+Albanian_Top	GRUA
+Albanian_G	GRUJA
+Albanian_K	GRUA

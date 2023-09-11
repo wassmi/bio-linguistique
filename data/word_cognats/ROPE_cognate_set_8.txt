@@ -1,0 +1,4 @@
+French_Creole_C	LIN
+Swedish_List	LINA
+Ukrainian	LYNVA
+Singhalese	LANUWA

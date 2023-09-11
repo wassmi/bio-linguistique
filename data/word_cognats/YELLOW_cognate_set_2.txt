@@ -1,0 +1,4 @@
+Sardinian_N	GROGU
+Sardinian_L	GROGU
+Sardinian_C	GROGU
+Catalan	GROCH

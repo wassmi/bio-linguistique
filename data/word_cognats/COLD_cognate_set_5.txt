@@ -1,0 +1,4 @@
+Greek_ML	KRUO
+Greek_MD	KRUOS
+Greek_Mod	KRIOS
+Greek_D	KRUO

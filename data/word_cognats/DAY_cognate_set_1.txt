@@ -1,0 +1,7 @@
+Greek_ML	MERA
+Greek_MD	MERA
+Greek_MD	HEMERA
+Greek_Mod	MERA
+Greek_D	MERA
+Greek_D	HEMERA
+Greek_K	HEMERA

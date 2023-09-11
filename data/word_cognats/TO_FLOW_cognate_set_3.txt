@@ -1,0 +1,13 @@
+Italian	FLUIRE
+Ladin	FLUIR
+Spanish	FLUIR
+German_ST	FLIESSEN
+Swedish_Up	FLYTA
+Swedish_VL	FLYT
+Swedish_List	FLYTA
+Danish	FLYDE
+English	FLOW
+Latvian	PLUST
+Slovenian	PLAVATI
+Slovak	PLYNUT
+Byelorussian	PLYC*

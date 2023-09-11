@@ -1,0 +1,15 @@
+Romanian_List	RESPIRA
+Romanian_List	RASUFLA
+Italian	RESPIRARE
+Ladin	RESPIRER
+Provencal	RESPIRA
+French	RESPIRER
+Walloon	RESPIRER
+French_Creole_C	HWESPIHWE
+French_Creole_D	WESPIRE
+Sardinian_N	SUSPIRARE
+Sardinian_L	RESPIRARE
+Sardinian_C	RESPIRAI
+Spanish	RESPIRAR
+Portuguese_ST	RESPIRAR
+Brazilian	RESPIRAR

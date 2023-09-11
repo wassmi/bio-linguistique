@@ -1,0 +1,15 @@
+German_ST	LEBER
+Penn_Dutch	LEVVER
+Dutch_List	LEVER
+Afrikaans	LEWER
+Flemish	LEVER
+Frisian	LEVER
+Swedish_Up	LEVER
+Swedish_VL	LEVAR
+Swedish_List	LEVER
+Danish	LEVER
+Riksmal	LEVER
+Icelandic_ST	LIFR
+Faroese	LIVUR
+English	LIVER
+Sranan	LEVER

@@ -1,0 +1,10 @@
+Romani	BESAV
+Marathi	BESNE.
+Gujarati	BESWU
+Bengali	BOSA
+Khaskura	BASNU
+Kashmiri	BEHUN
+Panjabi_ST	BETHNA
+Lahnda	BAETHEN
+Hindi	BETHNA
+Nepali_List	BAITHANU

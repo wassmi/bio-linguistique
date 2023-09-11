@@ -1,0 +1,5 @@
+Lithuanian_O	TODEL-KAD
+Lithuanian_O	UZTAI-KAD
+Lithuanian_ST	TODEL-KAD
+Lithuanian_ST	UZ-TAI-KAD
+Latvian	TAPEC-KA

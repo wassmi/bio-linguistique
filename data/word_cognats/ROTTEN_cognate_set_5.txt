@@ -1,0 +1,5 @@
+Albanian_T	I-KALBUR
+Albanian_Top	KALHBUR
+Albanian_G	KALBET
+Albanian_K	KALHBETE
+ALbanian_C	I-KALBET

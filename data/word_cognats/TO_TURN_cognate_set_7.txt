@@ -1,0 +1,4 @@
+Greek_ML	GURIDZO
+Greek_MD	GURISZO
+Greek_MD	GURNO
+Greek_D	GURNAO

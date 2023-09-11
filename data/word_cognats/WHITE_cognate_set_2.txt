@@ -1,0 +1,5 @@
+Albanian_T	I-BARDHE
+Albanian_Top	I-BARDHE
+Albanian_G	BARDH
+Albanian_K	BARDH
+ALbanian_C	I-BARDH

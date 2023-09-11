@@ -1,0 +1,14 @@
+Italian	GELARE
+Ladin	DSCHLER
+Provencal	GELA
+Provencal	JALA
+French	GELER
+Walloon	DJALER
+French_Creole_C	ZELE
+French_Creole_D	ZELE
+Sardinian_L	GHELARE
+Sardinian_C	GELAI
+Spanish	HELAR
+Portuguese_ST	GELAR
+Brazilian	GELAR
+Catalan	GELAR

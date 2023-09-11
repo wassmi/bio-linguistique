@@ -1,0 +1,5 @@
+Greek_ML	STOMA
+Greek_MD	STOMA
+Greek_Mod	STOMA
+Greek_D	STOMA
+Greek_K	STOMA

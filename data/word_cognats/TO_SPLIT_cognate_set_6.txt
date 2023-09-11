@@ -1,0 +1,12 @@
+Italian	FENDARE
+Ladin	SFENDER
+Ladin	FENDER
+Provencal	FENDRE
+French	FENDRE
+Walloon	FINDE
+French_Creole_C	FAN
+French_Creole_D	FAN
+Spanish	HENDER
+Portuguese_ST	FENDER
+Brazilian	FENDER
+Ossetic	FANDYN

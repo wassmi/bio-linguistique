@@ -1,0 +1,7 @@
+Singhalese	ISTRIYAK
+Kashmiri	TRIY
+Gujarati	STRI
+Lahnda	TRIMMET
+Hindi	STRI
+Nepali_List	TIRIYA
+Nepali_List	STRI

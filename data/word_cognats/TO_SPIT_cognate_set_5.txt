@@ -1,0 +1,5 @@
+Breton_List	KRANCHAT
+Ladin	SCRACHER
+French	CRACHER
+French_Creole_C	KHWASE
+French_Creole_D	KWASE

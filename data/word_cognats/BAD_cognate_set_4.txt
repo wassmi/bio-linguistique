@@ -1,0 +1,4 @@
+Breton_List	FALL
+Breton_List	FALS
+Breton_SE	FALL
+Breton_ST	FALL

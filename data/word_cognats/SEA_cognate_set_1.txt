@@ -1,0 +1,14 @@
+Kashmiri	SODAR
+Kashmiri	SAGAR
+Hindi	SAGER
+Bengali	SAGOR
+Kashmiri	SAMANDAR
+Marathi	SEMUDRE
+Panjabi_ST	SEMUNDER
+Lahnda	SEMUNDER
+Hindi	SEMUDR
+Bengali	SAMUDRO
+Nepali_List	SAMUDRA
+Khaskura	SAMUNDAR
+Waziri	SAMUNDAR-DARYOB
+Baluchi	SAMUNDAR

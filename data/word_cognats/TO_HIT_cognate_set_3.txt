@@ -1,0 +1,4 @@
+German_ST	TREFFEN
+Flemish	TREFFEN
+Swedish_Up	TRAFFA
+Danish	TRAEFFE

@@ -1,0 +1,5 @@
+Albanian_T	I-RENDE
+Albanian_Top	I-RENDE
+Albanian_G	RAND
+Albanian_K	IRENDE
+ALbanian_C	I-REND

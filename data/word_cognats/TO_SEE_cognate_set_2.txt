@@ -1,0 +1,6 @@
+Welsh_N	GWELD
+Welsh_C	GWELED
+Breton_List	GWELOUT
+Breton_List	GWELET
+Breton_SE	GUELET
+Breton_ST	GWELOUT

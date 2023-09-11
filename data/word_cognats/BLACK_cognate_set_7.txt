@@ -1,0 +1,6 @@
+Albanian_T	ZI
+Albanian_T	ZEZE
+Albanian_Top	I-ZI
+Albanian_G	ZI
+Albanian_K	ZII
+ALbanian_C	I-ZI

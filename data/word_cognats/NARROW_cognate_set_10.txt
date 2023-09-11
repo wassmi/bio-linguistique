@@ -1,0 +1,6 @@
+Swedish_Up	TRANG
+Swedish_VL	TRANG
+Swedish_VL	TRONG
+Swedish_List	TRANG
+Icelandic_ST	THRONGUR
+Faroese	TRONGUR

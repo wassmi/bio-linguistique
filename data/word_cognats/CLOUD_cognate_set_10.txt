@@ -1,0 +1,5 @@
+Greek_ML	SUNNEFO
+Greek_MD	SUNNEFO
+Greek_Mod	SIGHNEFO
+Greek_D	SUNNEFO
+Greek_K	NEFOS

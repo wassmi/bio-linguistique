@@ -1,0 +1,8 @@
+Slovenian	STISNI
+Czech	STISKNOUTI
+Slovak	TISNUT
+Czech_E	STYISKNUT
+Ukrainian	TYSNUTY
+Byelorussian	SCISKAC*
+Byelorussian	VYCISKAC*
+Bulgarian	DA-STISNE

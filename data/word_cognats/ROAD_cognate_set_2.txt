@@ -1,0 +1,4 @@
+Slovenian	CESTA
+Czech	CESTA
+Slovak	CESTA
+Czech_E	CESTA

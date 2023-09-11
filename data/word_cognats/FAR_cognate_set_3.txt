@@ -1,0 +1,5 @@
+Breton_List	LARK
+Sardinian_N	ILLARGU
+Albanian_T	LURG
+Albanian_Top	LARK
+Albanian_G	LARG

@@ -1,0 +1,14 @@
+Slovenian	JEZIK
+Lusatian_L	JEZYK
+Lusatian_U	JAZYK
+Czech	JAZYK
+Slovak	JAZYK
+Czech_E	JAZIK
+Ukrainian	JAZYK
+Byelorussian	JAZYK
+Polish	JEZYK
+Russian	JAZYK
+Macedonian	JAZIK
+Bulgarian	EZIK
+Serbocroatian	JEZIK
+Wakhi	ZIK

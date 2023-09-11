@@ -1,0 +1,14 @@
+Slovenian	NEBO
+Lusatian_L	NJEBJO
+Lusatian_U	NJEBJO
+Czech	NEBE
+Slovak	NEBO
+Czech_E	NEBE
+Ukrainian	NEBO
+Byelorussian	NEBA
+Polish	NIEBO
+Russian	NEBO
+Macedonian	NEBO
+Bulgarian	NEBE
+Serbocroatian	NEBO
+Kashmiri	NAB

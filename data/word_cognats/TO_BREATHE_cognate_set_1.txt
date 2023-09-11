@@ -1,0 +1,14 @@
+Slovenian	DIHAT
+Slovenian	DIHAS
+Lusatian_L	DYCHAS
+Lusatian_U	DYCHAC
+Czech	DYCHATI
+Slovak	DYCHAT
+Czech_E	DIXAT
+Ukrainian	VIDDYXATY
+Byelorussian	DYXAC*
+Polish	ODDYCHAC
+Russian	DYSAT
+Macedonian	DISI
+Bulgarian	DA-DISA
+Serbocroatian	DISATI

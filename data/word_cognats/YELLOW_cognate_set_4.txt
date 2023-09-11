@@ -1,0 +1,4 @@
+Albanian_T	I-VERDHE
+Albanian_Top	I-VERDHE
+Albanian_G	VERDH
+Albanian_K	VERDHE

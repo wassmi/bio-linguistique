@@ -1,0 +1,5 @@
+Greek_ML	LIPOS
+Greek_MD	LIPOS
+Greek_D	LIPOS
+Greek_K	LIPOS
+Albanian_K	LHIPOS

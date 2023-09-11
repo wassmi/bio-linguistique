@@ -1,0 +1,7 @@
+Marathi	THEND
+Gujarati	THENDI
+Panjabi_ST	THEND
+Lahnda	THEND
+Hindi	THENDA
+Bengali	THANDA
+Nepali_List	THANDA

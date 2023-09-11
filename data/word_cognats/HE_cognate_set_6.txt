@@ -1,0 +1,7 @@
+Marathi	HA
+Dutch_List	HIJ
+Afrikaans	HY
+Flemish	HY
+Frisian	HIJKE
+English	HE
+Sranan	HEM

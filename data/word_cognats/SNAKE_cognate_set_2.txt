@@ -1,0 +1,4 @@
+Afghan	MAR
+Persian_List	MAR
+Tadzik	MOR
+Baluchi	MAR

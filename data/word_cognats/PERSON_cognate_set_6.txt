@@ -1,0 +1,15 @@
+German_ST	MENSCH
+Penn_Dutch	MENSCH
+Dutch_List	MENSCH
+Flemish	MENSCH
+Frisian	MINSKE
+Swedish_VL	MANIS
+Riksmal	MENNESKE
+Icelandic_ST	MAOR
+Faroese	MADUR
+Romani	MANUS
+Singhalese	MINIHA
+Marathi	MANUS
+Gujarati	MANES
+Nepali_List	MANIS
+Nepali_List	MANCHE

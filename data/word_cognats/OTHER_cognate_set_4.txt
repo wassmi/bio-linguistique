@@ -1,0 +1,6 @@
+Czech	JINY
+Slovak	INY
+Ukrainian	INSYJ
+Byelorussian	INSY
+Polish	INNY
+Ossetic	INNAE

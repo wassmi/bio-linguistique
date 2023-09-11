@@ -1,0 +1,7 @@
+Breton_List	TUFA
+Breton_ST	TUFAN
+Greek_ML	FTUNO
+Greek_MD	FTUNO
+Greek_Mod	FTYO
+Greek_D	FTUNO
+Greek_K	PTUO

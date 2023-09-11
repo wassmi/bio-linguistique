@@ -1,0 +1,5 @@
+Welsh_N	GWYN
+Welsh_C	GWYN
+Breton_List	GWENN
+Breton_SE	GUEN
+Breton_ST	GWENN

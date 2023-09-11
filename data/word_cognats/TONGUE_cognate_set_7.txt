@@ -1,0 +1,4 @@
+Romanian_List	LIMBA
+Vlach	LIMBE
+Sardinian_N	LIMBA
+Sardinian_L	LIMBA

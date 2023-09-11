@@ -1,0 +1,6 @@
+Greek_ML	KAIGETAI
+Greek_MD	KAIETAI
+Greek_Mod	KEO
+Greek_D	KAIOMAI
+Greek_K	KAIOMAI
+Greek_K	FLEGOMAI

@@ -1,0 +1,5 @@
+Albanian_T	SHUME
+Albanian_Top	SUME
+Albanian_G	SHUM
+Albanian_K	SUME
+ALbanian_C	SUM

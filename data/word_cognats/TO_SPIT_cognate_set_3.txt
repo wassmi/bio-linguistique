@@ -1,0 +1,16 @@
+Ossetic	TU-KAENYN
+Persian_List	TOF-KARDAN
+Tadzik	TUF-KARDAN
+Kashmiri	THOKUN
+Marathi	THUNKNE.
+Panjabi_ST	THUKKENA
+Lahnda	THUKKEN
+Nepali_List	THUKNU
+Khaskura	THUKNU
+Armenian_Mod	T*UK*
+Armenian_List	TUKNEL
+Afghan	TUKEL
+Afghan	TUKAVEL
+Waziri	TIKAWEL
+Baluchi	THUK
+Hindi	KHUKNA

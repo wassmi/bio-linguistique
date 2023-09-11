@@ -1,0 +1,4 @@
+Albanian_T	ME-ECUR
+Albanian_Top	ECEN
+Albanian_Top	ECA
+Albanian_K	ECEN

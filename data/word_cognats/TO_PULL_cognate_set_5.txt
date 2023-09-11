@@ -1,0 +1,4 @@
+Latvian	VILKT
+Ukrainian	VOLOCYTY
+Macedonian	VLECE
+Serbocroatian	VUCI

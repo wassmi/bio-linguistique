@@ -1,0 +1,7 @@
+Marathi	DHUNE.
+Gujarati	DHOWU
+Panjabi_ST	TONA
+Lahnda	DHOWEN
+Hindi	DHONA
+Bengali	DHOA
+Nepali_List	DHUNU

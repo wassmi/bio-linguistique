@@ -1,0 +1,12 @@
+Slovenian	KJE
+Lusatian_U	HDZE
+Czech	KDE
+Slovak	KDE
+Czech_E	GDE
+Ukrainian	DE-KUDY
+Byelorussian	DZE
+Polish	GDZIE
+Russian	GDE
+Macedonian	KADE
+Bulgarian	KEDE
+Serbocroatian	GDE

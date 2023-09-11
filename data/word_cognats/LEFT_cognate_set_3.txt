@@ -1,0 +1,6 @@
+Irish_A	CLE
+Irish_B	CLI
+Irish_B	CLE
+Breton_List	KLEIZ
+Breton_SE	KLEI
+Breton_ST	KLEIZ

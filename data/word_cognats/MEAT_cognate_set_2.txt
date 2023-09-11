@@ -1,0 +1,6 @@
+Waziri	GHOSHA
+Waziri	GHESHA
+Persian_List	GUSHT
+Tadzik	GUST
+Baluchi	GOZHD
+Wakhi	GOST

@@ -1,0 +1,9 @@
+Kashmiri	GEWUN
+Marathi	GANE
+Gujarati	GAWU
+Panjabi_ST	GONA
+Lahnda	GAWEN
+Hindi	GANA
+Bengali	GAOA
+Nepali_List	GAUNU
+Khaskura	GANU

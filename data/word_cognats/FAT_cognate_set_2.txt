@@ -1,0 +1,7 @@
+Lithuanian_O	TAUKAI
+Lithuanian_ST	TAUKAI
+Latvian	TAUKS
+Latvian	TREKNS
+Lusatian_L	TUK
+Lusatian_U	TUK
+Byelorussian	TUK

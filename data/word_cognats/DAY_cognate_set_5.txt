@@ -1,0 +1,8 @@
+Romanian_List	ZI
+Vlach	ZUE
+Italian	GIORNO
+Provencal	JOUR
+French	JOUR
+Walloon	DJOU
+French_Creole_C	ZU
+French_Creole_D	ZU

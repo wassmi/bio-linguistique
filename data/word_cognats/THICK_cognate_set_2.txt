@@ -1,0 +1,6 @@
+Singhalese	MAHATA
+Kashmiri	MOTU
+Lahnda	MOTA
+Hindi	MOTA
+Bengali	MOTA
+Khaskura	MOTO

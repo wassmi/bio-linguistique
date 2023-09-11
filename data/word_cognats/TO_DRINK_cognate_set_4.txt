@@ -1,0 +1,17 @@
+Romanian_List	BEA
+Vlach	BEAU
+Italian	BERE
+Italian	BEVERE
+Ladin	BAIVER
+Provencal	BEURE
+French	BOIRE
+Walloon	BEURE
+French_Creole_C	BWE
+French_Creole_D	BWE
+Sardinian_N	BIERE
+Sardinian_L	BIERE
+Sardinian_C	BUFFAI
+Spanish	BEBER
+Portuguese_ST	BEBER
+Brazilian	BEBER
+Catalan	BEURER

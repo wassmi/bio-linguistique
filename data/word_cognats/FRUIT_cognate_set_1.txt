@@ -1,0 +1,11 @@
+Singhalese	PALATURU
+Singhalese	PHALA
+Kashmiri	PHAL
+Marathi	PHEL
+Gujarati	FEL
+Panjabi_ST	PHEL
+Lahnda	PHEL
+Hindi	PHEL
+Bengali	PHOL
+Nepali_List	PHAL
+Khaskura	PHALPHUL

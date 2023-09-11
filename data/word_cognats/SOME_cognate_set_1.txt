@@ -1,0 +1,8 @@
+Swedish_Up	NAGRA
+Swedish_VL	NAGRA
+Swedish_List	NAGON
+Swedish_List	NAGRA
+Danish	NOGEN
+Riksmal	NOEN
+Icelandic_ST	NOKKRIR
+Faroese	NAKRIR

@@ -1,0 +1,10 @@
+German_ST	SCHLAGEN
+Penn_Dutch	SCHLOCK
+Afrikaans	SLAAN
+Flemish	SLAEN
+Frisian	SLAEN
+Swedish_VL	SLA-SLA
+Swedish_List	SLA
+Riksmal	SLA
+Icelandic_ST	SLA
+Faroese	SLAA

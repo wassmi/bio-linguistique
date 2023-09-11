@@ -1,0 +1,5 @@
+English	DIRTY
+Riksmal	DRITT
+Icelandic_ST	DRIT
+Penn_Dutch	DRECKICH
+Sranan	DOTI

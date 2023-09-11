@@ -1,0 +1,4 @@
+Irish_A	DUINE
+Breton_List	DEN
+Breton_SE	DEN
+Breton_ST	DEN

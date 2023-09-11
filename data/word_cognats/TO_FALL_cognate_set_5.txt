@@ -1,0 +1,15 @@
+German_ST	FALLEN
+Penn_Dutch	FOLL
+Dutch_List	VALLEN
+Afrikaans	VAL
+Flemish	VALLEN
+Frisian	FALLE
+Swedish_Up	FALLA
+Swedish_VL	FAL
+Swedish_List	FALLA
+Danish	FALDE
+Riksmal	FALLE
+Icelandic_ST	FALLA
+Faroese	FALLA
+English	FALL
+Sranan	FADOM

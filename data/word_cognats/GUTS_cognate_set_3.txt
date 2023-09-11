@@ -1,0 +1,11 @@
+Ladin	BOGL
+Provencal	BUDEU
+French_Creole_D	BUDE
+Catalan	BUDELL
+Breton_List	BOUZELLOU
+Breton_SE	BOELLEU
+Breton_ST	BOUZELLOU
+Provencal	BOUIEU
+French	BOYAU
+Walloon	BOYE
+Sranan	BELE

@@ -1,0 +1,16 @@
+German_ST	LEBEN
+Penn_Dutch	LAYB
+Dutch_List	LEVEN
+Afrikaans	LEEF
+Afrikaans	LEWE
+Flemish	LEVEN
+Frisian	LEVE
+Swedish_Up	LEVA
+Swedish_VL	LEVA
+Swedish_List	LEVA
+Danish	LEVE
+Riksmal	LEVE
+Icelandic_ST	LIFA
+Faroese	LIVA
+English	LIVE
+Sranan	LIEBI

@@ -1,0 +1,15 @@
+French	PETIT
+Walloon	PTIT
+French_Creole_C	PITI
+French_Creole_D	PITI
+Catalan	PETIT
+Italian	PICCOLO
+Ladin	PITSCHEN
+Provencal	PICHOT
+Provencal	PICHOUN
+Sardinian_L	PICOCCU
+Sardinian_C	PITTIKKU
+Spanish	PEQUENO
+Portuguese_ST	PEQUENO
+Brazilian	PEQUENO
+Sranan	PIKIN

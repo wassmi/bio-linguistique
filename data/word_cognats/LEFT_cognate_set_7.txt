@@ -1,0 +1,15 @@
+English	LEFT
+Slovenian	LEVIC
+Slovenian	LEVA-RAKA
+Lusatian_L	LEWY
+Lusatian_U	LEWY
+Czech	LEVY
+Slovak	AVY
+Czech_E	LEVO
+Ukrainian	LIVYJ
+Byelorussian	LEVY
+Polish	LEWY
+Russian	LEVYJ
+Macedonian	LEV
+Bulgarian	LJAVO
+Serbocroatian	LJEVICA

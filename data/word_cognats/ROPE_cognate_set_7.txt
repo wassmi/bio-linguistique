@@ -1,0 +1,5 @@
+Lusatian_L	POWEZ
+Lusatian_U	POWJAC
+Czech	PROVAZ
+Slovak	POVRAZ
+Czech_E	PROVAS

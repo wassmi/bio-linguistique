@@ -1,0 +1,5 @@
+Lithuanian_O	PLATUS
+Lithuanian_ST	PLATUS
+Latvian	PLATS
+Greek_MD	PLATUS
+Greek_Mod	PLATIS

@@ -1,0 +1,4 @@
+Swedish_Up	SLO
+Swedish_VL	SLOG
+Danish	SLOV
+Riksmal	SLOV

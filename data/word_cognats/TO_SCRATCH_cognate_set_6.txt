@@ -1,0 +1,4 @@
+Persian_List	KHARIDAN
+Tadzik	XORIDAN
+Baluchi	KHARAGH
+Baluchi	KHARITH

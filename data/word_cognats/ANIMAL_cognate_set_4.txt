@@ -1,0 +1,9 @@
+Lithuanian_O	GYVULYS
+Lithuanian_ST	GYVULYS
+Latvian	DZIVNIEKS
+Slovenian	ZIVALI
+Byelorussian	ZYVELA
+Russian	ZIVOTNOE
+Macedonian	ZIVOTINKA
+Bulgarian	ZIVOTNO
+Serbocroatian	ZIVOTINJA

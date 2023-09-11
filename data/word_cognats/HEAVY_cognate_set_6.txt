@@ -1,0 +1,5 @@
+Greek_ML	BARUS
+Greek_MD	BARUS
+Greek_Mod	VARIS
+Greek_D	BARUS
+Greek_K	BARUS

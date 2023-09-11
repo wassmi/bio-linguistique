@@ -1,0 +1,13 @@
+Slovenian	CRNU
+Lusatian_L	CARNY
+Lusatian_U	CORNY
+Czech	CERNY
+Slovak	CIERNY
+Czech_E	CERNE
+Ukrainian	CORNYJ
+Byelorussian	CORNY
+Polish	CZARNY
+Russian	CERNYJ
+Macedonian	CRN
+Bulgarian	CERNO
+Serbocroatian	CRN

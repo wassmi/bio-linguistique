@@ -1,0 +1,4 @@
+Ukrainian	KISKI
+Byelorussian	KISKI
+Polish	KISZKI
+Russian	KISKI

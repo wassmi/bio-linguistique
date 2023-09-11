@@ -1,0 +1,13 @@
+Italian	VOLARE
+Ladin	SVOLER
+Provencal	VOULA
+French	VOLER
+Walloon	VOLER
+French_Creole_C	VOLE
+French_Creole_D	VOLE
+Sardinian_N	VOLARE
+Sardinian_L	BOLARE
+Sardinian_C	BOLAI
+Spanish	VOLAR
+Portuguese_ST	VOAR
+Brazilian	VOAR

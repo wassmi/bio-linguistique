@@ -1,0 +1,10 @@
+Breton_List	SKOPA
+Breton_SE	SKOPEIN
+Breton_ST	SKOPAN
+Romanian_List	SCUIPA
+Vlach	ASKUKU
+Provencal	ESCUPI
+Sardinian_C	SKUPPI
+Spanish	ESCUPIR
+Portuguese_ST	CUSPIR
+Brazilian	CUSPIR

@@ -1,0 +1,16 @@
+Irish_A	ANAL-DO-THARRAINMGT
+Irish_B	ANALAIM
+Welsh_N	ANADLU
+Welsh_C	ANADLU
+Breton_List	ALANAT
+Breton_SE	HANALEIN
+Breton_ST	ANALAT
+Provencal	ALENA
+French_Creole_C	PWA-HALEN
+Catalan	ALENAR
+Swedish_Up	ANDAS
+Swedish_VL	AN
+Swedish_List	ANDAS
+Danish	AANDE
+Icelandic_ST	ANDA
+Faroese	ANDA

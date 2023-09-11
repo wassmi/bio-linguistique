@@ -1,0 +1,15 @@
+Marathi	PHUL
+Gujarati	FUL
+Panjabi_ST	PHULL
+Lahnda	PHUL
+Hindi	PHUL
+Bengali	PHUL
+Nepali_List	PHUL
+Khaskura	PHUL
+Baluchi	PHUL
+Kashmiri	GUL
+Afghan	GUL
+Waziri	GUL
+Persian_List	GOL
+Tadzik	GUL
+Wakhi	GUL

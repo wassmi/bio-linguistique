@@ -1,0 +1,5 @@
+Welsh_N	LLYGAD
+Welsh_C	LLYGAD
+Breton_List	LAGAD
+Breton_SE	LAGAD
+Breton_ST	LAGAD

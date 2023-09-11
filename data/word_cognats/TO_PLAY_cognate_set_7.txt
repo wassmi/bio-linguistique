@@ -1,0 +1,7 @@
+Swedish_Up	LEKA
+Swedish_VL	LEK
+Swedish_List	LEKA
+Danish	LEGE
+Riksmal	LEKE
+Icelandic_ST	LEIKA-SER
+Faroese	LEIKA

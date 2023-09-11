@@ -1,0 +1,4 @@
+Greek_MD	KRATO
+Greek_Mod	KRATO
+Greek_D	KRATAO
+Greek_K	KRATO

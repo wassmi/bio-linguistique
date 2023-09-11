@@ -1,0 +1,9 @@
+Ossetic	XUDYN
+Afghan	XANDEL
+Waziri	KHANDEL
+Persian_List	KHANDIDAN
+Tadzik	XANDIDAN
+Baluchi	KHANDAGH
+Baluchi	KHANDITHA
+Wakhi	KUND
+Armenian_List	KHUNTAL

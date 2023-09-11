@@ -1,0 +1,6 @@
+Kashmiri	PAN
+Marathi	PAN
+Gujarati	PAN
+Gujarati	PANDERU
+Afghan	PANA
+Waziri	PONRYE

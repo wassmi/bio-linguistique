@@ -1,0 +1,4 @@
+Lithuanian_O	ZOLE
+Lithuanian_ST	ZOLE
+Latvian	ZALE
+Greek_K	CHLOE

@@ -1,0 +1,17 @@
+Romani	XAV
+Singhalese	KANAWA
+Kashmiri	KHYONU
+Marathi	KHANE.
+Gujarati	KHAWU
+Panjabi_ST	KHANA
+Lahnda	KHAWEN
+Hindi	KHANA
+Bengali	KHAOA
+Nepali_List	KHANU
+Khaskura	KHANU
+Albanian_T	ME-NGRENE
+Albanian_Top	HA
+Albanian_Top	HENGERA
+Albanian_G	HA
+Albanian_K	XAA
+ALbanian_C	XA

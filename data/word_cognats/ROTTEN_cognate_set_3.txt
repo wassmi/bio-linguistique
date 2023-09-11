@@ -1,0 +1,6 @@
+Lithuanian_O	SUPUVES
+Lithuanian_ST	SUPUVES
+Latvian	SAPUVIS
+Romani	SAPYO
+Greek_ML	SAPIOS
+Greek_Mod	SAPYOS

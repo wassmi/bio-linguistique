@@ -1,0 +1,4 @@
+Welsh_N	AWEL
+Breton_List	AVEL
+Breton_SE	AUEL
+Breton_ST	AVEL

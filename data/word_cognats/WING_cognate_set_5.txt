@@ -1,0 +1,11 @@
+Italian	ALA
+Ladin	ELA
+Provencal	ALO
+French	AILE
+Walloon	ELE
+French_Creole_C	ZEL
+French_Creole_D	ZEL
+Sardinian_N	ALA
+Sardinian_L	ALA
+Sardinian_C	ALA
+Spanish	ALA

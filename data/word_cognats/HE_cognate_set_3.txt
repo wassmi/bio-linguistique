@@ -1,0 +1,12 @@
+Slovenian	ON
+Lusatian_L	WON
+Lusatian_U	WON
+Czech	ON
+Slovak	ON
+Czech_E	ON
+Ukrainian	VIN
+Byelorussian	EN
+Polish	ON
+Russian	ON
+Macedonian	ON
+Serbocroatian	ON

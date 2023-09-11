@@ -1,0 +1,17 @@
+German_ST	WAS
+Penn_Dutch	WAAS
+Dutch_List	WAT
+Afrikaans	WAT
+Afrikaans	WATTER
+Flemish	WAT
+Frisian	HWAT
+Swedish_Up	VAD
+Swedish_Up	VA
+Swedish_VL	VA
+Swedish_VL	VA
+Swedish_List	VAD
+Danish	HVAD
+Riksmal	HVAD
+Icelandic_ST	HVAO
+Faroese	HVAT
+English	WHAT

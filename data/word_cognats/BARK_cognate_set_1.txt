@@ -1,0 +1,5 @@
+Welsh_N	RHISGL
+Provencal	RUSCO
+Welsh_C	RHISGL
+Breton_List	RUSK
+Breton_ST	RUSK

@@ -1,0 +1,5 @@
+Albanian_T	GJARPER
+Albanian_Top	GARPER
+Albanian_G	GJARPEN
+Albanian_K	GARPER
+ALbanian_C	GALPHRH

@@ -1,0 +1,3 @@
+Kashmiri	OBUR
+Persian_List	ABR
+Tadzik	ABR

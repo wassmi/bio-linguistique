@@ -1,0 +1,17 @@
+English	SMALL
+Slovenian	MAJKEN
+Slovenian	MICKN
+Lusatian_L	MALKI
+Lusatian_U	MALY
+Czech	MALY
+Slovak	MALY
+Czech_E	MALE
+Ukrainian	MALYJ
+Ukrainian	MALEN*KYJ
+Byelorussian	MALY
+Polish	MALY
+Russian	MALEN-KIJ
+Macedonian	MAL
+Macedonian	MALECOK
+Bulgarian	MALKO
+Serbocroatian	MALI

@@ -1,0 +1,11 @@
+Albanian_T	ATJE
+Albanian_Top	ATJE
+Albanian_G	ATJE
+Albanian_G	ATY
+Albanian_K	ATJE
+ALbanian_C	ATJE
+Panjabi_ST	OTTHE
+Lahnda	UTTHA
+Nepali_List	UTA
+Khaskura	UTHA
+Baluchi	ODHA

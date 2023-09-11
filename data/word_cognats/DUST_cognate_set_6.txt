@@ -1,0 +1,6 @@
+Irish_A	DUSTA
+Faroese	DUST
+English	DUST
+Baluchi	DATO
+Baluchi	DATO
+Baluchi	DANZ

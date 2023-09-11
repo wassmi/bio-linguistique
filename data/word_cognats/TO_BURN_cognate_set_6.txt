@@ -1,0 +1,11 @@
+Irish_A	DOGHADH
+Irish_B	DOIGHIM
+Lithuanian_O	DEGINTI
+Lithuanian_ST	DEGTI
+Latvian	DEDZINAT
+Kashmiri	DAZUN
+Albanian_Top	DIGEM
+Albanian_Top	UDOGA
+Albanian_G	DIGJEM
+Albanian_K	DIGEM
+ALbanian_C	DJEK

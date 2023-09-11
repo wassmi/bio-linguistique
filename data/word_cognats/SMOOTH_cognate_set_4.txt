@@ -1,0 +1,3 @@
+Afghan	SAF
+Persian_List	SAF
+Lahnda	SAF

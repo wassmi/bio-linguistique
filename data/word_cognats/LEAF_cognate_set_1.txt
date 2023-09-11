@@ -1,0 +1,12 @@
+Lusatian_L	LIST
+Lusatian_U	LIST
+Czech	LIST
+Slovak	LIST
+Czech_E	LIST
+Ukrainian	LYST
+Byelorussian	LIST
+Polish	LISC
+Russian	LIST
+Macedonian	LIST
+Bulgarian	LIST
+Serbocroatian	LIST

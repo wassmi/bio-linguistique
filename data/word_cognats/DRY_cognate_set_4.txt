@@ -1,0 +1,9 @@
+Irish_A	TIRIM
+Swedish_Up	TORR
+Swedish_VL	TOR
+Swedish_List	TORR
+Danish	TOR
+Riksmal	TORR
+Icelandic_ST	THURR
+Faroese	TURRUR
+ALbanian_C	I-TERM

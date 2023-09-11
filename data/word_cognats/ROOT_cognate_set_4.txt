@@ -1,0 +1,6 @@
+Singhalese	MULA
+Kashmiri	MUL
+Marathi	MUL
+Gujarati	MUL
+Hindi	MUL
+Khaskura	MULA

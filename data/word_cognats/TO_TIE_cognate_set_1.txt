@@ -1,0 +1,15 @@
+Slovenian	ZVEZI
+Lusatian_L	WEZAS
+Lusatian_U	WJAZAC
+Czech	VAZATI
+Czech	SVAZOVATI
+Slovak	VIAZAT
+Czech_E	ZVAZAT
+Ukrainian	ZV*JAZUVATY
+Byelorussian	VJAZAC*
+Polish	WIAZAC
+Russian	VJAZAT
+Macedonian	VRZE
+Macedonian	POVIE
+Bulgarian	DA-VREZVA
+Serbocroatian	VEZATI

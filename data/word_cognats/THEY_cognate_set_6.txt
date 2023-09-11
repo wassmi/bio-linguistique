@@ -1,0 +1,4 @@
+Italian	ESSI
+Sardinian_N	ISSOS
+Sardinian_L	IPSOS
+Sardinian_C	ISSOS

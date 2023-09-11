@@ -1,0 +1,7 @@
+German_ST	SCHWER
+Penn_Dutch	SCHWAIIR
+Dutch_List	ZWAAR
+Afrikaans	SWAAR
+Flemish	ZWAAR
+Swedish_List	SVAR
+Swedish_List	STOR

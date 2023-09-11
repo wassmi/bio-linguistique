@@ -1,0 +1,5 @@
+Kashmiri	PHALUN
+Kashmiri	PHATUN
+Bengali	PHARA
+Nepali_List	PHARNU
+Khaskura	PHATNU

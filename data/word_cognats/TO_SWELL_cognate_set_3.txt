@@ -1,0 +1,4 @@
+Welsh_N	CHWYDDO
+Welsh_C	CHWYDDO
+Breton_List	C*HOUEZA
+Breton_ST	C*HWEZHAN

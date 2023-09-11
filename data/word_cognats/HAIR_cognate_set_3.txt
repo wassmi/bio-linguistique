@@ -1,0 +1,13 @@
+Italian	PELO
+Provencal	PEU
+Sardinian_N	PILU
+Sardinian_L	PILU
+Sardinian_C	PILU
+Spanish	PELO
+Catalan	PEL
+Italian	CAPELLO
+Provencal	CABEU
+Spanish	CABELLO
+Portuguese_ST	CABELLO
+Brazilian	CABELO
+Catalan	CABELLO

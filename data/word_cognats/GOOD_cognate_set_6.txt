@@ -1,0 +1,5 @@
+Albanian_T	I-MIRE
+Albanian_Top	I-MIRE
+Albanian_G	MIR
+Albanian_K	MIRE
+ALbanian_C	I-MIR

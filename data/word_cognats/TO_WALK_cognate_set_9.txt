@@ -1,0 +1,4 @@
+Sardinian_N	ANNARE
+Portuguese_ST	ANDAR
+Brazilian	ANDAR-A-PE
+Catalan	ANAR

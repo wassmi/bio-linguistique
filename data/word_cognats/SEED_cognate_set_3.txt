@@ -1,0 +1,11 @@
+Albanian_T	FARE
+Albanian_Top	FARE
+Albanian_K	FARE
+ALbanian_C	FAR
+Breton_List	SPER
+Vlach	SPOR
+Greek_ML	SPOROS
+Greek_MD	SPOROS
+Greek_Mod	SPOROS
+Greek_D	SPOROS
+Greek_K	SPOROS

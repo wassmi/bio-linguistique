@@ -1,0 +1,17 @@
+Albanian_T	RENJE
+Albanian_Top	RENE
+Albanian_K	RENE
+ALbanian_C	REN
+Slovenian	KORERUKA
+Lusatian_L	KOREN
+Lusatian_U	KORJEN
+Czech	KOREN
+Slovak	KOREN
+Czech_E	KORENY
+Ukrainian	KORIN*
+Ukrainian	KORINNJA
+Byelorussian	KARIN*
+Polish	KORZEN
+Russian	KOREN
+Bulgarian	KOREN
+Serbocroatian	KOREN

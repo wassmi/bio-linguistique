@@ -1,0 +1,5 @@
+German_ST	FLUGEL
+Penn_Dutch	FLIGGEL
+Dutch_List	VLEUGEL
+Afrikaans	VLEUEL
+Flemish	VLEUGEL

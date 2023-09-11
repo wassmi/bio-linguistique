@@ -1,0 +1,4 @@
+Albanian_Top	NGROTE
+Albanian_G	NGROFET
+Albanian_K	NGROXETE
+ALbanian_C	NGROXT

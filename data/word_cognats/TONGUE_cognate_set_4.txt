@@ -1,0 +1,6 @@
+Kashmiri	ZEV
+Afghan	ZEBA
+Waziri	ZHEBBA
+Persian_List	ZABAN
+Tadzik	ZABON
+Baluchi	ZAWAN

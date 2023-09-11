@@ -1,0 +1,13 @@
+Slovenian	TRAVA
+Lusatian_L	TSAWA
+Lusatian_U	TRAWA
+Czech	TRAVA
+Slovak	TRAVA
+Czech_E	TRAVA
+Ukrainian	TRAVA
+Byelorussian	TRAVA
+Polish	TRAWA
+Russian	TRAVA
+Macedonian	TREVA
+Bulgarian	TREVA
+Serbocroatian	TRAVA

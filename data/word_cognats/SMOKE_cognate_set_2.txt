@@ -1,0 +1,10 @@
+Welsh_N	MWG
+Welsh_C	MWG
+Breton_List	MOGED
+Breton_List	MOGEDENN
+Breton_SE	MOGED
+Breton_ST	MOGED
+Armenian_List	MOOGH
+Penn_Dutch	SCHMOECK
+Sranan	SMOKO
+English	SMOKE

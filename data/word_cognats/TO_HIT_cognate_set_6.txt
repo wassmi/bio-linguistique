@@ -1,0 +1,4 @@
+Greek_ML	CHTUPO
+Greek_MD	CHTUPO
+Greek_Mod	KHTIPO
+Greek_K	KTUPO

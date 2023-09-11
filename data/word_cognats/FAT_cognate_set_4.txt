@@ -1,0 +1,8 @@
+Kashmiri	CARBI
+Marathi	CERBI
+Gujarati	CERBI
+Panjabi_ST	CERBI
+Hindi	CERBI
+Bengali	CORBI
+Armenian_Mod	CARP
+Persian_List	CHARBI

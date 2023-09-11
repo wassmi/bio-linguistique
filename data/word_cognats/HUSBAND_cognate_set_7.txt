@@ -1,0 +1,6 @@
+German_ST	EHEMANN
+Penn_Dutch	MAAN
+Afrikaans	MAN
+Flemish	MAN
+Danish	MAND
+Sranan	MAN

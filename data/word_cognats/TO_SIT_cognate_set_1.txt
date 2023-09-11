@@ -1,0 +1,4 @@
+Persian_List	NESHASTAN
+Tadzik	NISASTAN
+Tadzik	SISTAN
+Baluchi	NISHTA

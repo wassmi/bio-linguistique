@@ -1,0 +1,7 @@
+Afghan	SOR
+Waziri	SOR
+Persian_List	SARD
+Tadzik	SARD
+Baluchi	SARTH
+Wakhi	SUR
+Wakhi	SOZ

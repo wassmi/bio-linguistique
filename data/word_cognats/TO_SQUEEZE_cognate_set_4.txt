@@ -1,0 +1,4 @@
+French_Creole_C	PIZE
+French_Creole_D	PIZE
+Greek_D	PIEDZO
+Greek_K	PIEDZO

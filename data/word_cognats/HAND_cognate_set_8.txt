@@ -1,0 +1,5 @@
+Albanian_T	DORE
+Albanian_Top	DORE
+Albanian_G	DORA
+Albanian_K	DORE
+ALbanian_C	DOR

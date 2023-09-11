@@ -1,0 +1,12 @@
+Slovenian	SE-JGRAT
+Lusatian_L	GRAS
+Lusatian_U	HRAC
+Czech	HRATI
+Slovak	HRAT
+Czech_E	HRAT
+Ukrainian	HRATY
+Polish	GRAC
+Russian	IGRAT
+Macedonian	IGRA
+Bulgarian	DA-IGRAE
+Serbocroatian	IGRATI-SE

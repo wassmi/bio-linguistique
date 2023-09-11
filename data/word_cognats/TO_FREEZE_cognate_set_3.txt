@@ -1,0 +1,14 @@
+Slovenian	ZMRZNE
+Lusatian_L	MARZNUS
+Lusatian_U	MJERZNYC
+Czech	MRZNOUTI
+Slovak	MRZNUT
+Czech_E	ZMRZNUT
+Ukrainian	MERZNUTY
+Byelorussian	ZJAMARATYVAC*
+Polish	ZAMARZAC
+Russian	ZAMERZAT
+Macedonian	MRAZI
+Macedonian	MRZNE
+Bulgarian	DA-ZAMREZVA
+Albanian_G	MERDHIF

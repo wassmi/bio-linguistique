@@ -1,0 +1,12 @@
+Romanian_List	PLOUA
+Italian	PIOVERE
+Ladin	PLOUVER
+Ladin	PLOVER
+Provencal	PLOURE
+French	PLEUVOIR
+Walloon	PLOURE
+Sardinian_N	PROERE
+Sardinian_L	PIOERE
+Sardinian_C	PROI
+Spanish	LLOVER
+Catalan	PLOURER

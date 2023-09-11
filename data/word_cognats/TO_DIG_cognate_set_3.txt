@@ -1,0 +1,4 @@
+Breton_List	KLEUZA
+Breton_List	KLEUZIA
+Breton_SE	KLAUEIN
+Breton_ST	KLEUZIAN

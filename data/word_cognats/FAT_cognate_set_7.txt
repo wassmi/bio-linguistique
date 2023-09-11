@@ -1,0 +1,3 @@
+Irish_A	GEIR
+Russian	ZIR
+Armenian_List	GER

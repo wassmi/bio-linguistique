@@ -1,0 +1,8 @@
+Swedish_Up	BARN
+Swedish_VL	BAN
+Swedish_List	BARN
+Danish	BARN
+Riksmal	BARN
+Icelandic_ST	BARN
+Faroese	BARN
+Latvian	BERNS

@@ -1,0 +1,5 @@
+Dutch_List	REKENEN
+Afrikaans	REKEN
+Swedish_Up	RAKNA
+Swedish_VL	RAKAN
+Swedish_List	RAKNA

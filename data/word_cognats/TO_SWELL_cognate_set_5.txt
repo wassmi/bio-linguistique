@@ -1,0 +1,13 @@
+Romanian_List	UMFLA
+Italian	GONFIARE
+Ladin	IFFLER
+Provencal	ENFLA
+Provencal	GOUNFLA
+French	ENFLER
+Walloon	INFLER
+French_Creole_C	AFLE
+French_Creole_D	AFLE
+Sardinian_N	UFFRARE
+Sardinian_L	UNFIARE
+Sardinian_C	UNFRAI
+Catalan	INFLAR

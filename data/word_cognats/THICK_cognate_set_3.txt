@@ -1,0 +1,9 @@
+Lusatian_L	TLUSTY
+Lusatian_U	TOLSTY
+Czech_E	TLUSTE
+Byelorussian	TAWSTY
+Russian	TOLSTYJ
+Slovenian	GOSTO
+Czech	HUSTY
+Slovak	HUSTY
+Macedonian	GUST

@@ -1,0 +1,9 @@
+German_ST	SAAT
+Dutch_List	ZAAD
+Afrikaans	SAAD
+Flemish	ZAED
+Frisian	SIE
+Frisian	SIED
+Swedish_List	SAD
+Danish	SAED
+English	SEED

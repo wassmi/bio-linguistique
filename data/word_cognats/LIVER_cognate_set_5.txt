@@ -1,0 +1,6 @@
+Romani	KALINJO
+Kashmiri	KALEJA
+Marathi	KALIJ
+Bengali	KOLJE
+Nepali_List	KALEJO
+Khaskura	KALEJO

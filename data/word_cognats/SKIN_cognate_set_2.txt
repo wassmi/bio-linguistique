@@ -1,0 +1,5 @@
+Afghan	POST
+Persian_List	PUST
+Tadzik	PUST
+Baluchi	PHOST
+Wakhi	PIST

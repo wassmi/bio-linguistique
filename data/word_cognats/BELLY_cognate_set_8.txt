@@ -1,0 +1,7 @@
+Lusatian_L	BRUCH
+Lusatian_U	BRJUCH
+Czech	BRICHO
+Slovak	BRUCHO
+Czech_E	BRUX
+Byelorussian	BRUXA
+Polish	BRZUCH

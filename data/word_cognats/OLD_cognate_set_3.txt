@@ -1,0 +1,7 @@
+Swedish_Up	GAMMAL
+Swedish_VL	GAMAL
+Swedish_List	GAMMAL
+Danish	GAMMEL
+Riksmal	GAMMEL
+Icelandic_ST	GAMALL
+Faroese	GAMAL

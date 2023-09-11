@@ -1,0 +1,10 @@
+Marathi	JENGEL
+Gujarati	JENGEE
+Panjabi_ST	JENGEL
+Lahnda	JENGEL
+Hindi	JENGEL
+Bengali	JONGOL
+Afghan	DZANGAL
+Waziri	ZANGAL
+Persian_List	JANGAL
+Tadzik	CANGAL

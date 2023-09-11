@@ -1,0 +1,4 @@
+Italian	SPOSO
+Spanish	ESPOSO
+Portuguese_ST	ESPOSO
+Catalan	ESPOS

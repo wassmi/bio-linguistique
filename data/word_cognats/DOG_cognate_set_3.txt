@@ -1,0 +1,5 @@
+Greek_ML	SKULOS
+Greek_MD	SKULI
+Greek_Mod	SKILI
+Greek_D	SKULOS
+Greek_D	SKOLI

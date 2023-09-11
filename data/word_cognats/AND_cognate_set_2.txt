@@ -1,0 +1,6 @@
+Hindi	OR
+Bengali	AR
+Nepali_List	AU
+Khaskura	ARU
+Afghan	AU
+Waziri	AU

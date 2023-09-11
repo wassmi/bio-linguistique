@@ -1,0 +1,4 @@
+Slovak	CHVOST
+Ukrainian	XVIST
+Byelorussian	XVOST
+Russian	XVOST

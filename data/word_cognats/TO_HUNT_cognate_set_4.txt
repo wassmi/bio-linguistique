@@ -1,0 +1,13 @@
+German_ST	JAGEN
+Dutch_List	JAGEN
+Afrikaans	JAG
+Afrikaans	JA
+Afrikaans	JAE
+Flemish	JAGEN
+Frisian	JEIJE
+Swedish_Up	JAGA
+Swedish_VL	JAGA-JAGA
+Swedish_List	JAGA
+Danish	JAGE
+Riksmal	GA-PA-JAKT
+Slovenian	JAGAT

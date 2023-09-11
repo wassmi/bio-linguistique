@@ -1,0 +1,7 @@
+Swedish_Up	HOGER
+Swedish_VL	HOGAR
+Swedish_List	HOGER
+Danish	HOJRE
+Riksmal	HOYRE
+Icelandic_ST	HAEGRI
+Faroese	HOGRI

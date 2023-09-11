@@ -1,0 +1,4 @@
+Marathi	RESTA
+Gujarati	RESTO
+Hindi	RASTA
+Bengali	RASTA

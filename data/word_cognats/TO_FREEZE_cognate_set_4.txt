@@ -1,0 +1,5 @@
+Ossetic	IX-KAENYN
+Afghan	JAX-KEDEL
+Persian_List	YAKH-BASTAN
+Tadzik	JAX-KARDAN
+Tadzik	JAX-BASTAN

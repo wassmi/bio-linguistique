@@ -1,0 +1,5 @@
+Gujarati	KNERAB
+Hindi	KHERAB
+Bengali	KHARAP
+Waziri	KHAROP
+Baluchi	HARAB

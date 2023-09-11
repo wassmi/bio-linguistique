@@ -1,0 +1,4 @@
+Singhalese	ARA
+Nepali_List	ARU
+Nepali_List	ARKO
+Khaskura	ARKO

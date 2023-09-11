@@ -1,0 +1,4 @@
+Swedish_Up	KOTT
+Swedish_List	KOTT
+Danish	KOD
+Riksmal	KJOTT

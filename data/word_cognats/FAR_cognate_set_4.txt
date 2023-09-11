@@ -1,0 +1,14 @@
+Romani	DUR
+Singhalese	DURA
+Kashmiri	DUR
+Kashmiri	DURU
+Marathi	DUR
+Gujarati	DUR
+Lahnda	DUR
+Hindi	DUR
+Bengali	DUR
+Nepali_List	DUR
+Persian_List	DUR
+Tadzik	DUR
+Baluchi	DIR
+Wakhi	DIR

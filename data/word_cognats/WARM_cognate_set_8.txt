@@ -1,0 +1,3 @@
+Afghan	TOD
+Waziri	TOD
+Armenian_Mod	TOT

@@ -1,0 +1,4 @@
+Portuguese_ST	VARAO
+Lithuanian_O	VYRAS
+Lithuanian_ST	VYRAS
+Latvian	VIRIETIS

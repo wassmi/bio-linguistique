@@ -1,0 +1,4 @@
+Ladin	SELVA
+Provencal	SEUVO
+Portuguese_ST	SELVA
+Brazilian	SELVA

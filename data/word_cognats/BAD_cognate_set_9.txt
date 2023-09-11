@@ -1,0 +1,13 @@
+Ladin	MEL
+Provencal	MARRIT
+French	MAUVAIS
+Walloon	MAL
+French_Creole_C	MOVE
+French_Creole_D	MOVE
+Sardinian_N	MALU
+Sardinian_L	MALU
+Sardinian_C	MALU
+Spanish	MAL
+Portuguese_ST	MAO
+Brazilian	MAU
+Catalan	MAL

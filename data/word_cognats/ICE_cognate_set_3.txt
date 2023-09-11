@@ -1,0 +1,6 @@
+Greek_ML	PAGOS
+Greek_MD	PAGOS
+Greek_Mod	PAGHOS
+Greek_D	PAGOS
+Greek_K	PAGOS
+Albanian_K	PAGHO

@@ -1,0 +1,14 @@
+Slovenian	GORE
+Lusatian_L	GORA
+Lusatian_U	HORA
+Czech	HORA
+Slovak	HORA
+Czech_E	HORA
+Ukrainian	HORA
+Byelorussian	HARA
+Polish	GORA
+Russian	GORA
+Macedonian	GORA
+Serbocroatian	GORA
+Afghan	GAR
+Waziri	GHAR

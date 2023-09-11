@@ -1,0 +1,8 @@
+Vlach	MBLARE
+Italian	MOGLIE
+Ladin	MUGLIER
+Provencal	MOUIE
+Sardinian_N	MUTHTHERE
+Sardinian_C	MULLERI
+Portuguese_ST	MULHER-CASADA
+Catalan	MULLER

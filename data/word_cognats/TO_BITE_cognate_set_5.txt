@@ -1,0 +1,5 @@
+Greek_ML	DAGKANO
+Greek_MD	DAGKANO
+Greek_Mod	DHANGO
+Greek_D	DAGKONO
+Greek_K	DAGEANO

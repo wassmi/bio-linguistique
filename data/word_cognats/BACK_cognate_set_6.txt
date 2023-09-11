@@ -1,0 +1,10 @@
+Romanian_List	DOS
+Italian	DOSSO
+Ladin	DOSS
+Provencal	DOS
+French	DOS
+French_Creole_C	DO
+French_Creole_D	DO
+Sardinian_L	DORSO
+Spanish	DORSO
+Portuguese_ST	DORSO

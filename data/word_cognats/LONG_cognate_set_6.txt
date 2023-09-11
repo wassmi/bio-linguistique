@@ -1,0 +1,4 @@
+Persian_List	DERAZ
+Tadzik	DAROZ
+Baluchi	DRAZH
+Wakhi	DEROZ

@@ -1,0 +1,10 @@
+Slovenian	KOZA
+Lusatian_L	KOZA
+Lusatian_U	KOZA
+Czech	KUZE
+Slovak	KOZA
+Czech_E	KOZA
+Russian	KOZA
+Macedonian	KOZA
+Bulgarian	KOZA
+Serbocroatian	KOZA

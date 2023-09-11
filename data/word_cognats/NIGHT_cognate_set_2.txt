@@ -1,0 +1,14 @@
+Romani	RAKI
+Romani	RAT
+Singhalese	RA
+Kashmiri	RATH
+Marathi	RATRE
+Gujarati	RAT
+Gujarati	RATU
+Panjabi_ST	RAT
+Panjabi_ST	RAT
+Lahnda	RAT
+Hindi	RAT
+Bengali	RAT
+Nepali_List	RAT
+Khaskura	RAT

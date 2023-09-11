@@ -1,0 +1,4 @@
+Panjabi_ST	JER
+Lahnda	JER
+Nepali_List	JARO
+Khaskura	JARA

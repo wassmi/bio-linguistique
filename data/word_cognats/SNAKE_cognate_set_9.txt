@@ -1,0 +1,4 @@
+Swedish_Up	ORM
+Swedish_VL	ORM
+Swedish_List	ORM
+Riksmal	ORM

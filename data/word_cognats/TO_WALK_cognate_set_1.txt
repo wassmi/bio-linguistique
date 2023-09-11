@@ -1,0 +1,6 @@
+Welsh_N	CERDDED
+Welsh_C	CERDDED
+Breton_List	KERZOUT
+Breton_List	KERZET
+Breton_SE	KERHET
+Breton_ST	KERZHOUT

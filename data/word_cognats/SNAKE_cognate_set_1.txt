@@ -1,0 +1,5 @@
+Czech	HAD
+Slovak	HAD
+Czech_E	HAD
+Ukrainian	HADJUKA
+Ukrainian	HADYNA

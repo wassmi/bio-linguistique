@@ -1,0 +1,7 @@
+Kashmiri	TSAM
+Gujarati	CAMERI
+Lahnda	CEMRI
+Hindi	CAM
+Bengali	CAM
+Ossetic	CARM
+Waziri	TSARMAN

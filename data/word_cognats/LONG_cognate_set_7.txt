@@ -1,0 +1,14 @@
+Slovenian	DOVGU
+Lusatian_L	DLUJKI
+Lusatian_U	DOLHI
+Czech	DLOUHY
+Slovak	DLHY
+Czech_E	DLUHE
+Ukrainian	DOVGYJ-E
+Byelorussian	DAWHI
+Byelorussian	DOWHA
+Polish	DLUGI
+Russian	DOLGIJ
+Macedonian	DOLG
+Bulgarian	DELGO
+Serbocroatian	DUG

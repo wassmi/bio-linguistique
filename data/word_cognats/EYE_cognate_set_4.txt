@@ -1,0 +1,5 @@
+Albanian_T	SY
+Albanian_Top	SY
+Albanian_G	SYNI
+Albanian_K	SII
+ALbanian_C	SI

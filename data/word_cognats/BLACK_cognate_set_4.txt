@@ -1,0 +1,16 @@
+Romanian_List	NEGRU
+Italian	NERO
+Ladin	NAIR
+Provencal	NEGRE
+Provencal	EGRO
+French	NOIR
+Walloon	NEUR
+French_Creole_C	NWE
+French_Creole_D	NWE
+Sardinian_N	NIEDDU
+Sardinian_L	NIEDDU
+Sardinian_C	NIEDDU
+Spanish	NEGRO
+Portuguese_ST	NEGRO
+Brazilian	NEGRO
+Catalan	NEGRE

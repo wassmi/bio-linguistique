@@ -1,0 +1,8 @@
+Romani	PHARO
+Singhalese	BARA
+Gujarati	BHARE
+Panjabi_ST	PARA
+Lahnda	BHARI
+Hindi	BHARI
+Bengali	BHARI
+Nepali_List	BHARI

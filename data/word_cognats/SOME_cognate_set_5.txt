@@ -1,0 +1,5 @@
+Lusatian_L	NEKOTARY
+Czech	NEKTERY
+Slovak	NIEKTORY
+Czech_E	NEKERE
+Byelorussian	NEKATORY

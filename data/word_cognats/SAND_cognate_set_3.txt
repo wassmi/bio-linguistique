@@ -1,0 +1,15 @@
+German_ST	SAND
+Penn_Dutch	SONNDT
+Dutch_List	ZAND
+Afrikaans	SAND
+Flemish	ZAND
+Frisian	SAN
+Swedish_Up	SAND
+Swedish_VL	SAN
+Swedish_List	SAND
+Danish	SAND
+Riksmal	SAND
+Icelandic_ST	SANDR
+Faroese	SANDUR
+English	SAND
+Sranan	SANTI

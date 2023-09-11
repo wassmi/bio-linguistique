@@ -1,0 +1,12 @@
+Marathi	VAHNE
+Panjabi_ST	VEGNA
+Persian_List	VAZIDAN
+Tadzik	VAZIDAN
+German_ST	WEHEN
+Dutch_List	WAAIEN
+Afrikaans	WAAI
+Flemish	WAEIJEN
+Frisian	WAEIJE
+Breton_List	C*HOUEZA
+Breton_SE	HUEHEIN
+Breton_ST	C*HWEZHAN

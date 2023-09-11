@@ -1,0 +1,5 @@
+Welsh_N	EIRA
+Welsh_C	EIRA
+Breton_List	ERC*H
+Breton_SE	ERH
+Breton_ST	ERC*H

@@ -1,0 +1,13 @@
+German_ST	DENKEN
+Penn_Dutch	DENK
+Dutch_List	DENKEN
+Afrikaans	DINK
+Flemish	DENKEN
+Frisian	TINKE
+Swedish_Up	TANKA
+Swedish_VL	TANGK
+Swedish_List	TANKA
+Danish	TAENKE
+Riksmal	TENKE
+English	THINK
+Sranan	DENKI

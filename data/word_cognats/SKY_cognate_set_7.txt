@@ -1,0 +1,14 @@
+German_ST	HIMMEL
+Penn_Dutch	HIMMEL
+Dutch_List	HEMEL
+Afrikaans	HEMEL
+Flemish	HEMEL
+Frisian	HIMEL
+Frisian	HIMMEL
+Swedish_Up	HIMMEL
+Swedish_VL	HIMAL
+Swedish_List	HIMMEL
+Danish	HIMMEL
+Riksmal	HIMMEL
+Icelandic_ST	HIMINN
+Faroese	HIMIN

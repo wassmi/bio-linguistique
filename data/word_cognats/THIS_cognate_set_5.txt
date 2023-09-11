@@ -1,0 +1,14 @@
+Romanian_List	ACEST
+Vlach	AESTU
+Italian	QUESTO
+Ladin	QUAIST
+Ladin	QUIST
+Sardinian_N	KUSTU
+Sardinian_L	CUSTU
+Sardinian_C	KUSTU
+Spanish	ESTE
+Portuguese_ST	ESTE
+Portuguese_ST	ISTO
+Brazilian	ESTE
+Catalan	AQUEST
+Catalan	EST

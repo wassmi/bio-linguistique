@@ -1,0 +1,12 @@
+Greek_ML	CHIONI
+Greek_MD	CHIONI
+Greek_Mod	CHYONI
+Greek_D	CHIONI
+Greek_K	CHION
+Singhalese	HIMA
+Kashmiri	SHIN
+Marathi	HIME
+Nepali_List	HIU
+Khaskura	HIUN
+Armenian_Mod	JYUN
+Armenian_List	SZUN

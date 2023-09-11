@@ -1,0 +1,6 @@
+Romanian_List	STA-CULCAT
+Provencal	COUCHA
+French	SE-COUCHER
+Walloon	SI-COUKI
+French_Creole_C	KUSE
+French_Creole_D	KUSE

@@ -1,0 +1,6 @@
+Gujarati	WADEL
+Panjabi_ST	BEDDEL
+Lahnda	BEDDEL
+Hindi	BADEL
+Nepali_List	BADAL
+Khaskura	BADAL

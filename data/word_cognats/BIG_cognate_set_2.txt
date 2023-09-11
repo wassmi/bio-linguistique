@@ -1,0 +1,4 @@
+Irish_A	MOR
+Irish_B	MOR
+Welsh_N	MAWR
+Welsh_C	MAWR

@@ -1,0 +1,17 @@
+Italian	LONTANO
+Provencal	LUEN
+Provencal	LIUEN
+French	LOIN
+Walloon	LON
+French_Creole_C	LWE
+French_Creole_D	LWE
+Sardinian_L	LONTANU
+Spanish	LEJOS
+Portuguese_ST	LONGE
+Brazilian	LONGE
+Catalan	LLUNY
+Swedish_Up	LANGT-BORD
+Swedish_VL	LANGT
+Riksmal	LANGT-BORTE
+Icelandic_ST	LANGT-BURTU
+Faroese	LANGT-BURTUR

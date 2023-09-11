@@ -1,0 +1,6 @@
+Irish_A	SCOILTEADH
+Irish_B	SCOILTIM
+Lithuanian_O	SKELTI
+Lithuanian_ST	SKELTI
+Latvian	SASKALDIT
+Latvian	SASKELT

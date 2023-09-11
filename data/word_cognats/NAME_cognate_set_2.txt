@@ -1,0 +1,6 @@
+Danish	NAVN
+Riksmal	NAVN
+Icelandic_ST	NAFN
+Faroese	NAVN
+Kashmiri	NAV
+Marathi	NAV

@@ -1,0 +1,17 @@
+Lithuanian_O	ZEME
+Lithuanian_ST	ZEME
+Latvian	ZEME
+Slovenian	ZEMLA
+Lusatian_L	ZEMJA
+Lusatian_U	ZEMJA
+Slovak	ZEM
+Czech_E	ZEM
+Ukrainian	ZEMLJA
+Polish	ZIEMIA
+Russian	ZEMLJA
+Macedonian	ZEMJA
+Serbocroatian	ZEMLJA
+Kashmiri	ZAMIN
+Lahnda	ZEMIN
+Persian_List	ZAMIN
+Tadzik	ZAMIN

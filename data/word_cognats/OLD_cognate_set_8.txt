@@ -1,0 +1,4 @@
+Greek_ML	PALEOS
+Greek_Mod	PALYOS
+Greek_D	PALEOS
+Greek_K	PALAIOS

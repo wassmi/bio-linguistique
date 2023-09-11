@@ -1,0 +1,5 @@
+Greek_ML	DZOON
+Greek_MD	DZOO
+Greek_Mod	ZOO
+Greek_D	DZOO
+Greek_K	DZOON

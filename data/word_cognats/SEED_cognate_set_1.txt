@@ -1,0 +1,12 @@
+Singhalese	BIJA
+Kashmiri	BYOLU
+Marathi	BI
+Gujarati	BI
+Panjabi_ST	BI
+Lahnda	BIJ
+Hindi	BIJ
+Bengali	BIJ
+Bengali	BICI
+Nepali_List	BIU
+Khaskura	BIU
+Baluchi	BIJ

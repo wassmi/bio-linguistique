@@ -1,0 +1,4 @@
+Greek_ML	HRICHNO
+Greek_MD	RICHNO
+Greek_Mod	RIKHNO
+Greek_D	RICHNO

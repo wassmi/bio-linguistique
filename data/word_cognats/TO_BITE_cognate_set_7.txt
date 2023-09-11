@@ -1,0 +1,4 @@
+Armenian_Mod	KCEL
+Armenian_List	KHATZNEL
+Afghan	CICEL
+Waziri	CHICHEL

@@ -1,0 +1,5 @@
+Gujarati	SAKRU
+Hindi	SEKRA
+Bengali	SORU
+Nepali_List	SAGURO
+Khaskura	SANGURO

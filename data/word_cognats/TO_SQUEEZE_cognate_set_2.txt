@@ -1,0 +1,5 @@
+Swedish_Up	KLAMMA
+Swedish_VL	KLAM
+Swedish_List	KRAMA
+Swedish_List	KLAMMA
+Riksmal	KLEMME

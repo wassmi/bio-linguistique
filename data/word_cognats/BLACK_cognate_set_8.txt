@@ -1,0 +1,5 @@
+Ladin	MOR
+Greek_ML	MAUROS
+Greek_MD	MAUROS
+Greek_Mod	MAVROS
+Greek_D	MAUROS

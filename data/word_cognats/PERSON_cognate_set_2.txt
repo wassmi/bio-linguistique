@@ -1,0 +1,4 @@
+Albanian_T	NJERI
+Albanian_Top	NERI
+Albanian_G	NJERIU
+Albanian_K	NERII

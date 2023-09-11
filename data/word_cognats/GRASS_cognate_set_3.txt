@@ -1,0 +1,5 @@
+Welsh_N	GWELLT
+Welsh_N	GLASWELLT
+Welsh_N	GWAIR
+Breton_SE	GEAUT
+Breton_ST	GEOT

@@ -1,0 +1,17 @@
+Romanian_List	ACOLO
+Vlach	AKLO
+Italian	LA
+Italian	COLA
+Ladin	ALLO
+Provencal	LA
+Provencal	CAI
+French	LA
+Walloon	LA
+French_Creole_C	LA
+French_Creole_D	LA
+Spanish	ALLA
+Portuguese_ST	ALLI
+Portuguese_ST	ACOLA
+Brazilian	AI
+Brazilian	ALI
+Brazilian	LA

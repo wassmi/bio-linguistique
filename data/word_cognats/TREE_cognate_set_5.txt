@@ -1,0 +1,17 @@
+Swedish_Up	TRA
+Swedish_VL	TRE
+Swedish_VL	TRA
+Swedish_List	TRAD
+Danish	TRAE
+Riksmal	TRE
+Icelandic_ST	TRE
+Faroese	TRAE
+English	TREE
+Slovenian	DREV
+Ukrainian	DEREVO
+Byelorussian	DREVA
+Polish	DRZEWO
+Russian	DEREVO
+Macedonian	DRVO
+Bulgarian	DERVO
+Serbocroatian	DRVO

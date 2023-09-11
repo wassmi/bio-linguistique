@@ -1,0 +1,12 @@
+Romanian_List	MINCA
+Vlach	MYKU
+Italian	MANGIARE
+Ladin	MANGER
+Provencal	MANJA
+French	MANGER
+Walloon	MAGNI
+French_Creole_C	MAZE
+French_Creole_D	MAZE
+Sardinian_N	MANNIKARE
+Sardinian_L	MANDIGARE
+Catalan	MENJAR

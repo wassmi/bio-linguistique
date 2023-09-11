@@ -1,0 +1,4 @@
+Singhalese	KES
+Marathi	KES
+Hindi	KES
+Bengali	KES

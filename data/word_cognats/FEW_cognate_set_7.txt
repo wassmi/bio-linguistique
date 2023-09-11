@@ -1,0 +1,7 @@
+Marathi	THODA
+Gujarati	THORU
+Panjabi_ST	THORA
+Lahnda	THORE
+Hindi	THORA
+Nepali_List	THOR
+Khaskura	THORAI

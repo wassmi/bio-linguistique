@@ -1,0 +1,9 @@
+Lithuanian_O	DULKES
+Lithuanian_ST	DULKES
+Singhalese	DUWILI
+Marathi	DHUL
+Gujarati	DHUL
+Hindi	DHUL
+Bengali	DHULA
+Nepali_List	DHULO
+Khaskura	DHULO

@@ -1,0 +1,10 @@
+Slovenian	PAS
+Lusatian_L	PJAS
+Lusatian_U	POS
+Czech	PES
+Slovak	PES
+Czech_E	PES
+Ukrainian	PES
+Polish	PIES
+Macedonian	PCISTE
+Serbocroatian	PAS

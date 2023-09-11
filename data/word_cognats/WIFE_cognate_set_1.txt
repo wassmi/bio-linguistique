@@ -1,0 +1,5 @@
+Welsh_N	GWRAIG
+Welsh_C	GWRAIG
+Breton_List	GWREG
+Breton_SE	GROEG
+Breton_ST	GWREG

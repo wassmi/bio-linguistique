@@ -1,0 +1,6 @@
+Romanian_List	MIC
+Greek_ML	MIKROS
+Greek_MD	MIKROS
+Greek_Mod	MIKRO
+Greek_D	MIKROS
+Greek_K	MIKROS

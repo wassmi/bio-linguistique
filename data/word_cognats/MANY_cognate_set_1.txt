@@ -1,0 +1,8 @@
+Romanian_List	MULTI
+Romanian_List	MULTE
+Vlach	MULTI
+Italian	MOLTI
+Spanish	MUCHOS
+Portuguese_ST	MUITOS
+Brazilian	MUITOS
+Catalan	MOLT

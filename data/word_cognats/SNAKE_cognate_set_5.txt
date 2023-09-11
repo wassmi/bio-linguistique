@@ -1,0 +1,4 @@
+French_Creole_C	KULEV
+Spanish	CULEBRA
+Portuguese_ST	COBRA
+Brazilian	COBRA

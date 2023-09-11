@@ -1,0 +1,11 @@
+Romani	KAN
+Singhalese	KANA
+Kashmiri	KAN
+Marathi	KAN
+Gujarati	KAN
+Panjabi_ST	KENN
+Lahnda	KEN
+Hindi	KAN
+Bengali	KAN
+Nepali_List	KAN
+Khaskura	KAN

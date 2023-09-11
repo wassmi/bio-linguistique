@@ -1,0 +1,7 @@
+Singhalese	AHASA
+Marathi	AKAS
+Gujarati	AKAS
+Hindi	AKAS
+Bengali	AKAS
+Nepali_List	AKAS
+Khaskura	AKAS

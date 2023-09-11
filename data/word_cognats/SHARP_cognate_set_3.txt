@@ -1,0 +1,11 @@
+German_ST	SCHARF
+Penn_Dutch	SCHARIF
+Dutch_List	SCHERP
+Afrikaans	SKERP
+Flemish	SCHERP
+Frisian	SKERP
+Swedish_List	SKARP
+Danish	SKARP
+Riksmal	SKARP
+English	SHARP
+Sranan	SRAPOE

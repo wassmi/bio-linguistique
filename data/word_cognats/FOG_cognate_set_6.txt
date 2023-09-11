@@ -1,0 +1,6 @@
+Swedish_Up	TJOCKA
+Swedish_List	TJOKA
+Danish	TAAGE
+Riksmal	TAKE
+Icelandic_ST	THOKA
+Faroese	TOKA

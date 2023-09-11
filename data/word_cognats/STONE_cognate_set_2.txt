@@ -1,0 +1,16 @@
+German_ST	STEIN
+Penn_Dutch	SCHTAY
+Dutch_List	STEEN
+Afrikaans	STEEN
+Flemish	STEEN
+Frisian	STIEN
+Swedish_Up	STEN
+Swedish_VL	STEN
+Swedish_List	STEN
+Danish	STEN
+Riksmal	STEN
+Icelandic_ST	STEINN
+Faroese	STEINUR
+English	STONE
+Sranan	STOON
+Sranan	STON

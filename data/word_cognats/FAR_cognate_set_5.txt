@@ -1,0 +1,15 @@
+Panjabi_ST	PERE
+Armenian_Mod	HERU
+Armenian_List	HERU
+Albanian_K	PARE
+Dutch_List	VER
+Afrikaans	VER
+Flemish	VER
+Frisian	FIER
+Swedish_Up	FJARRAN
+Swedish_List	FJARRAN
+Danish	FJERN
+English	FAR
+Sranan	FARAWEI
+Sranan	FARA
+Greek_K	PORRO

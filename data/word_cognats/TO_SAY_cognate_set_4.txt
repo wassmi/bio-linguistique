@@ -1,0 +1,5 @@
+Breton_List	LAVAROUT
+Breton_List	LAVARET
+Breton_List	LARET
+Breton_SE	LARET
+Breton_ST	LAVAROUT

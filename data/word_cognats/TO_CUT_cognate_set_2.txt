@@ -1,0 +1,6 @@
+Albanian_T	ME-PRERE
+Albanian_Top	PRES
+Albanian_Top	PREVA
+Albanian_G	PRES
+Albanian_K	PRES
+ALbanian_C	PRES

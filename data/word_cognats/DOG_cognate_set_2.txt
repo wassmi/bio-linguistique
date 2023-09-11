@@ -1,0 +1,5 @@
+Marathi	KUTRA
+Gujarati	KUTERO
+Panjabi_ST	KUTTA
+Lahnda	KUTTA
+Hindi	KUTTA

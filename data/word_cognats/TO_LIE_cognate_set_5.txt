@@ -1,0 +1,6 @@
+Italian	GIACERE
+Ladin	GIASCHAIR
+Provencal	JAIRE
+Spanish	YACER
+Brazilian	JAZER
+Catalan	JAURER

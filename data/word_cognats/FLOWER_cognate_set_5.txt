@@ -1,0 +1,16 @@
+Lithuanian_O	KVIETKA
+Slovenian	CVET
+Lusatian_L	KWET
+Lusatian_U	KWET
+Czech	KVETINA
+Slovak	KVET
+Czech_E	KVITKO
+Ukrainian	KVITKA
+Ukrainian	CICKA
+Byelorussian	KVETKA
+Polish	KWIAT
+Russian	CVET
+Macedonian	CVET
+Bulgarian	CVETE
+Serbocroatian	CVET
+Armenian_Mod	CATIK

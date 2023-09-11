@@ -1,0 +1,5 @@
+Lithuanian_O	DAUG
+Lithuanian_ST	DAUG
+Latvian	DAUDZ
+Slovenian	DOSTI
+Polish	DUZO

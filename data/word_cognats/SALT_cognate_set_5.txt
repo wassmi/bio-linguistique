@@ -1,0 +1,6 @@
+Romani	LON
+Singhalese	LUNU
+Marathi	LON
+Panjabi_ST	LUN
+Lahnda	LUN
+Bengali	LOBON

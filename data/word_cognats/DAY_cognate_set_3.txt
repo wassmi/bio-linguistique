@@ -1,0 +1,12 @@
+German_ST	TAG
+Penn_Dutch	DAWG
+Dutch_List	DAG
+Afrikaans	DAG
+Flemish	DAG
+Swedish_Up	DAG
+Swedish_VL	DAG
+Swedish_List	DAG
+Danish	DAG
+Riksmal	DAG
+Icelandic_ST	DAGR
+Faroese	DAGUR

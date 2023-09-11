@@ -1,0 +1,16 @@
+Lithuanian_O	VISAS
+Lithuanian_O	VISI
+Lithuanian_ST	VISAS
+Latvian	VISS
+Slovenian	VSE
+Lusatian_L	WSEN
+Lusatian_U	WSON
+Czech	VSE
+Slovak	VSETKO
+Czech_E	FSECKI
+Ukrainian	UVES*
+Byelorussian	WSE
+Byelorussian	WSE
+Polish	WSZYSCY
+Russian	VSE
+Bulgarian	BSICKO

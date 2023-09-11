@@ -1,0 +1,7 @@
+Kashmiri	TEZ
+Lahnda	TEZ
+Hindi	TEJ
+Persian_List	TIZ
+Tadzik	TEZ
+Baluchi	TEZ
+Wakhi	TIZ

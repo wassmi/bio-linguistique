@@ -1,0 +1,5 @@
+Albanian_T	I-GJERE
+Albanian_Top	I-GERE
+Albanian_G	GJAN
+Albanian_K	GERE
+ALbanian_C	I-GER

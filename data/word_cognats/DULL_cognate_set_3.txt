@@ -1,0 +1,7 @@
+German_ST	STUMPF
+Penn_Dutch	SCHTUUMP
+Dutch_List	STOMP
+Afrikaans	STOMP
+Frisian	STOMP
+Sranan	STOMPOE
+Sranan	TOMPOE

@@ -1,0 +1,11 @@
+German_ST	DU
+Penn_Dutch	DU
+Frisian	DOU
+Frisian	DU
+Swedish_Up	DU
+Swedish_VL	DU
+Swedish_List	DU
+Danish	DU
+Riksmal	DU
+Armenian_Mod	DU
+Ossetic	DY

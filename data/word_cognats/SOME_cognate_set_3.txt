@@ -1,0 +1,5 @@
+Dutch_List	SOMMIGE
+Afrikaans	SOMMIGE
+Flemish	SOMMIGE
+English	SOME
+Sranan	SOM

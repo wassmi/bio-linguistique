@@ -1,0 +1,6 @@
+Romanian_List	TAIA
+Vlach	TALU
+Italian	TAGLIARE
+Ladin	TAGLIER
+Walloon	TEYI
+Catalan	TALLAR

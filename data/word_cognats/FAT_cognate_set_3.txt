@@ -1,0 +1,15 @@
+German_ST	FETT
+Penn_Dutch	FETT
+Dutch_List	VET
+Afrikaans	VET
+Flemish	VET
+Frisian	VET
+Swedish_Up	FETT
+Swedish_VL	FET
+Swedish_List	FET
+Danish	FEDT
+Riksmal	FETT
+Icelandic_ST	FITA
+Faroese	FITI
+English	FAT
+Sranan	FATOE

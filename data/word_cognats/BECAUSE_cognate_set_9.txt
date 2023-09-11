@@ -1,0 +1,6 @@
+Albanian_T	SE
+Albanian_T	SEPSE
+Albanian_Top	SE
+Albanian_G	SEPSE
+Albanian_K	PSE
+ALbanian_C	SE

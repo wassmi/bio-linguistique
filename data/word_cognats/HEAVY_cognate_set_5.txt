@@ -1,0 +1,4 @@
+Breton_List	POUNNER
+Breton_SE	PONNER
+Breton_ST	PONNER
+Frisian	POUNICH

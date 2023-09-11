@@ -1,0 +1,16 @@
+Irish_A	AGUS
+Irish_B	AGUS
+Welsh_N	A
+Welsh_C	A
+Breton_List	HA
+Breton_List	HAG
+Breton_SE	HA
+Breton_SE	HAG
+Breton_ST	HA
+Breton_ST	HAG
+Swedish_Up	OCH
+Swedish_List	OCH
+Danish	OG
+Riksmal	OG
+Icelandic_ST	OG
+Faroese	OG

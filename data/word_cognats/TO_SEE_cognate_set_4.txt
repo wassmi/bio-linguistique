@@ -1,0 +1,8 @@
+Romani	DIKHAV
+Panjabi_ST	DEKHNA
+Lahnda	DEKHEN
+Hindi	DEKHNA
+Bengali	DEKHA
+Nepali_List	DEKHNU
+Khaskura	DEKHNU
+Baluchi	DITHA

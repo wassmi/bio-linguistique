@@ -1,0 +1,15 @@
+Lithuanian_ST	RIEKTI
+Latvian	GRIEZT
+Slovenian	REZAT
+Lusatian_L	REZAS
+Lusatian_U	REZAC
+Czech	REZATI
+Slovak	REZAT
+Czech_E	REZAT
+Ukrainian	RIZATY
+Byelorussian	REZAC*
+Russian	REZAT
+Macedonian	PO-REZE
+Macedonian	REZE
+Bulgarian	DA-REZE
+Wakhi	RESED

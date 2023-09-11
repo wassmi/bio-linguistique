@@ -1,0 +1,13 @@
+Slovenian	KEDU
+Lusatian_L	CHTO
+Czech	KDO
+Slovak	KTO
+Czech_E	GDO
+Ukrainian	XTO
+Byelorussian	XTO
+Polish	KTO
+Russian	KTO
+Macedonian	KOJ
+Macedonian	KOJSTO
+Bulgarian	KOJ
+Serbocroatian	TKO

@@ -1,0 +1,12 @@
+Lusatian_L	MYS
+Lusatian_U	MYC
+Czech	MYTI
+Slovak	MYT
+Czech_E	UMIT
+Ukrainian	MYTYSJA
+Ukrainian	MYTY
+Byelorussian	MYC*
+Polish	MYC
+Russian	MYT
+Macedonian	MIE
+Bulgarian	DA-MIE

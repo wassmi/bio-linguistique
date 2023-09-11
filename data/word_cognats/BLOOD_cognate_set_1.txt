@@ -1,0 +1,5 @@
+Welsh_N	GWAED
+Welsh_C	GWAED
+Breton_List	GWAD
+Breton_SE	GOED
+Breton_ST	GWAD

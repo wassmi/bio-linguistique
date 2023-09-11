@@ -1,0 +1,9 @@
+Kashmiri	METSU
+Marathi	MATI
+Gujarati	MATI
+Panjabi_ST	MITTI
+Hindi	MITTI
+Bengali	MATI
+Nepali_List	MATO
+Khaskura	MATO
+Baluchi	MITTI

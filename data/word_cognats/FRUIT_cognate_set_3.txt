@@ -1,0 +1,6 @@
+Afghan	MEVA
+Waziri	MEWA
+Persian_List	MIVE
+Tadzik	MEVA
+Baluchi	MEWA
+Wakhi	MIWA

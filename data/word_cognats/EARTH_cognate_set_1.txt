@@ -1,0 +1,12 @@
+German_ST	ERDE
+Penn_Dutch	AIIRD
+Dutch_List	AARDE
+Afrikaans	AARDE
+Flemish	AERDE
+Frisian	IERDE
+Swedish_Up	JORD
+Swedish_VL	JOL
+Swedish_List	JORD
+Danish	JORD
+Riksmal	JORD
+English	EARTH

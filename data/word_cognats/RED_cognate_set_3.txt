@@ -1,0 +1,11 @@
+Lusatian_L	CERWENY
+Lusatian_U	CERWJENY
+Czech	CERVENY
+Slovak	CERVENY
+Czech_E	CERVENE
+Ukrainian	CERVONYJ
+Byelorussian	CYRVONY
+Polish	CZERWONY
+Macedonian	CRVEN
+Bulgarian	CERVENO
+Serbocroatian	CRVEN

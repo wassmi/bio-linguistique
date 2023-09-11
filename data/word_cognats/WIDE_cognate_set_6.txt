@@ -1,0 +1,4 @@
+Greek_ML	FARDUS
+Greek_MD	FARDUS
+Greek_D	FARDUS
+Greek_K	FARDUS

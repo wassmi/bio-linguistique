@@ -1,0 +1,8 @@
+Kashmiri	ATH
+Kashmiri	YIH
+Gujarati	A
+Panjabi_ST	E
+Lahnda	E
+Hindi	YEH
+Nepali_List	YO
+Khaskura	YO

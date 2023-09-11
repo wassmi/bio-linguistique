@@ -1,0 +1,4 @@
+Gujarati	TERWU
+Panjabi_ST	TERNA
+Lahnda	TAEREN
+Hindi	TERNA

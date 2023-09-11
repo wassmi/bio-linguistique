@@ -1,0 +1,13 @@
+Slovenian	TOM
+Lusatian_L	TAM
+Lusatian_U	TAM
+Czech	TAM
+Slovak	TAM
+Czech_E	TAM
+Ukrainian	TAM
+Byelorussian	TAM
+Polish	TAM
+Russian	TAM
+Macedonian	TAMY
+Bulgarian	TAM
+Serbocroatian	TAMO

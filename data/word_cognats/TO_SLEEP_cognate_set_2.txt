@@ -1,0 +1,8 @@
+German_ST	SCHLAFEN
+Penn_Dutch	SCHLOEF
+Dutch_List	SLAAP
+Afrikaans	SLAAP
+Flemish	SLAPEN
+Frisian	SLIEPE
+English	SLEEP
+Sranan	SLIBI

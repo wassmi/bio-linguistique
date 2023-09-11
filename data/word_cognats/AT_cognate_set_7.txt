@@ -1,0 +1,7 @@
+Lusatian_L	WU
+Czech	U
+Ukrainian	V
+Polish	W
+Russian	V
+Russian	U
+Macedonian	U

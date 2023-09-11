@@ -1,0 +1,12 @@
+Sranan	FOELOE
+German_ST	VIELE
+Penn_Dutch	FIEL
+Dutch_List	VEEL
+Afrikaans	VEEL
+Flemish	VEEL
+Flemish	VELE
+Greek_ML	POLLOI
+Greek_MD	POLLOI
+Greek_Mod	POLI
+Greek_D	POLLOI
+Greek_K	POLLOI

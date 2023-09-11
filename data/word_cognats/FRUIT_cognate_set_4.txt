@@ -1,0 +1,4 @@
+Irish_A	TORADH
+Irish_B	TORADH
+Irish_B	TORAIDH
+Irish_B	TORTHA

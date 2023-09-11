@@ -1,0 +1,5 @@
+Albanian_T	ZORE
+Albanian_Top	ZORE
+Albanian_G	ZORRET
+Albanian_K	ZORE
+ALbanian_C	ZOR

@@ -1,0 +1,5 @@
+Welsh_N	HIR
+Welsh_C	HIR
+Breton_List	HIR
+Breton_SE	HIR
+Breton_ST	HIR

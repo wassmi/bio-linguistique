@@ -1,0 +1,6 @@
+Albanian_T	ME-FJETUR
+Albanian_Top	FLE
+Albanian_Top	FLEJTA
+Albanian_G	FLE
+Albanian_K	FLEE
+ALbanian_C	FLE

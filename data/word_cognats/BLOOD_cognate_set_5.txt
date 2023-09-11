@@ -1,0 +1,5 @@
+Albanian_T	GJAK
+Albanian_Top	GAK
+Albanian_G	GJAKU
+Albanian_K	GAK
+ALbanian_C	GAK

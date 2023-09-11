@@ -1,0 +1,4 @@
+Greek_ML	FOTIA
+Greek_MD	FOTIA
+Greek_Mod	FOTYA
+Greek_D	FOTIA

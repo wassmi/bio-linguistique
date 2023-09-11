@@ -1,0 +1,8 @@
+Romanian_List	MIROSI
+Macedonian	MIRISA
+Bulgarian	DA-POMIRISVA
+Serbocroatian	MIRISATI
+Greek_ML	MURIDZO
+Greek_MD	MURIDZOMAI
+Greek_Mod	MIRIZO
+Greek_D	MURIDZO

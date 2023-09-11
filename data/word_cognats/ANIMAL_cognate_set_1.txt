@@ -1,0 +1,12 @@
+German_ST	TIER
+Penn_Dutch	GEDIER
+Dutch_List	DIER
+Afrikaans	DIER
+Flemish	DIER
+Swedish_Up	DJUR
+Swedish_VL	JUR
+Swedish_List	DJUR
+Danish	DYR
+Riksmal	DYR
+Icelandic_ST	DYR
+Faroese	DYRUR

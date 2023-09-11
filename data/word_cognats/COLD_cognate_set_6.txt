@@ -1,0 +1,5 @@
+Czech	STUDENY
+Slovak	STUDENY
+Byelorussian	S*CJUDZENA
+Macedonian	STRUD
+Bulgarian	STUDENO

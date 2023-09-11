@@ -1,0 +1,16 @@
+Lithuanian_O	AKMUO
+Lithuanian_ST	AKMUO
+Latvian	AKMENS
+Slovenian	KAMEN
+Lusatian_L	KAMEN
+Lusatian_U	KAMJEN
+Czech	KAMEN
+Slovak	KAMEN
+Czech_E	KAMENY
+Ukrainian	KAMIN*
+Byelorussian	KAMEN*
+Polish	KAMIEN
+Russian	KAMEN
+Macedonian	KAMEN
+Bulgarian	KAMEK
+Serbocroatian	KAMEN

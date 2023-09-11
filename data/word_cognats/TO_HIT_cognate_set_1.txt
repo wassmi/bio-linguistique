@@ -1,0 +1,7 @@
+Italian	COLPIRE
+Ladin	COLPIR
+Sardinian_N	KURPIRE
+Sardinian_L	COLPIRE
+Spanish	GOLPEAR
+Brazilian	GOLPEAR
+Catalan	COPEJAR

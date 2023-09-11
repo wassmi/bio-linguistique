@@ -1,0 +1,11 @@
+Singhalese	OHU
+Panjabi_ST	O
+Lahnda	O
+Hindi	VOH
+Hindi	YEH
+Khaskura	U
+Ossetic	YU
+Persian_List	U
+Tadzik	VAJ
+Tadzik	U
+Wakhi	YA

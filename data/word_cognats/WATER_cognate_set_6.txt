@@ -1,0 +1,9 @@
+Romani	PAI
+Kashmiri	PONU
+Marathi	PANI
+Gujarati	PANI
+Panjabi_ST	PANI
+Lahnda	PANI
+Hindi	PANI
+Nepali_List	PANI
+Khaskura	PANI

@@ -1,0 +1,8 @@
+Romanian_List	APROPIAT
+Vlach	APREEPE
+Provencal	PROCHE
+Catalan	PROP
+French	PRES
+Walloon	PRES
+French_Creole_C	PWE
+French_Creole_D	PWE

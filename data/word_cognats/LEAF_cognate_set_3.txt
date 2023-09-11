@@ -1,0 +1,7 @@
+Romani	PATRIN
+Panjabi_ST	PETTA
+Lahnda	PETTA
+Hindi	PETTA
+Bengali	PATA
+Nepali_List	PAT
+Khaskura	PAT

@@ -1,0 +1,8 @@
+Kashmiri	JIGAR
+Panjabi_ST	JIGER
+Lahnda	JIGER
+Ossetic	IGAER
+Persian_List	JEGAR
+Tadzik	CIGAR
+Baluchi	JAGHAR
+Wakhi	JIGAR

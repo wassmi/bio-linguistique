@@ -1,0 +1,4 @@
+German_ST	ATMEN
+Penn_Dutch	ODOM
+Dutch_List	ADEMEN
+Flemish	ADEMEN

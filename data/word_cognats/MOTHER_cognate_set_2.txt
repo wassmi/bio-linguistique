@@ -1,0 +1,13 @@
+Provencal	MAIRE
+French	MERE
+Walloon	MERE
+Catalan	MARE
+Swedish_Up	MOR
+Swedish_VL	MOR
+Riksmal	MOR
+Icelandic_ST	MOOIR
+Armenian_Mod	MAYR
+Armenian_List	MIRE
+Afghan	MOR
+Waziri	MOR
+Waziri	MER

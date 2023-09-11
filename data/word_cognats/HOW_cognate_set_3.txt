@@ -1,0 +1,17 @@
+Romanian_List	CUM
+Vlach	KU
+Italian	COME
+Provencal	COUME
+French	COMMENT
+Walloon	KIMINT
+French_Creole_C	KUMA
+French_Creole_D	KUMA
+Sardinian_N	KOMENTE
+Sardinian_L	COMENTE
+Sardinian_C	KOMMENT
+Spanish	COMO
+Portuguese_ST	COMO
+Brazilian	COMO
+Catalan	COM
+Gujarati	KEM
+Bengali	KEMON

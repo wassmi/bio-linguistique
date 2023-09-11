@@ -1,0 +1,5 @@
+Greek_ML	FOBAMAI
+Greek_MD	FOBAMAI
+Greek_Mod	FOVUME
+Greek_D	FOBAMAI
+Greek_K	FOBOUMAI

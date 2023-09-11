@@ -1,0 +1,9 @@
+Lusatian_L	DUS
+Lusatian_U	DUC
+Slovak	DUT
+Ukrainian	DUTY
+Polish	DAC
+Russian	DUT
+Macedonian	DUVA
+Bulgarian	DA-DUXA
+Serbocroatian	DUVATI

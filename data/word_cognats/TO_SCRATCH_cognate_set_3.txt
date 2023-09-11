@@ -1,0 +1,4 @@
+Byelorussian	CYXACCA
+Russian	CESAT-SJA
+Bulgarian	DA-CESA
+Serbocroatian	CESATI

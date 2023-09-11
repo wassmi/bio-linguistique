@@ -1,0 +1,5 @@
+Lithuanian_O	SKURAS
+Ukrainian	SKURA
+Ukrainian	SKIRA
+Byelorussian	SKURA
+Polish	SKORA

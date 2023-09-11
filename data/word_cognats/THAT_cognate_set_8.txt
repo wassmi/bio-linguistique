@@ -1,0 +1,4 @@
+Breton_List	AN-DRA-ZE
+Breton_List	KEMENT-SE
+Breton_SE	EN-SE
+Breton_ST	AN-SE

@@ -1,0 +1,14 @@
+Kashmiri	JANAWAR
+Marathi	JENAVER
+Gujarati	JANWER
+Gujarati	JENAWER
+Panjabi_ST	JANVER
+Lahnda	JANWER
+Hindi	JANVER
+Bengali	JANOAR
+Nepali_List	JANAWAR
+Khaskura	JANTU
+Waziri	DZANAWAR
+Baluchi	JANWAR
+Baluchi	ZANWAR
+Baluchi	SHANWAR

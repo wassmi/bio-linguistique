@@ -1,0 +1,12 @@
+Romanian_List	SOARE
+Vlach	SWARE
+Kashmiri	SURE
+Marathi	SURYYE
+Gujarati	SURDJ
+Panjabi_ST	SUREJ
+Lahnda	SUREJ
+Hindi	SUREJ
+Bengali	SUJJO
+Bengali	SURJO
+Nepali_List	SURJE
+Khaskura	SURJ

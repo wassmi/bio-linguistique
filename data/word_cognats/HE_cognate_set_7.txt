@@ -1,0 +1,11 @@
+Sardinian_N	ISSE
+Sardinian_L	IPSE
+Sardinian_C	ISSU
+Lithuanian_O	JIS
+Lithuanian_ST	JIS
+Irish_A	SE
+Irish_B	E
+Irish_B	SEISEAN
+Irish_B	SE
+Kashmiri	SUH
+Bengali	SE

@@ -1,0 +1,10 @@
+Kashmiri	SHAH-HYONU
+Marathi	SVAS-GHENE
+Gujarati	SWASLEWO
+Panjabi_ST	SA-LENA
+Lahnda	SA-GHINNEN
+Hindi	SAS-LENA
+Bengali	SAS-PHELA
+Nepali_List	SAS-PHERNU
+Waziri	SAYA
+Baluchi	SAH-ZIRAGH

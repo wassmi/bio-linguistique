@@ -1,0 +1,11 @@
+Italian	COLLO
+Ladin	CULOZ
+Provencal	COU
+Provencal	COUI
+French	COU
+Walloon	CO
+French_Creole_C	KU
+French_Creole_D	KU
+Spanish	CUELLO
+Catalan	COLL
+Catalan	CUA

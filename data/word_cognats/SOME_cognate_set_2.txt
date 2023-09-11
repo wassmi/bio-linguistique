@@ -1,0 +1,3 @@
+Dutch_List	EENIGE
+Afrikaans	ENIGE
+Flemish	EENIGE

@@ -1,0 +1,11 @@
+Vlach	YINU
+Romani	AVAV
+Singhalese	ANAWA
+Kashmiri	YUNU
+Marathi	YENE
+Gujarati	AWEWU
+Panjabi_ST	ONA
+Lahnda	AWEN
+Hindi	ANA
+Nepali_List	AUNU
+Khaskura	ANU

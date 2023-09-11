@@ -1,0 +1,16 @@
+Breton_List	TURGNA
+French	TOURNER
+Walloon	TOURNER
+French_Creole_C	TUNE
+Catalan	TORNAR
+English	TURN
+Welsh_N	TROI
+Welsh_C	TROI
+Breton_SE	TROEIN
+Breton_ST	TREIN
+Penn_Dutch	DRAY
+Afrikaans	OMDRAAI
+Afrikaans	DRAAI
+Flemish	DRAAIJEN
+Frisian	DRAEIJE
+Sranan	DRAI

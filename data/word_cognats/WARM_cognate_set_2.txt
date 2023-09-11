@@ -1,0 +1,7 @@
+Ladin	CHOD
+Provencal	CAUD
+Provencal	AUDO
+French	CHAUD
+Walloon	TCHOD
+French_Creole_C	SO
+French_Creole_D	SO

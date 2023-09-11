@@ -1,0 +1,8 @@
+Provencal	ESPES
+Provencal	ESSO
+French	EPAIS
+Walloon	SPES
+French_Creole_C	EPE
+French_Creole_D	EPE
+Spanish	ESPESO
+Catalan	ESPES

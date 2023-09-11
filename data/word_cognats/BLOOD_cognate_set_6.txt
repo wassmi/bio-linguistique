@@ -1,0 +1,5 @@
+Greek_ML	HAIMA
+Greek_MD	HAIMA
+Greek_Mod	EMA
+Greek_D	HAIMA
+Greek_K	HAIMA

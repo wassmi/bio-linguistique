@@ -1,0 +1,7 @@
+Breton_List	BRUMENN
+Breton_SE	BRUMEN
+Breton_ST	BRUMENN
+French	BROUILLARD
+Walloon	BROULIARD
+Catalan	BOYRA
+Catalan	BROMA

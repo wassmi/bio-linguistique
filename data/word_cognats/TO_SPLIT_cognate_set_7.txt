@@ -1,0 +1,4 @@
+Italian	SPACCARE
+Provencal	ESPECA
+Sardinian_N	ISPAKKARE
+Sardinian_L	ISPACCARE

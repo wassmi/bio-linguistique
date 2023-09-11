@@ -1,0 +1,6 @@
+Swedish_Up	DE
+Swedish_VL	DAM
+Swedish_List	DE
+Danish	DE
+Riksmal	DE
+Sranan	DEM

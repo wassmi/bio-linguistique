@@ -1,0 +1,17 @@
+Lithuanian_O	PAUKSTIS
+Lithuanian_ST	PAUKSTIS
+Latvian	PUTNS
+Slovenian	TICK
+Lusatian_L	PTAK
+Lusatian_U	PTAK
+Czech	PTAK
+Slovak	VTAK
+Czech_E	FTAK
+Ukrainian	PTAX
+Byelorussian	PTUSKA
+Polish	PTAK
+Russian	PTICA
+Macedonian	PTICA
+Bulgarian	PTICA
+Serbocroatian	PTICA
+Greek_K	PTENON

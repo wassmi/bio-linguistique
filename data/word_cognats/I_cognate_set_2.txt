@@ -1,0 +1,8 @@
+Lithuanian_O	AS
+Lithuanian_ST	AS
+Latvian	ES
+Slovenian	JEST
+Macedonian	JAS
+Bulgarian	AZ
+Armenian_Mod	ES
+Armenian_List	YES

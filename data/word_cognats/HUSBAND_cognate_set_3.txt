@@ -1,0 +1,14 @@
+Italian	MARITO
+Ladin	MARID
+Provencal	MARIT
+French	MARI
+French_Creole_C	MAHWI
+French_Creole_D	MAWI
+Sardinian_N	MARITU
+Sardinian_L	MARIDU
+Sardinian_C	MARIRU
+Spanish	MARIDO
+Portuguese_ST	MARIDO
+Brazilian	MARIDO
+Catalan	MARIT
+Baluchi	MARD

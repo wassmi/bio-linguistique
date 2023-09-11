@@ -1,0 +1,4 @@
+Welsh_N	GWASGU
+Welsh_C	GWASGU
+Breton_SE	GOASKEIN
+Breton_ST	GWESKEL

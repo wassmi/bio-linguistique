@@ -1,0 +1,4 @@
+Welsh_N	PLE
+Welsh_C	LLE
+Breton_List	PELEC*H
+Breton_ST	PELEC*H

@@ -1,0 +1,8 @@
+Kashmiri	KHANUN
+Marathi	KHENNE.
+Nepali_List	KHANNU
+Khaskura	KHANNU
+Afghan	KINEL
+Afghan	KINDEL
+Waziri	KANDEL
+Tadzik	KANDAN

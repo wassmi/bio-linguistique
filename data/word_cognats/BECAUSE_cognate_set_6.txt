@@ -1,0 +1,4 @@
+Ukrainian	TOMU-SCO
+Byelorussian	TAMU
+Byelorussian	TAGO-STO
+Russian	POTOMU-CTO

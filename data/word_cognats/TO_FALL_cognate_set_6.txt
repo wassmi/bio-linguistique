@@ -1,0 +1,7 @@
+Romani	PERAV
+Kashmiri	PYONU
+Marathi	PEDNE.
+Gujarati	PERWU
+Bengali	PORA
+Nepali_List	PARNU
+Wakhi	PERVE

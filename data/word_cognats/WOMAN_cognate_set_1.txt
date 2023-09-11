@@ -1,0 +1,4 @@
+German_ST	WEIB
+Penn_Dutch	WEIBSMENSCH
+English	WOMAN
+Sranan	OEMAN

@@ -1,0 +1,5 @@
+Albanian_T	BAR
+Albanian_Top	BAR
+Albanian_G	BAR
+Albanian_K	BAAR
+ALbanian_C	BAR

@@ -1,0 +1,8 @@
+Romanian_List	DRUM
+Romani	DROM
+Greek_ML	DROMOS
+Greek_MD	DROMOS
+Greek_Mod	DHROMOS
+Greek_D	DROMOS
+Albanian_K	DHROM
+ALbanian_C	DHROM

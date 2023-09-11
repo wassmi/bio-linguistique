@@ -1,0 +1,12 @@
+Dutch_List	STROOMEN
+Afrikaans	STROOM
+Flemish	STROMEN
+Frisian	STROME
+Swedish_List	STROMMA
+Swedish_Up	RINNA
+Swedish_VL	RIN
+Swedish_List	RINNA
+Riksmal	RENNE
+Icelandic_ST	RENNA
+Faroese	RENNA
+Sranan	RON

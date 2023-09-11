@@ -1,0 +1,4 @@
+Slovenian	NE
+Albanian_T	NE
+Albanian_Top	NE
+Albanian_K	NDE

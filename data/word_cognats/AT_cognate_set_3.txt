@@ -1,0 +1,6 @@
+Swedish_Up	VID
+Swedish_List	VID
+Danish	VED
+Riksmal	VED
+Icelandic_ST	VIO
+Faroese	VID

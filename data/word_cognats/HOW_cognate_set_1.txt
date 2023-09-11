@@ -1,0 +1,8 @@
+Swedish_Up	HUR
+Swedish_VL	HORA
+Swedish_List	HUR-U
+Danish	HOORLEDES
+Riksmal	HVORLEDES
+Icelandic_ST	HVERNIG
+Icelandic_ST	HVERSU
+Faroese	HVUSSUR

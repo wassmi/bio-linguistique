@@ -1,0 +1,4 @@
+Greek_MD	MERIKOI
+Greek_Mod	MERIKI
+Greek_D	MERIKOI
+Greek_K	MERIKOI

@@ -1,0 +1,11 @@
+Romani	KALO
+Singhalese	KALU
+Kashmiri	KALA
+Marathi	KALA
+Gujarati	KALU
+Panjabi_ST	KALA
+Lahnda	KALA
+Hindi	KALA
+Bengali	KALO
+Nepali_List	KALO
+Khaskura	KALO

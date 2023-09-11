@@ -1,0 +1,11 @@
+Slovenian	NOGA
+Czech	NOHA
+Slovak	NOHA
+Czech_E	NOHA
+Ukrainian	NOGA
+Ukrainian	NIZKA
+Byelorussian	NAGA
+Polish	NOGA
+Russian	NOGA
+Macedonian	NOGA
+Serbocroatian	NOGA

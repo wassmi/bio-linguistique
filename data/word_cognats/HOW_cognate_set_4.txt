@@ -1,0 +1,4 @@
+Dutch_List	HOE
+Afrikaans	HOE
+Flemish	HOE
+English	HOW

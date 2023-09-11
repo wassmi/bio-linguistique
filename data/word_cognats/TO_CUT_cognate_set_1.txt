@@ -1,0 +1,7 @@
+German_ST	SCHNEIDEN
+Penn_Dutch	SCHNEIDT
+Dutch_List	SNIJDEN
+Afrikaans	SNY
+Afrikaans	SNOEI
+Flemish	SNYDEN
+Frisian	SNIJE

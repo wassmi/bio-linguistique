@@ -1,0 +1,4 @@
+Greek_ML	FTERO
+Greek_Mod	FTERO
+Greek_D	FTEROUGA
+Greek_K	PTERUKS

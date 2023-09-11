@@ -1,0 +1,14 @@
+German_ST	HOREN
+Penn_Dutch	HAIIR
+Dutch_List	HOOREN
+Afrikaans	HOOR
+Flemish	HOOREN
+Frisian	HEARE
+Swedish_Up	HORA
+Swedish_VL	HOR
+Swedish_List	HORA
+Danish	HORE
+Riksmal	HORE
+Icelandic_ST	HEYRA
+Faroese	HOYRA
+English	HEAR

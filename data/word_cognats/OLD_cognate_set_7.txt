@@ -1,0 +1,4 @@
+Hindi	BURHA
+Bengali	BURO
+Nepali_List	BURO
+Khaskura	BURO

@@ -1,0 +1,16 @@
+Lithuanian_O	LEDAS
+Lithuanian_ST	LEDAS
+Latvian	LEDUS
+Slovenian	LETT
+Lusatian_L	LOD
+Lusatian_U	LOD
+Czech	LED
+Slovak	AD
+Czech_E	LET
+Ukrainian	LID
+Byelorussian	LED
+Polish	LOD
+Russian	LED
+Macedonian	LED
+Bulgarian	LED
+Serbocroatian	LED

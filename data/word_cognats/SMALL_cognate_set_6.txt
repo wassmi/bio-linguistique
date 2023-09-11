@@ -1,0 +1,7 @@
+Swedish_Up	LITEN
+Swedish_VL	LITN
+Swedish_List	LITEN
+Danish	LILLE
+Riksmal	LITEN
+Icelandic_ST	LITILL
+Faroese	LITIL

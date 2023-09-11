@@ -1,0 +1,4 @@
+Albanian_T	ME-KAFSHUAR
+Albanian_Top	KAFSON
+Albanian_Top	KAFSOVA
+Albanian_G	KAPSHOJ

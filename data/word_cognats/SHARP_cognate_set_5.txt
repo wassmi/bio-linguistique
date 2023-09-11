@@ -1,0 +1,15 @@
+Lithuanian_O	ASTRUS
+Lithuanian_ST	ASTRUS
+Slovenian	OSTER
+Lusatian_L	WOTSY
+Lusatian_U	WOTRY
+Czech	OSTRY
+Slovak	OSTRY
+Czech_E	OSTRE
+Ukrainian	HOCTRYJ
+Byelorussian	VOSTRY
+Polish	OSTRY
+Russian	OSTRYJ
+Macedonian	OSTAR
+Bulgarian	OSTRO
+Serbocroatian	OSTAR

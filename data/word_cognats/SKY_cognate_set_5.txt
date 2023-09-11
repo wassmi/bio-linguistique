@@ -1,0 +1,4 @@
+Welsh_N	AWYR
+Welsh_C	AWYR
+Ossetic	ARV
+Ossetic	UAELARV

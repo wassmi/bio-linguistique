@@ -1,0 +1,13 @@
+Dutch_List	HOOFD
+Afrikaans	HOOF
+Flemish	HOOFD
+Frisian	HAED
+Swedish_Up	HUVUD
+Swedish_VL	HUVA
+Swedish_List	HUVUD
+Danish	HOVED
+Riksmal	HODE
+Icelandic_ST	HOFUO
+Faroese	HOVD
+English	HEAD
+Sranan	HEDE

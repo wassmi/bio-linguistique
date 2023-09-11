@@ -1,0 +1,4 @@
+Romani	PHURO
+Persian_List	PIR
+Tadzik	PIR
+Baluchi	PHIR

@@ -1,0 +1,13 @@
+Marathi	KAHI
+Panjabi_ST	KUS
+Lahnda	KUJH
+Hindi	KUCH
+Hindi	KOI
+Hindi	KEI
+Bengali	KICU
+Nepali_List	KOI
+Khaskura	KOI
+Afghan	CO
+Albanian_Top	CA
+Albanian_K	CA
+ALbanian_C	CA

@@ -1,0 +1,16 @@
+Bengali	BOROP
+Albanian_T	DHBORE
+Albanian_Top	TEBORE
+Albanian_G	BORA
+Albanian_K	BORE
+ALbanian_C	ZBOR
+Gujarati	BEREF
+Panjabi_ST	BEREPH
+Lahnda	BERF
+Lahnda	BERREF
+Hindi	BERPH
+Afghan	VAVRA
+Waziri	WOVRA
+Persian_List	BARF
+Tadzik	BARF
+Baluchi	BAWAR

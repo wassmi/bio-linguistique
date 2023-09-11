@@ -1,0 +1,5 @@
+Albanian_T	KRIPE
+Albanian_Top	KRIPE
+Albanian_G	KRYPA
+Albanian_K	KRIPE
+ALbanian_C	KRIP

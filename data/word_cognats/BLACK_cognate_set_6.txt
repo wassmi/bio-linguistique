@@ -1,0 +1,7 @@
+Armenian_Mod	SEW
+Armenian_List	SEV
+Persian_List	SIAH
+Tadzik	SIEX
+Baluchi	SIYAH
+Wakhi	SU
+Wakhi	SIO

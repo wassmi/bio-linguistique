@@ -1,0 +1,5 @@
+Lusatian_L	STROM
+Lusatian_U	STOM
+Czech	STROM
+Slovak	STROM
+Czech_E	STROM

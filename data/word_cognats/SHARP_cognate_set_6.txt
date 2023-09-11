@@ -1,0 +1,6 @@
+Irish_B	AIGHE
+Sardinian_C	AKKUCCU
+Spanish	AGUDO
+Portuguese_ST	AFIADO
+Brazilian	AFIADO
+Brazilian	AGUCADO

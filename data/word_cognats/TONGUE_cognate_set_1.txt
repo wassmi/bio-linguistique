@@ -1,0 +1,5 @@
+Greek_ML	GLOSSA
+Greek_MD	GLOSSA
+Greek_Mod	GHLOSA
+Greek_D	GLOSSA
+Greek_K	GLOSSA

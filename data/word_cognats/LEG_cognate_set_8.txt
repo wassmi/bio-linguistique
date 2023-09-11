@@ -1,0 +1,4 @@
+Faroese	LEGGUR
+English	LEG
+Waziri	LANGRA
+Wakhi	LENG

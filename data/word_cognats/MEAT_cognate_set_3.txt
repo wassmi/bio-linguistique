@@ -1,0 +1,9 @@
+German_ST	FLEISCH
+Penn_Dutch	FLAYSCH
+Dutch_List	VLEESCH
+Afrikaans	VLEES
+Afrikaans	VLEIS
+Flemish	VLEESCH
+Frisian	FLEIS
+Frisian	FLESK
+Frisian	FLESK

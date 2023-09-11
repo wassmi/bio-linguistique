@@ -1,0 +1,14 @@
+Latvian	SMIETIES
+Slovenian	SMEJAT
+Lusatian_L	SMJAS-SE
+Lusatian_U	SMJEC-SO
+Czech	SMATI-SE
+Slovak	SMIAT-SA
+Czech_E	SMITSA
+Ukrainian	SMIJATYC*
+Byelorussian	C*MJAJACCA
+Polish	SMIAC-SIE
+Russian	SMEJAT-SJA
+Macedonian	NASMEA
+Bulgarian	DA-SE-SMEE
+Serbocroatian	SMIJATI-SE

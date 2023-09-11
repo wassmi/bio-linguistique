@@ -1,0 +1,15 @@
+German_ST	FLIEGEN
+Penn_Dutch	FLIEK
+Dutch_List	VLIEGEN
+Afrikaans	VLIE
+Afrikaans	VLIEG
+Flemish	VLIEGEN
+Swedish_Up	FLYGA
+Swedish_VL	FLYG
+Swedish_List	FLYGA
+Danish	FLYVE
+Riksmal	FLY
+Icelandic_ST	FLJUGA
+Faroese	FLUGVA
+English	FLY
+Sranan	FLEI

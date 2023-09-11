@@ -1,0 +1,5 @@
+Spanish	NINO
+Portuguese_ST	MENINO
+Catalan	NEN
+Catalan	NOY
+Catalan	NIN

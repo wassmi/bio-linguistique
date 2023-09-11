@@ -1,0 +1,15 @@
+Lithuanian_O	BALTAS
+Lithuanian_ST	BALTAS
+Latvian	BALTS
+Lusatian_L	BELY
+Lusatian_U	BELY
+Czech	BILY
+Slovak	BIELY
+Czech_E	BILE
+Ukrainian	BILYJ
+Byelorussian	BELY
+Polish	BIALY
+Russian	BELYJ
+Macedonian	BEL
+Bulgarian	BJALO
+Serbocroatian	BELO

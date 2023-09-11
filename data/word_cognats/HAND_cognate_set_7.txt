@@ -1,0 +1,5 @@
+Greek_ML	CHERI
+Greek_MD	CHERI
+Greek_Mod	CHERI
+Greek_D	CHERI
+Greek_K	CHEIR

@@ -1,0 +1,4 @@
+Ossetic	UAEZZAU
+Persian_List	SANGIN
+Tadzik	VAZNIN
+Tadzik	SANGI-VAZNIN

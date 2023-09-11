@@ -1,0 +1,5 @@
+Albanian_T	I-TRASHE
+Albanian_Top	TRASE
+Albanian_G	TRASH
+Albanian_K	TRAS
+ALbanian_C	I-TRAS

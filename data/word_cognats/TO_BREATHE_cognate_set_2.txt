@@ -1,0 +1,5 @@
+Albanian_T	ME-MANE-FRYME
+Albanian_Top	MAR-FRYME
+Albanian_Top	MORA-FRYME-KAM
+Albanian_G	MARR-FRYM
+Albanian_K	MAR-FRIIME

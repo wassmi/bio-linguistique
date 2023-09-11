@@ -1,0 +1,12 @@
+Lusatian_L	REKA
+Lusatian_U	REKA
+Czech	REKA
+Slovak	RIEKA
+Ukrainian	RICKA
+Ukrainian	RIKA
+Byelorussian	RAKA
+Polish	RZEKA
+Russian	REKA
+Macedonian	REKA
+Bulgarian	REKA
+Serbocroatian	REKA

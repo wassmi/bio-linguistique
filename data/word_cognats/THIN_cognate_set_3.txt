@@ -1,0 +1,7 @@
+Marathi	PATEL
+Gujarati	PATLU
+Panjabi_ST	PETLA
+Lahnda	PETLA
+Hindi	PETLA
+Bengali	PATLA
+Nepali_List	PATALO

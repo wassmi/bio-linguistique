@@ -1,0 +1,5 @@
+Irish_A	COS
+Irish_B	COS
+Irish_B	COISE
+Welsh_N	COES
+Welsh_C	COES

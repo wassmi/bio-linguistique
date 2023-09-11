@@ -1,0 +1,14 @@
+Dutch_List	BEEN
+Dutch_List	BOT
+Afrikaans	BEEN
+Flemish	BEEN
+Frisian	BIEN
+Swedish_Up	BEN
+Swedish_VL	BEN
+Swedish_List	BEN
+Danish	BEN
+Riksmal	BEN
+Icelandic_ST	BEIN
+Faroese	BEIN
+English	BONE
+Sranan	BOON

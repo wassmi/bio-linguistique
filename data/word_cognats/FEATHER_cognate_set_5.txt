@@ -1,0 +1,14 @@
+German_ST	FEDER
+Penn_Dutch	FEDDER
+Dutch_List	VEDER
+Afrikaans	VEER
+Frisian	FEAR
+Swedish_Up	FJADER
+Swedish_VL	FJAR
+Swedish_VL	FJER
+Swedish_List	FJADER
+Danish	FJER
+Riksmal	FJAER
+Icelandic_ST	FJOOUR
+Faroese	FJODUR
+English	FEATHER

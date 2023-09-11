@@ -1,0 +1,14 @@
+German_ST	SCHWIMMEN
+Penn_Dutch	SCHWIMM
+Dutch_List	ZWEMMEN
+Afrikaans	SWEM
+Flemish	ZWEMMEN
+Frisian	SWIMME
+Swedish_Up	SIMMA
+Swedish_VL	SAM-SEM
+Swedish_List	SIMMA
+Danish	SVOMME
+Riksmal	SVOMME
+Faroese	SVIMJA
+English	SWIM
+Sranan	SWEM

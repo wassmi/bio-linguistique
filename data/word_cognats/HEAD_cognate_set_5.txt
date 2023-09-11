@@ -1,0 +1,8 @@
+Italian	TESTA
+Ladin	TESTA
+Provencal	TESTO
+French	TETE
+Walloon	TIESSE
+French_Creole_C	TET
+French_Creole_D	TET
+Sardinian_L	TESTA

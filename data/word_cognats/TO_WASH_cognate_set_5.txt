@@ -1,0 +1,5 @@
+Swedish_Up	TVATTA
+Swedish_VL	TZVAT
+Swedish_List	TVATTA
+Icelandic_ST	THVO
+Faroese	TVAA

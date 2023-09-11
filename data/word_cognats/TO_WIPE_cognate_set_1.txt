@@ -1,0 +1,4 @@
+Dutch_List	VEGEN
+Afrikaans	AFVEE
+Flemish	VEEG
+Frisian	FEIJE

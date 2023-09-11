@@ -1,0 +1,10 @@
+Romanian_List	CARNE
+Vlach	KARNE
+Italian	CARNE
+Ladin	CHARN
+Provencal	CAR
+Walloon	TCHAR
+Spanish	CARNE
+Portuguese_ST	CARNE
+Brazilian	CARNE
+Catalan	CARN

@@ -1,0 +1,15 @@
+German_ST	KOMMEN
+Penn_Dutch	KUUM
+Dutch_List	KOMEN
+Afrikaans	KOM
+Flemish	KOMEN
+Frisian	KOMME
+Swedish_Up	KOMMA
+Swedish_VL	KOMA-KOMA
+Swedish_List	KOMMA
+Danish	KOMME
+Riksmal	KOMME
+Icelandic_ST	KOMA
+Faroese	KOMA
+English	COME
+Sranan	KOM

@@ -1,0 +1,9 @@
+Swedish_Up	GNIDA
+Swedish_Up	GNUGGA
+Swedish_VL	GNI
+Swedish_VL	GNOG
+Swedish_List	GNUGGA
+Swedish_List	GNIDA
+Danish	GNIDE
+Riksmal	GNI
+Faroese	GNIGGJA

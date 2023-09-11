@@ -1,0 +1,14 @@
+Slovenian	SPATI
+Lusatian_L	SPAS
+Lusatian_U	SPAC
+Czech	SPATI
+Slovak	SPAT
+Czech_E	SPAT
+Ukrainian	SPATY
+Ukrainian	ZASYPLJATY
+Byelorussian	SPAC*
+Polish	SPAC
+Russian	SPAT
+Macedonian	SPIE
+Bulgarian	DA-SPI
+Serbocroatian	SPAVATI

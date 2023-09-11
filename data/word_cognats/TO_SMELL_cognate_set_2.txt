@@ -1,0 +1,4 @@
+German_ST	RIECHEN
+Dutch_List	RUIKEN
+Afrikaans	RUIK
+Flemish	RUIKEN

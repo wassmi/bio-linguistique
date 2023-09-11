@@ -1,0 +1,14 @@
+Slovenian	ONI
+Lusatian_L	WONI
+Lusatian_U	WONI
+Czech	ONI
+Slovak	ONI
+Slovak	ONY
+Czech_E	ONI
+Ukrainian	VONY
+Byelorussian	JANY
+Polish	ONI
+Russian	ONI
+Macedonian	ONI
+Serbocroatian	ONI
+Latvian	VINI

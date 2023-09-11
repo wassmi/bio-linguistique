@@ -1,0 +1,8 @@
+German_ST	WOLKE
+Penn_Dutch	WULLG
+Dutch_List	WOLK
+Afrikaans	WOLK
+Flemish	WOLK
+Frisian	WOLK
+Frisian	WOLKE
+Sranan	WOLKOE

@@ -1,0 +1,7 @@
+Slovenian	DEZ
+Slovenian	DES-PADA
+Lusatian_L	DESC
+Lusatian_U	DESC
+Ukrainian	PADE-DOSC
+Polish	DESZCZ-PADA
+Russian	DOZD-IDET

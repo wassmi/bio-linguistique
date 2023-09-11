@@ -1,0 +1,14 @@
+Slovenian	DALEC
+Lusatian_L	DALOKI
+Lusatian_U	DALOKI
+Czech	DALEKO
+Slovak	ALEKY
+Czech_E	DALEKO
+Ukrainian	DALEKO
+Byelorussian	DALEKI
+Byelorussian	DALEKA
+Polish	DALEKO
+Russian	DALEKO
+Macedonian	DALEKU
+Bulgarian	DALEC
+Serbocroatian	DALEK

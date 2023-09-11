@@ -1,0 +1,17 @@
+Breton_List	KORDENN
+Breton_SE	KORDENN
+Breton_ST	KORDENN
+Italian	CORDA
+Ladin	CORDA
+Provencal	CORDO
+French	CORDE
+Walloon	CWEDE
+French_Creole_C	KOD
+French_Creole_D	KOD
+Spanish	CUERDA
+Portuguese_ST	CORDA
+Brazilian	CORDA
+Catalan	CORDA
+Catalan	CORDILL
+Dutch_List	KOORD
+Greek_K	CHONDRON

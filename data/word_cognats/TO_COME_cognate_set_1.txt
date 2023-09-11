@@ -1,0 +1,6 @@
+Welsh_N	DOD
+Welsh_C	DYFOD
+Breton_List	DONET
+Breton_List	DONT
+Breton_SE	DONET
+Breton_ST	DONT

@@ -1,0 +1,10 @@
+Romanian_List	FICAT
+Italian	FEGATO
+Provencal	FEGE
+Walloon	FEUTE
+Sardinian_C	FIGAU
+Spanish	HIGADO
+Portuguese_ST	FIGADO
+Brazilian	FIGADO
+Catalan	FETGE
+ALbanian_C	U-FIGHATU

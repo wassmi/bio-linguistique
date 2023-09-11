@@ -1,0 +1,7 @@
+Walloon	I
+Breton_List	I
+Breton_List	INT
+Breton_SE	I
+Breton_SE	INT
+Breton_ST	I
+Breton_ST	INT

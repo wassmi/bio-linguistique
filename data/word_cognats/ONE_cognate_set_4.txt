@@ -1,0 +1,13 @@
+Slovenian	ADEN
+Lusatian_L	JADEN
+Lusatian_U	JEDYN
+Czech	JEDEN
+Slovak	JEDEN
+Czech_E	YEDEN
+Ukrainian	ODYN
+Byelorussian	ADZIN
+Polish	JEDEN
+Russian	ODIN
+Macedonian	EDEN
+Bulgarian	EDNO
+Serbocroatian	JEDAN
